@@ -1,88 +1,88 @@
-Substance,Hcp
-Oxygen,1.2e-05
-Ozone,0.0001
-Hydrogen atom,2.6e-06
-Hydrogen,7.8e-06
-Deuterium,7.9e-06
-Hydroxyl radical,0.38
-Hydroperoxy radical,6.8
-Hydrogen peroxide,910
-Nitrogen,6.4e-06
-Ammonia,0.59
-Hydrazoic acid,0.12
-Hydrazine,16
-Dinitrogen monoxide,0.00024
-Nitrogen monoxide,1.9e-05
-Nitrogen dioxide,9.9e-05
-Nitrogen trioxide,0.00038
-Dinitrogen trioxide,0.0059
-Dinitrogen tetroxide,0.014
-Dinitrogen pentoxide,0.021
-Hydroxylamine,1400
-Nitrous acid,0.48
-Nitric acid,880
-Pernitric acid,0.39
-Fluorine atom,0.0002
-Hydrogen fluoride,130
-Difluorine monoxide,2.9e-05
-Nitrogen trifluoride,7.9e-06
-Dinitrogen tetrafluoride,8.4e-06
-Chlorine (molecular)cl2,0.00092
-Chlorine atom,0.023
-Hypochlorous acid,6.5
-Perchloric acid,9900
-Monochlorine monoxide,0.007
-Dichlorine monoxide,0.17
-Chlorine dioxide,0.1
-Nitrosyl chloride,0.00049
-Nitryl chloride,0.00045
-Chloramine,0.86
-Dichloramine,0.29
-Nitrogen trichloride,0.00099
-Bromine (molecular)br2,0.0072
-Bromine atom,0.012
-Hypobromous acid,1.3
-Nitryl bromide,0.003
-Bromine chloride,0.0097
-Iodine (molecular)i2,0.028
-Iodine atom,0.00079
-Hypoiodous acid,4.1
-Iodine chloride,1.1
-Iodine bromide,0.24
-Hydrogen sulfide,0.001
-Sulfur dioxide,0.013
-Sulfur hexafluoride,2.4e-06
-Sulfuryl fluoride,8.9e-05
-Helium,3.9e-06
-Neon,4.5e-06
-Argon,1.4e-05
-Krypton,2.5e-05
-Xenon,4.4e-05
-Radon,9.1e-05
-Boric acid,3.8e+06
-Selenium hydride,0.00083
-Phosphorus trihydride,8.1e-05
-Arsenic hydride,8.8e-05
-Mercury,0.0011
-Mercury(ii) oxide,32000
-Mercury dihydroxide,130
-Mercury dichloride,1000
-Mercury dibromide,1200
-Mercury diiodide,57
-Methane,1.4e-05
-Ethane,1.9e-05
-Propane,1.5e-05
-Butane,1.2e-05
+Species,Hcp
+oxygen,1.2e-05
+ozone,0.0001
+hydrogen atom,2.6e-06
+hydrogen,7.8e-06
+deuterium,7.9e-06
+hydroxyl radical,0.38
+hydroperoxy radical,6.8
+hydrogen peroxide,910
+nitrogen,6.4e-06
+ammonia,0.59
+hydrazoic acid,0.12
+hydrazine,16
+dinitrogen monoxide,0.00024
+nitrogen monoxide,1.9e-05
+nitrogen dioxide,9.9e-05
+nitrogen trioxide,0.00038
+dinitrogen trioxide,0.0059
+dinitrogen tetroxide,0.014
+dinitrogen pentoxide,0.021
+hydroxylamine,1400
+nitrous acid,0.48
+nitric acid,880
+pernitric acid,0.39
+fluorine atom,0.0002
+hydrogen fluoride,130
+difluorine monoxide,2.9e-05
+nitrogen trifluoride,7.9e-06
+dinitrogen tetrafluoride,8.4e-06
+chlorine (molecular)Cl2,0.00092
+chlorine atom,0.023
+hypochlorous acid,6.5
+perchloric acid,9900
+monochlorine monoxide,0.007
+dichlorine monoxide,0.17
+chlorine dioxide,0.1
+nitrosyl chloride,0.00049
+nitryl chloride,0.00045
+chloramine,0.86
+dichloramine,0.29
+nitrogen trichloride,0.00099
+bromine (molecular)Br2,0.0072
+bromine atom,0.012
+hypobromous acid,1.3
+nitryl bromide,0.003
+bromine chloride,0.0097
+iodine (molecular)I2,0.028
+iodine atom,0.00079
+hypoiodous acid,4.1
+iodine chloride,1.1
+iodine bromide,0.24
+hydrogen sulfide,0.001
+sulfur dioxide,0.013
+sulfur hexafluoride,2.4e-06
+sulfuryl fluoride,8.9e-05
+helium,3.9e-06
+neon,4.5e-06
+argon,1.4e-05
+krypton,2.5e-05
+xenon,4.4e-05
+radon,9.1e-05
+boric acid,3.8e+06
+selenium hydride,0.00083
+phosphorus trihydride,8.1e-05
+arsenic hydride,8.8e-05
+mercury,0.0011
+mercury(II) oxide,32000
+mercury dihydroxide,130
+mercury dichloride,1000
+mercury dibromide,1200
+mercury diiodide,57
+methane,1.4e-05
+ethane,1.9e-05
+propane,1.5e-05
+butane,1.2e-05
 2-methylpropane,9.1e-06
-Pentane,8e-06
+pentane,8e-06
 2-methylbutane,7.2e-06
-Dimethylpropane,2.7e-06
-Hexane,6.1e-06
+dimethylpropane,2.7e-06
+hexane,6.1e-06
 2-methylpentane,5.9e-06
 3-methylpentane,5.8e-06
 "2,2-dimethylbutane",5.8e-06
 "2,3-dimethylbutane",7.7e-06
-Heptane,4.4e-06
+heptane,4.4e-06
 2-methylhexane,2.9e-06
 3-methylhexane,4.2e-06
 "2,2-dimethylpentane",3.1e-06
@@ -91,7 +91,7 @@ Heptane,4.4e-06
 "3,3-dimethylpentane",0.54
 3-ethylpentane,5.3e-06
 "2,2,3-trimethylbutane",3.2e-06
-Octane,3.1e-06
+octane,3.1e-06
 2-methylheptane,2.9e-06
 3-methylheptane,0.27
 4-methylheptane,3e-06
@@ -109,7 +109,7 @@ Octane,3.1e-06
 3-ethyl-2-methylpentane,3.6e-06
 3-ethyl-3-methylpentane,4.5e-06
 "2,2,3,3-tetramethylbutane",3.4e-06
-Nonane,2e-06
+nonane,2e-06
 2-methyloctane,1.9e-06
 3-methyloctane,2.4e-06
 4-methyloctane,1e-06
@@ -143,7 +143,7 @@ Nonane,2e-06
 "3-ethyl-2,2-dimethylpentane",1.9e-06
 "3-ethyl-2,3-dimethylpentane",3.5e-06
 "3-ethyl-2,4-dimethylpentane",1.9e-06
-Decane,1.4e-06
+decane,1.4e-06
 2-methylnonane,1.5e-06
 3-methylnonane,1.7e-06
 4-methylnonane,1.6e-06
@@ -218,72 +218,72 @@ Decane,1.4e-06
 "3-ethyl-2,3,4-trimethylpentane",1.5e-06
 "3,3-diethyl-2-methylpentane",2.3e-06
 "2,4-dimethyl-3-(1-methylethyl)-pentane",1e-06
-Undecane,5.4e-07
-Dodecane,1.3e-06
+undecane,5.4e-07
+dodecane,1.3e-06
 "2,2,4,6,6-pentamethylheptane",1.1e-06
-Tridecane,7.9e-07
-Tetradecane,1.1e-06
-Pentadecane,7.6e-07
-Hexadecane,2.6e-06
-Heptadecane,2.2e-07
-Octadecane,0.16
-Nonadecane,1.3e-07
-Eicosane,5e-06
-Heneicosane,7.3e-08
-Docosane,5.4e-08
-Tricosane,4.1e+08
-Tetracosane,3.1e-08
-Pentacosane,1.5e-08
-Hexacosane,5e-05
-Heptacosane,7.7e-09
-Octacosane,5.6e-09
-Nonacosane,4e-09
-Triacontane,2.9e-09
-Dotriacontane,0.15
-Pentatriacontane,5.8e-10
-Hexatriacontane,8.6e+08
-Octatriacontane,2.2e-10
-Cyclopropane,0.00011
-Cyclobutane,7e-05
-Cyclopentane,5.4e-05
-Cyclohexane,0.56
-Cycloheptane,8.2e-05
-Cyclooctane,7.1e-05
-Methylcyclopentane,2.7e-05
-Methylcyclohexane,2.5e-05
-Methylcyclohexane-d14,0.00031
-Ethylcyclohexane,2.1e-05
-Methylcycloheptane,2.1e-05
+tridecane,7.9e-07
+tetradecane,1.1e-06
+pentadecane,7.6e-07
+hexadecane,2.6e-06
+heptadecane,2.2e-07
+octadecane,0.16
+nonadecane,1.3e-07
+eicosane,5e-06
+heneicosane,7.3e-08
+docosane,5.4e-08
+tricosane,4.1e+08
+tetracosane,3.1e-08
+pentacosane,1.5e-08
+hexacosane,5e-05
+heptacosane,7.7e-09
+octacosane,5.6e-09
+nonacosane,4e-09
+triacontane,2.9e-09
+dotriacontane,0.15
+pentatriacontane,5.8e-10
+hexatriacontane,8.6e+08
+octatriacontane,2.2e-10
+cyclopropane,0.00011
+cyclobutane,7e-05
+cyclopentane,5.4e-05
+cyclohexane,0.56
+cycloheptane,8.2e-05
+cyclooctane,7.1e-05
+methylcyclopentane,2.7e-05
+methylcyclohexane,2.5e-05
+methylcyclohexane-d14,0.00031
+ethylcyclohexane,2.1e-05
+methylcycloheptane,2.1e-05
 "1,2-dimethylcyclohexane",2.1e-05
-"Cis-1,2-dimethylcyclohexane",2.8e-05
-"Trans-1,2-dimethylcyclohexane",0.17
+"cis-1,2-dimethylcyclohexane",2.8e-05
+"trans-1,2-dimethylcyclohexane",0.17
 "1,4-dimethylcyclohexane",1.5e-05
-"Trans-1,4-dimethylcyclohexane",1.1e-05
+"trans-1,4-dimethylcyclohexane",1.1e-05
 "1,1,2-trimethylcyclopentane",6.9e-06
 "1,1,3-trimethylcyclopentane",6.3e-06
 "1,1,3-trimethylcyclohexane",9.5e-06
-Propylcyclopentane,1.1e-05
-Pentylcyclopentane,5.4e-06
-Cyclooctene,0.00021
-Decahydronaphthalene,0.72
-Octahydro-1h-indene,8.8e-05
+propylcyclopentane,1.1e-05
+pentylcyclopentane,5.4e-06
+cyclooctene,0.00021
+decahydronaphthalene,0.72
+octahydro-1H-indene,8.8e-05
 "2,6,6-trimethylbicyclo[3.1.1]heptane",2.8e-05
 "1,1’-bicyclohexyl",3.1e-05
-Cyclododecane,6.4e-06
-"Octahydro-1,1,2,3,3-pentamethyl-1h-indene",9e-06
+cyclododecane,6.4e-06
+"octahydro-1,1,2,3,3-pentamethyl-1H-indene",9e-06
 "1,1’:3’,1”-tercyclohexane",6.7e-06
 "1,1’-(2-methylpentane-2,4-diyl)dicyclohexane",2.9e-06
-Ethene,5.9e-05
-Propene,4.7e-05
+ethene,5.9e-05
+propene,4.7e-05
 1-butene,0.00013
 2-butene,5.1e-05
-Cis-2-butene,0.55
-Trans-2-butene,3.9e-05
+cis-2-butene,0.55
+trans-2-butene,3.9e-05
 2-methylpropene,5.6e-05
 1-pentene,2.5e-05
 2-pentene,4.4e-05
-Cis-2-pentene,4.4e-05
-Trans-2-pentene,4.2e-05
+cis-2-pentene,4.4e-05
+trans-2-pentene,4.2e-05
 2-methyl-1-butene,2.3e-05
 2-methyl-2-butene,7.4e-05
 3-methyl-1-butene,0.18
@@ -293,7 +293,7 @@ Trans-2-pentene,4.2e-05
 "2,3-dimethyl-1-butene",1.7e-05
 1-heptene,2.3e-05
 2-heptene,1.7e-05
-Trans-2-heptene,2.4e-05
+trans-2-heptene,2.4e-05
 1-octene,1e-05
 "2,4,4-trimethyl-1-pentene",1.3e-05
 "2,4,4-trimethyl-2-pentene",1.1e-05
@@ -317,12 +317,12 @@ Trans-2-heptene,2.4e-05
 "2,3-dimethyl-1,3-butadiene",0.0002
 "1,6-heptadiene",4.6e-05
 1-methylcyclopropene,0.00025
-Cyclopentene,0.23
-Cyclohexene,0.00033
+cyclopentene,0.23
+cyclohexene,0.00033
 1-methylcyclopentene,0.00024
-Cycloheptene,0.00026
+cycloheptene,0.00026
 1-methylcyclohexene,0.00012
-"1,1,2,3,3-pentamethyl-2,3,4,5,6,7-hexahydro-1h-indene",2.5e-05
+"1,1,2,3,3-pentamethyl-2,3,4,5,6,7-hexahydro-1H-indene",2.5e-05
 "1,3-cyclopentadiene",0.00047
 "1,3-cyclohexadiene",0.0011
 "1,4-cyclohexadiene",0.0011
@@ -331,10 +331,10 @@ Cycloheptene,0.00026
 1-ethenylcyclohexene,0.00077
 4-ethenylcyclohexene,0.00022
 "1,3,5,7-cyclooctatetraene",0.036
-"3a,4,7,7a-tetrahydro-4,7-methano-1h-indene",0.00016
+"3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",0.00016
 "1,5,9-cyclododecatriene",0.00033
-Ethyne,0.00041
-Propyne,0.0009
+ethyne,0.00041
+propyne,0.0009
 1-butyne,0.00052
 2-butyne,0.0019
 1-pentyne,0.0004
@@ -347,11 +347,11 @@ Propyne,0.0009
 2-octyne,0.00022
 1-nonyne,6.9e-05
 3-buten-1-yne,0.00037
-Butadiyne,0.2
-Benzene,0.0017
-Benzene-d6,0.0018
-Methylbenzene,0.0015
-Methylbenzene-d8,0.002
+butadiyne,0.2
+benzene,0.0017
+benzene-d6,0.0018
+methylbenzene,0.0015
+methylbenzene-d8,0.002
 "1,2-dimethylbenzene",0.0024
 "1,2-dimethylbenzene-d10",0.003
 "1,3-dimethylbenzene",1400
@@ -361,46 +361,46 @@ Methylbenzene-d8,0.002
 "1,3,5-trimethylbenzene",0.0017
 "1,2,3,5-tetramethylbenzene",0.12
 "1,2,4,5-tetramethylbenzene",0.00039
-Ethylbenzene,0.0014
-Ethylbenzene-d10,0.002
+ethylbenzene,0.0014
+ethylbenzene-d10,0.002
 "1,2-diethylbenzene",0.0038
 "1,3-diethylbenzene",0.0011
 "1,4-diethylbenzene",0.0014
-Propylbenzene,0.14
+propylbenzene,0.14
 1-ethyl-2-methylbenzene,0.0023
 1-ethyl-3-methylbenzene,0.0013
 1-ethyl-4-methylbenzene,0.002
-Butylbenzene,0.00077
+butylbenzene,0.00077
 1-methyl-2-(1-methylethyl)-benzene,0.0009
 1-methyl-3-(1-methylethyl)-benzene,0.0014
 1-methyl-4-(1-methylethyl)-benzene,0.0013
 4-tert-butyltoluene,0.00064
-Pentylbenzene,0.0017
-Pentamethylbenzene,0.0077
-Hexylbenzene,0.00046
-Hexamethylbenzene,0.0086
+pentylbenzene,0.0017
+pentamethylbenzene,0.0077
+hexylbenzene,0.00046
+hexamethylbenzene,0.0086
 4-tert-butyl-o-xylene,0.00058
 "1-(1,1-dimethylethyl)-3,5-dimethylbenzene",0.58
-Diisopropylbenzene,0.00048
-Heptylbenzene,0.022
+diisopropylbenzene,0.00048
+heptylbenzene,0.022
 "5-tert-butyl-1,2,3-trimethylbenzene",0.00053
-Octylbenzene,0.054
+octylbenzene,0.054
 "3,5-di-tert-butyltoluene",0.0037
 "1,3,5-tris(1-methylethyl)benzene",0.00025
-Ethyl(phenylethyl)-benzene,0.011
+ethyl(phenylethyl)-benzene,0.011
 1-phenyldecane,0.00013
 4-(1-phenylethyl)-m-xylene,0.013
-Undecylbenzene,9.9e-05
-Dodecylbenzene,0.76
-Tridecylbenzene,5.5e-05
-Tetradecylbenzene,4.2e-05
-Pentadecylbenzene,1.2e-05
-Ethenylbenzene,2700
+undecylbenzene,9.9e-05
+dodecylbenzene,0.76
+tridecylbenzene,5.5e-05
+tetradecylbenzene,4.2e-05
+pentadecylbenzene,1.2e-05
+ethenylbenzene,2700
 1-propenylbenzene,0.0037
 2-propenylbenzene,0.0014
 1-ethenyl-3-methylbenzene,0.0031
 1-ethenyl-4-methylbenzene,0.31
-Phenylacetylene,0.0039
+phenylacetylene,0.0039
 1-methyl-4-(1-methylethyl)-cyclohexane,5.6e-06
 "1-methyl-4-(1-methylethyl)-1,3-cyclohexadiene",0.29
 "1-methyl-4-(1-methylethyl)-1,4-cyclohexadiene",0.00038
@@ -413,24 +413,24 @@ Phenylacetylene,0.0039
 "3,7-dimethyl-1,3,6-octatriene",0.0004
 "2,2-dimethyl-3-methylene-bicyclo[2.2.1]heptane",0.0001
 4-methylene-1-(1-methylethyl)-bicyclo[3.1.0]hexane,0.00016
-"Tricyclo[3.3.1.1(3,7)]decane",0.0008
-"Bis(1-methylethyl)-1,1’-biphenyl",0.0045
+"tricyclo[3.3.1.1(3,7)]decane",0.0008
+"bis(1-methylethyl)-1,1’-biphenyl",0.0045
 "1,1-bis(3,4-dimethylphenyl)ethane",0.1
 1-benzyl-2-(2-methylbenzyl)benzene,0.21
 "2,5-dibenzyltoluene",0.21
-Biphenyl,0.036
+biphenyl,0.036
 "2-methyl-1,1’-biphenyl",0.022
 "3-methyl-1,1’-biphenyl",0.015
 "4-methyl-1,1’-biphenyl",0.16
-Diphenylmethane,0.076
+diphenylmethane,0.076
 "1,2-diphenylethane",0.059
-O-terphenyl,0.16
-M-terphenyl,2.8
-Indene,0.0062
+o-terphenyl,0.16
+m-terphenyl,2.8
+indene,0.0062
 5-ethylidene-2-norbornene,7.6e-05
-Azulene,0.15
-Naphthalene,0.021
-Naphthalene-d8,0.035
+azulene,0.15
+naphthalene,0.021
+naphthalene-d8,0.035
 1-methylnaphthalene,0.22
 1-methylnaphthalene-d10,0.046
 2-methylnaphthalene,0.018
@@ -445,62 +445,62 @@ Naphthalene-d8,0.035
 "1,4,5-trimethylnaphthalene",0.018
 2-(1-methylethyl)naphthalene,0.012
 "1,2-bis(isopropyl)naphthalene",0.0078
-Acenaphthene,0.072
-Acenaphthylene,0.082
-Phenanthrene,0.23
+acenaphthene,0.072
+acenaphthylene,0.082
+phenanthrene,0.23
 1-methylphenanthrene,0.2
 "9,10-dihydrophenanthrene",0.12
 "2,3-benzindene",0.11
-Benzo[a]fluorene,0.37
-Anthracene,0.2
+benzo[a]fluorene,0.37
+anthracene,0.2
 9-methylanthracene,0.61
 "9,10-dimethylanthracene",1.8
-Pyrene,0.75
+pyrene,0.75
 1-methylpyrene,3.1
 2-methylpyrene,3.1
 "2,7-dimethylpyrene",2.9
-Chrysene,2.3
-Naphthacene,360
-Benzo[jk]fluorene,0.69
-Benz[a]anthracene,1.4
+chrysene,2.3
+naphthacene,360
+benzo[jk]fluorene,0.69
+benz[a]anthracene,1.4
 7-methylbenz[a]anthracene,5.2
 10-methylbenz[a]anthracene,5.2
 12-methylbenz[a]anthracene,5.2
 "7,12-dimethyl-benz[a]anthracene",5100
 20-methylcholanthrene,1.9
-Benzo[b]fluoranthene,15
-Benzo[k]fluoranthene,17
-Benzo[a]pyrene,0.2
-Benzo[e]pyrene,33
-"Dibenzo[a,e]pyrene",700
-"Dibenzo[a,h]pyrene",700
-"Dibenzo[a, i]pyrene",700
-"Dibenz[a,h]anthracene",180
-"Indeno[1,2,3-cd]pyrene",29
-Benzo[ghi]perylene,30
-Benzo[b]triphenylene,19
-"Dibenz[a,j ]anthracene",86
-Picene,6.2
+benzo[b]fluoranthene,15
+benzo[k]fluoranthene,17
+benzo[a]pyrene,0.2
+benzo[e]pyrene,33
+"dibenzo[a,e]pyrene",700
+"dibenzo[a,h]pyrene",700
+"dibenzo[a, i]pyrene",700
+"dibenz[a,h]anthracene",180
+"indeno[1,2,3-cd]pyrene",29
+benzo[ghi]perylene,30
+benzo[b]triphenylene,19
+"dibenz[a,j ]anthracene",86
+picene,6.2
 "1,2-benzfluoranthene",6.9
 "1,2,3,4-tetrahydronaphthalene",0.0051
-Indane,0.43
-"2,3-dihydro-1,1,3,3,5-pentamethyl-1h-indene",0.00075
+indane,0.43
+"2,3-dihydro-1,1,3,3,5-pentamethyl-1H-indene",0.00075
 "1,2,3,4-tetrahydro-1,1,3,4,4,6-hexamethylnaphthalene",0.00042
 "1,2,3,4-tetrahydro-5-(1-phenylethyl)-naphthalene",0.016
 5-methylchrysene,5.2
-Benzo[j ]fluoranthene,49
-Benzo[c]chrysene,80
-Benzo[g]chrysene,80
-"Dibenz[a,e]aceanthrylene",700
-"Dibenzo[b,k]chrysene",1200
-Carbon monoxide,9.7e-06
-Carbon dioxide,0.00033
-Carbon suboxide,0.013
-Methanol,2
-Ethanol,1.9
+benzo[j ]fluoranthene,49
+benzo[c]chrysene,80
+benzo[g]chrysene,80
+"dibenz[a,e]aceanthrylene",700
+"dibenzo[b,k]chrysene",1200
+carbon monoxide,9.7e-06
+carbon dioxide,0.00033
+carbon suboxide,0.013
+methanol,2
+ethanol,1.9
 1-propanol,1.4
 2-propanol,1.3
-Glycidol,1700
+glycidol,1700
 1-butanol,1.2
 2-butanol,1.1
 2-methyl-1-propanol,1
@@ -734,16 +734,16 @@ Glycidol,1700
 1-eicosanol,0.47
 1-docosanol,0.0062
 1-tetracosanol,0.0034
-Cyclopentanol,4.3
-Cyclohexanol,2.2
-Cycloheptanol,4.2
+cyclopentanol,4.3
+cyclohexanol,2.2
+cycloheptanol,4.2
 2-methylcyclohexanol,1.3
 3-methylcyclohexanol,2.7
-Cyclododecanol,3.4
-Perhydrobisphenol a,9.7
+cyclododecanol,3.4
+perhydrobisphenol a,9.7
 "3-(5,5,6-trimethyl-2-norbornyl)cyclohexanol",0.61
 "4-(5,5,6-trimethylbicyclo[2.2.1]hept-2-yl)cyclohexan-1-ol",0.61
-"4-((1r,2r,4r)-born-2-yl)cyclohexanol",0.61
+"4-((1R,2R,4R)-born-2-yl)cyclohexanol",0.61
 2-propen-1-ol,2
 2-propyn-1-ol,3.8
 2-buten-1-ol,2.7
@@ -751,14 +751,14 @@ Perhydrobisphenol a,9.7
 2-methyl-3-butyn-2-ol,2.5
 3-methyl-1-pentyn-3-ol,0.99
 1-octen-3-ol,0.13
-Bicyclo[2.2.1]heptan-2-ol,2.2
+bicyclo[2.2.1]heptan-2-ol,2.2
 "3,7-dimethyl-1,6-octadien-3-ol",0.2
-"Tricyclo[3.3.1.1(3,7)]decan-1-ol",6
-Plinol,1.2
+"tricyclo[3.3.1.1(3,7)]decan-1-ol",6
+plinol,1.2
 "3,7,11-trimethyl-2,6,10-dodecatrien-1-ol",0.039
-Dihydroabietyl alcohol,0.19
-Ethylestrenol,0.43
-Hydroxybenzene,0.28
+dihydroabietyl alcohol,0.19
+ethylestrenol,0.43
+hydroxybenzene,0.28
 1-hydroxy-2-methylbenzene,4.2
 1-hydroxy-3-methylbenzene,7.9
 1-hydroxy-4-methylbenzene,10
@@ -792,17 +792,17 @@ Hydroxybenzene,0.28
 1-hydroxy-4-nonylbenzene,0.29
 "4-(1,1,3,3-tetramethylbutyl)-phenol",2.3
 "2,6-bis(1,1-dimethylethyl)-4-methylphenol",0.0029
-"4-(3’,5’-dimethyl-3’-heptyl)-phenol(+)c15h24o",2.9
-"4-(3’,5’-dimethyl-3’-heptyl)-phenol(-)c15h24o",3.3
+"4-(3’,5’-dimethyl-3’-heptyl)-phenol(+)C15H24O",2.9
+"4-(3’,5’-dimethyl-3’-heptyl)-phenol(-)C15H24O",3.3
 2-phenylethanol,37
 3-phenyl-1-propanol,180
 4-phenyl-1-butanol,6.7
 1-naphthalenol,160
 2-naphthalenol,110
-O-hydroxybiphenyl,9.4
-P-hydroxybiphenyl,0.16
+o-hydroxybiphenyl,9.4
+p-hydroxybiphenyl,0.16
 "2,4,6-tris(1,1-dimethylethyl)phenol",1
-Dehydroabietol,8.4
+dehydroabietol,8.4
 "2,2’-methylenebis(6-(1,1-dimethylethyl)-4-methylphenol)",1.2e+06
 "2,4-dinonylphenol",0.15
 "1,2-ethanediol",4000
@@ -817,7 +817,7 @@ Dehydroabietol,8.4
 "1,2,3-butanetriol",3e+09
 "1,2,4-butanetriol",3e+09
 "1,2,3,4-butanetetrol",2e+14
-"2(r),3(s)-1,2,3,4-butanetetrol",0.11
+"2(R),3(S)-1,2,3,4-butanetetrol",0.11
 "1,2-pentanediol",1400
 "1,4-pentanediol",23000
 "1,5-pentanediol",70000
@@ -852,40 +852,40 @@ Dehydroabietol,8.4
 "1,3-dihydroxybenzene",100000
 "1,4-dihydroxybenzene",260000
 "1,2,3-benzenetriol",63000
-Hexylresorcinol,38000
+hexylresorcinol,38000
 "2,6-bis(1,1-dimethylethyl)phenol",3.1
 4-(1-methyl-1-phenylethyl)phenol,110
-"2,2’,3,3’-tetrahydro-3,3,3’,3’-tetramethyl-1,1’-spirobi(1h-indene)-6,6’-diol",0.15
+"2,2’,3,3’-tetrahydro-3,3,3’,3’-tetramethyl-1,1’-spirobi(1H-indene)-6,6’-diol",0.15
 "4,4’-(3,3,5-trimethylcyclohexane-1,1-diyl)diphenol",440000
 "3,3,3’,3’-tetramethyl-1,1’-spirobi(indan)-5,5’,6,6’-tetrol",1.4e+14
 "9,9-bis(4-hydroxyphenyl)fluorene",8.4e+08
-Methyl hydroperoxide,2.9
-Ethyl hydroperoxide,3.3
-Hydroxymethyl hydroperoxide,17000
-Bis-(hydroxymethyl)-peroxide,99000
-Tert-butyl hydroperoxide,0.62
-Di-tert-butylperoxide,0.00082
+methyl hydroperoxide,2.9
+ethyl hydroperoxide,3.3
+hydroxymethyl hydroperoxide,17000
+bis-(hydroxymethyl)-peroxide,99000
+tert-butyl hydroperoxide,0.62
+di-tert-butylperoxide,0.00082
 1-methyl-1-phenylethylhydroperoxide,210
-Dicumyl peroxide,0.22
-Methylperoxy radical,0.15
-Hydroxymethylperoxy radical,790
-Methanal,32
-Ethanal,0.13
-Propanal,0.099
-Butanal,0.095
+dicumyl peroxide,0.22
+methylperoxy radical,0.15
+hydroxymethylperoxy radical,790
+methanal,32
+ethanal,0.13
+propanal,0.099
+butanal,0.095
 2-methylpropanal,0.0059
-Pentanal,0.068
+pentanal,0.068
 2-methylbutanal,0.023
 3-methylbutanal,0.021
-Hexanal,0.032
+hexanal,0.032
 2-methylpentanal,0.027
-Heptanal,0.033
-Octanal,0.21
-Nonanal,0.01
+heptanal,0.033
+octanal,0.21
+nonanal,0.01
 2-ethylhexanal,0.012
 "3,5,5-trimethylhexanal",0.02
-Decanal,0.0043
-Propenal,0.072
+decanal,0.0043
+propenal,0.072
 2-methylpropenal,0.048
 2-butenal,0.097
 2-hexenal,0.062
@@ -893,8 +893,8 @@ Propenal,0.072
 2-octenal,0.041
 "3,7-dimethyl-6-octenal",0.025
 "3,7-dimethyl-2,6-octadienal",0.23
-Benzaldehyde,0.38
-Phenylacetaldehyde,0.1
+benzaldehyde,0.38
+phenylacetaldehyde,0.1
 2-methylbenzaldehyde,0.33
 3-methylbenzaldehyde,0.33
 4-methylbenzaldehyde,0.58
@@ -902,25 +902,25 @@ Phenylacetaldehyde,0.1
 3-hydroxybenzaldehyde,3900
 4-hydroxybenzaldehyde,19000
 3-phenyl-2-propenal,2.8
-Ethanedial,4100
-Pentanedial,300
-Propanone,0.27
-Propanone-2-13c,0.31
+ethanedial,4100
+pentanedial,300
+propanone,0.27
+propanone-2-13C,0.31
 1-hydroxypropanone,77
-Butanone,0.18
-"Butanone-1,1,1,3,3-d5",0.37
+butanone,0.18
+"butanone-1,1,1,3,3-d5",0.37
 2-pentanone,0.16
 3-pentanone,0.16
 1-cyclopropyl-ethanone,0.95
 3-methyl-2-butanone,0.087
-Cyclopentanone,0.82
+cyclopentanone,0.82
 2-hexanone,0.15
 "2-hexanone-1,1,1,3,3-d5",0.17
 3-methyl-2-pentanone,0.073
 4-methyl-2-pentanone,390
 2-methyl-3-pentanone,0.065
 "3,3-dimethyl-2-butanone",0.45
-Cyclohexanone,0.82
+cyclohexanone,0.82
 2-heptanone,0.059
 3-heptanone,0.11
 4-heptanone,0.41
@@ -936,13 +936,13 @@ Cyclohexanone,0.82
 "4,4-dimethyl-2-pentanone",0.055
 "2,2-dimethyl-3-pentanone",0.055
 "2,4-dimethyl-3-pentanone",0.41
-Cycloheptanone,0.7
-Dicyclopropylmethanone,3.1
+cycloheptanone,0.7
+dicyclopropylmethanone,3.1
 2-octanone,0.052
 3-octanone,0.076
 4-octanone,0.036
 6-methyl-3-heptanone,0.037
-Cyclohexyl methyl ketone,0.29
+cyclohexyl methyl ketone,0.29
 2-nonanone,0.41
 5-nonanone,0.035
 "2,6-dimethyl-4-heptanone",0.082
@@ -956,198 +956,198 @@ Cyclohexyl methyl ketone,0.29
 2-pentadecanone,5.4e-05
 2-hexadecanone,1.7e-05
 2-heptadecanone,3.9e+06
-Menthone,0.057
-"Tricyclo[3.3.1.1(3,7)]decanone",1.4
+menthone,0.057
+"tricyclo[3.3.1.1(3,7)]decanone",1.4
 3-buten-2-one,0.26
 4-methyl-3-penten-2-one,0.27
 1-phenylethanone,1.1
 1-phenylethanone-d5,2.3
-Phenyl ethyl ketone,0.076
+phenyl ethyl ketone,0.076
 4-methoxy-4-methyl-2-pentanone,5.1
 4-methoxyphenyl methyl ketone,0.68
 2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-one,0.49
-Benzophenone,17
+benzophenone,17
 "3,5,5-trimethyl-2-cyclohexen-1-one",1.5
-Bicyclo[2.2.1]heptan-2-one,0.43
+bicyclo[2.2.1]heptan-2-one,0.43
 4-methyl-1-(1-methylethyl)-bicyclo[3.1.0]hexan-3-one,0.1
-Isopropyl phenyl ketone,0.57
-Carvone,0.13
-Thujone,0.62
-9h-fluoren-9-one,15
-Anthrone,12
-"1,2,3,5,6,7-hexahydro-1,1,2,3,3-pentamethyl-4h-inden-4-one",0.07
+isopropyl phenyl ketone,0.57
+carvone,0.13
+thujone,0.62
+9H-fluoren-9-one,15
+anthrone,12
+"1,2,3,5,6,7-hexahydro-1,1,2,3,3-pentamethyl-4H-inden-4-one",0.07
 "2,4,6-trimethylbenzophenone",3.8
 "1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one",0.025
-"1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1h-inden-5-yl)ethanone",0.31
-Celestolide,0.31
-7h-benz[de]anthracen-7-one,150
-"1-[2,3-dihydro-1,1,2,6-tetramethyl-3-(1-methylethyl)-1h-inden-5-yl]ethanone",0.23
-Tonalid,0.07
+"1-(2,3-dihydro-1,1,2,3,3,6-hexamethyl-1H-inden-5-yl)ethanone",0.31
+celestolide,0.31
+7H-benz[de]anthracen-7-one,150
+"1-[2,3-dihydro-1,1,2,6-tetramethyl-3-(1-methylethyl)-1H-inden-5-yl]ethanone",0.23
+tonalid,0.07
 "2,3-butanedione",0.73
 "2,4-pentanedione",1.7
 "1,2-naphthalenedione",2300
 "1,4-naphthalenedione",5000
-Menadione,0.32
+menadione,0.32
 "2,6-di-tert-butyl-p-benzoquinone",620
 "9,10-phenanthrenedione",3700
-Dibenzoylmethane,7500
+dibenzoylmethane,7500
 "2-ethyl-9,10-anthracenedione",2100
 "9,10-anthracenedione",420
-Methanoic acid,88
-Ethanoic acid,40
-Propanoic acid,15
-Butanoic acid,9.7
+methanoic acid,88
+ethanoic acid,40
+propanoic acid,15
+butanoic acid,9.7
 2-methylpropanoic acid,9.6
-Pentanoic acid,23
+pentanoic acid,23
 2-methylbutanoic acid,16
 3-methylbutanoic acid,11
 "2,2-dimethylpropanoic acid",3.5
-Hexanoic acid,13
+hexanoic acid,13
 2-methylpentanoic acid,11
 2-ethylbutanoic acid,9
-Heptanoic acid,9.6
+heptanoic acid,9.6
 "4,4-dimethylpentanoic acid",4.3
 2-ethyl-2-methylbutanoic acid,4.3
-Octanoic acid,0.15
+octanoic acid,0.15
 2-ethylhexanoic acid,3.5
-Nonanoic acid,3.8
-Decanoic acid,6.5
+nonanoic acid,3.8
+decanoic acid,6.5
 "3,3,5,5-tetramethylhexanoic acid",1.9
-Undecanoic acid,5.8
-Dodecanoic acid,4.5
-Octadecanoic acid,250000
-Propenoic acid,31
+undecanoic acid,5.8
+dodecanoic acid,4.5
+octadecanoic acid,250000
+propenoic acid,31
 2-methyl-2-propenoic acid,25
-Benzenecarboxylic acid,290
-Sorbic acid,0.2
-Shikimic acid,3.7e+08
+benzenecarboxylic acid,290
+sorbic acid,0.2
+shikimic acid,3.7e+08
 4-hydroxybenzoic acid,1.4e+06
 "3,4,5-trihydroxybenzoic acid",1.2e+14
 3-methylbenzoic acid,6.6
 2-methylbenzoic acid,82
 4-methylbenzoic acid,82
 2-hydroxy-benzoic acid,800
-Benzeneethanoic acid,150
-Phthalic anhydride,1600
+benzeneethanoic acid,150
+phthalic anhydride,1600
 "1,2-benzenedicarboxylic acid",0.49
-Terephthalic acid,2.5e+07
-Isophthalic acid,4.5e+06
-Dehydroacetic acid,29
-Caffeic acid,7e+10
+terephthalic acid,2.5e+07
+isophthalic acid,4.5e+06
+dehydroacetic acid,29
+caffeic acid,7e+10
 4-methylphthalic anhydride,1.4
-P-tert-butylbenzoic acid,35
-"Benzoic acid, anhydride",7
-Pyromellitic dianhydride,1300
-Rosmarinic acid,3.7e+21
-Ethanedioic acid,0.61
-Propanedioic acid,3.8e+08
-Butanedioic acid,2.7e+07
-Pentanedioic acid,1.9e+07
-Hexanedioic acid,2.1e+06
-Heptanedioic acid,8.1e+07
-Octanedioic acid,7.7e+07
-Nonanedioic acid,8.9e+07
-Decanedioic acid,7.6e+07
-Cis-butenedioic acid,0.14
-Methanoic peroxyacid,29
-Ethanoic peroxyacid,8.3
+p-tert-butylbenzoic acid,35
+"benzoic acid, anhydride",7
+pyromellitic dianhydride,1300
+rosmarinic acid,3.7e+21
+ethanedioic acid,0.61
+propanedioic acid,3.8e+08
+butanedioic acid,2.7e+07
+pentanedioic acid,1.9e+07
+hexanedioic acid,2.1e+06
+heptanedioic acid,8.1e+07
+octanedioic acid,7.7e+07
+nonanedioic acid,8.9e+07
+decanedioic acid,7.6e+07
+cis-butenedioic acid,0.14
+methanoic peroxyacid,29
+ethanoic peroxyacid,8.3
 "1,3-dioxolan-2-one",0.036
-"Carbonic acid, dimethyl ester",0.016
-Dimethyl dicarbonate,0.022
-Methyl methanoate,0.041
-Ethyl methanoate,0.34
-Propyl methanoate,0.026
-Isopropyl methanoate,0.012
-"Methanoic acid, pentyl ester",0.013
-Isopentyl methanoate,0.015
-"Methanoic acid, hexyl ester",0.011
-Methyl ethanoate,0.81
-Ethyl ethanoate,0.059
-Ethyl ethanoate-1-13c,0.071
-Propyl ethanoate,0.045
-"Ethanoic acid, 2-propenyl ester",0.076
-Isopropyl ethanoate,0.035
-"Ethanol, 2-methoxy-, acetate",9
-Glycerol monoacetate,24000
+"carbonic acid, dimethyl ester",0.016
+dimethyl dicarbonate,0.022
+methyl methanoate,0.041
+ethyl methanoate,0.34
+propyl methanoate,0.026
+isopropyl methanoate,0.012
+"methanoic acid, pentyl ester",0.013
+isopentyl methanoate,0.015
+"methanoic acid, hexyl ester",0.011
+methyl ethanoate,0.81
+ethyl ethanoate,0.059
+ethyl ethanoate-1-13C,0.071
+propyl ethanoate,0.045
+"ethanoic acid, 2-propenyl ester",0.076
+isopropyl ethanoate,0.035
+"ethanol, 2-methoxy-, acetate",9
+glycerol monoacetate,24000
 "1-propen-2-ol, acetate",0.0055
-Butyl ethanoate,0.024
-Sec-butyl acetate,0.023
-"Acetic acid, 1,1-dimethylethyl ester",0.024
-Pentyl ethanoate,0.034
+butyl ethanoate,0.024
+sec-butyl acetate,0.023
+"acetic acid, 1,1-dimethylethyl ester",0.024
+pentyl ethanoate,0.034
 "1,2-propanediol, diacetate",70
 "2-pentanol, acetate",0.012
-Isopentyl ethanoate,0.026
-Hexyl ethanoate,0.015
+isopentyl ethanoate,0.026
+hexyl ethanoate,0.015
 4-methyl-2-pentyl ethanoate,0.017
-"Acetic acid, cyclohexyl ester",0.82
-"Ethanol, 2-(2-ethoxyethoxy)-, acetate",430
-"Acetic acid, phenyl ester",0.15
-"Acetic acid, phenylmethyl ester",0.9
+"acetic acid, cyclohexyl ester",0.82
+"ethanol, 2-(2-ethoxyethoxy)-, acetate",430
+"acetic acid, phenyl ester",0.15
+"acetic acid, phenylmethyl ester",0.9
 2-ethylhexyl ethanoate,0.011
-"Ethanol, 2,2’-[1,2-ethanediylbis(oxy)]bis-, diacetate",3.7e+07
+"ethanol, 2,2’-[1,2-ethanediylbis(oxy)]bis-, diacetate",3.7e+07
 1-methoxy-2-propyl ethanoate,0.99
 2-ethoxyethyl ethanoate,1.5
 2-butoxyethyl ethanoate,1.8
 "2-(2-butoxyethoxy)-ethanol, ethanoate",28
 "1,2-ethanediol, diethanoate",120
-Geranyl acetate,0.0041
-Linalyl acetate,0.58
-"Cyclohexanol, 5-methyl-2-(1-methylethyl)-, acetate",0.012
-Methyl propanoate,0.057
-Methyl 2-hydroxypropanoate,1200
-Ethyl propanoate,0.041
-Propyl propanoate,0.025
-Isopropyl propanoate,0.017
-Pentyl propanoate,0.14
-"Propanoic acid, 2-hydroxy-, ethyl ester",17
-"Propanoic acid, 2-phenylethyl ester",0.39
-Methyl butanoate,0.037
-Ethyl butanoate,0.029
-Propyl butanoate,0.016
-"Butanoic acid, 2-methylpropyl ester",0.013
+geranyl acetate,0.0041
+linalyl acetate,0.58
+"cyclohexanol, 5-methyl-2-(1-methylethyl)-, acetate",0.012
+methyl propanoate,0.057
+methyl 2-hydroxypropanoate,1200
+ethyl propanoate,0.041
+propyl propanoate,0.025
+isopropyl propanoate,0.017
+pentyl propanoate,0.14
+"propanoic acid, 2-hydroxy-, ethyl ester",17
+"propanoic acid, 2-phenylethyl ester",0.39
+methyl butanoate,0.037
+ethyl butanoate,0.029
+propyl butanoate,0.016
+"butanoic acid, 2-methylpropyl ester",0.013
 "2-methylpropanoic acid, methyl ester",0.33
 "2-methylpropanoic acid, ethyl ester",0.02
 "3-oxobutanoic acid, methyl ester",37
 "3-oxobutanoic acid, ethyl ester",11
-Methyl pentanoate,0.031
-Ethyl pentanoate,0.028
+methyl pentanoate,0.031
+ethyl pentanoate,0.028
 "2-methylbutanoic acid, ethyl ester",0.0089
 "3-methylbutanoic acid, ethyl ester",0.016
 "2,2-dimethylpropanoic acid, methyl es-ter",0.023
-Methyl hexanoate,0.19
-Ethyl hexanoate,0.014
+methyl hexanoate,0.19
+ethyl hexanoate,0.014
 "2-ethylbutanoic acid, 1,2-ethanediylbis(oxy-2,1-ethanediyl)",990000
-Ethyl heptanoate,0.02
-Methyl octanoate,0.0099
-Ethyl octanoate,0.011
-"Octadecanoic acid, 2-methylpropyl ester",0.00026
-"Octadecanoic acid, butyl ester",0.00026
-Methyl nonanoate,0.007
-Ethyl nonanoate,0.013
-"Nonanedioic acid, bis(2-ethylhexyl) es-ter",0.82
-Methyl decanoate,0.011
-Ethyl decanoate,0.014
-Methyl dodecanoate,0.0083
-Ethyl dodecanoate,0.0077
-Propyl dodecanoate,0.0077
-Butyl dodecanoate,0.0071
+ethyl heptanoate,0.02
+methyl octanoate,0.0099
+ethyl octanoate,0.011
+"octadecanoic acid, 2-methylpropyl ester",0.00026
+"octadecanoic acid, butyl ester",0.00026
+methyl nonanoate,0.007
+ethyl nonanoate,0.013
+"nonanedioic acid, bis(2-ethylhexyl) es-ter",0.82
+methyl decanoate,0.011
+ethyl decanoate,0.014
+methyl dodecanoate,0.0083
+ethyl dodecanoate,0.0077
+propyl dodecanoate,0.0077
+butyl dodecanoate,0.0071
 2-ethylhexyl dodecanoate,0.003
-Methyl tetradecanoate,0.005
-Methyl hexadecanoate,0.0029
-Isopropyl palmitate,0.00021
-Ascorbic palmitate,0.7
-Methyl octadecanoate,0.0017
-Methyl eicosanoate,0.001
-Methyl docosanoate,0.00059
-"Cyclopropanecarboxylic acid, methyl",0.41
-"Cyclohexanecarboxylic acid, methyl es-ter",0.11
-Oxacyclohexadecan-2-one,0.004
+methyl tetradecanoate,0.005
+methyl hexadecanoate,0.0029
+isopropyl palmitate,0.00021
+ascorbic palmitate,0.7
+methyl octadecanoate,0.0017
+methyl eicosanoate,0.001
+methyl docosanoate,0.00059
+"cyclopropanecarboxylic acid, methyl",0.41
+"cyclohexanecarboxylic acid, methyl es-ter",0.11
+oxacyclohexadecan-2-one,0.004
 2-tert-butylcyclohexyl acetate,0.99
 "2-ethyl-3-oxo-butanoic acid, ethyl ester",3.4
-"Carbonic acid, diethyl ester",0.11
+"carbonic acid, diethyl ester",0.11
 "2-hydroxypropanoic acid, butyl ester",4.9
-Methyl propenoate,0.049
-Ethyl propenoate,0.029
+methyl propenoate,0.049
+ethyl propenoate,0.029
 "2-propenoic acid, butyl ester",0.021
 "2-propenoic acid, 2-methylpropyl ester",0.016
 "2-propenoic acid, 2-ethylhexyl ester",0.023
@@ -1159,118 +1159,118 @@ Ethyl propenoate,0.029
 "2-methyl-2-propenoic acid, butyl ester",0.02
 "2-methyl-2-propenoic acid, 2-methylpropyl ester",0.019
 "2-methyl-2-propenoic acid, 1,2-ethanediylbis(oxy-2,1-ethanediyl)",5.8e+06
-Methyl methacrylate,0.043
-Ethenyl ethanoate,0.019
+methyl methacrylate,0.043
+ethenyl ethanoate,0.019
 3-(4-methoxyphenyl)-2-propenoic,1.2
-Methyl benzoate,0.3
-Ethyl benzoate,0.097
+methyl benzoate,0.3
+ethyl benzoate,0.097
 2-hydroxybenzoic acid methyl ester,11
-"Benzoic acid, 4-methyl-, methyl ester",0.26
+"benzoic acid, 4-methyl-, methyl ester",0.26
 "1,4-benzenedicarboxylic acid, dimethyl",0.076
-Butyl benzoate,0.12
-Diphenyl carbonate,0.12
-Benzyl benzoate,1.8
-Dimethyl phthalate,49
+butyl benzoate,0.12
+diphenyl carbonate,0.12
+benzyl benzoate,1.8
+dimethyl phthalate,49
 "1,4-cyclohexanedicarboxylic acid,dimethyl ester",100
 "1,3-benzenedicarboxylic acid, dimethyl",160
-Diethyl phthalate,16
-Dipropyl phthalate,18
-Diallyl phthalate,35
-Bis(2-methoxyethyl) phthalate,23
-Dibutyl phthalate,9.3
-Diisobutyl phthalate,3.5
+diethyl phthalate,16
+dipropyl phthalate,18
+diallyl phthalate,35
+bis(2-methoxyethyl) phthalate,23
+dibutyl phthalate,9.3
+diisobutyl phthalate,3.5
 "1,2-benzenedicarboxylic acid, butyl cy-clohexyl ester",10
-Butyl glycolyl butyl phthalate,0.47
-Diamyl phthalate,11
-Butyl benzyl phthalate,100
-Dihexyl phthalate,0.38
-Butyl 2-ethylhexyl phthalate,2.1
-Diphenyl terephthalate,320
-Dicyclohexyl phthalate,99
-Bis(2-butoxyethyl) phthalate,4.9e+06
-Diheptyl phthalate,0.59
-Dioctyl phthalate,3.8
-Diisooctyl phthalate,0.32
-Decyl hexyl phthalate,160
-Bis(2-ethylhexyl)-phthalate,37
-Bis(2-ethylhexyl) terephthalate,0.99
-Dinonyl phthalate,0.11
-Diisononyl phthalate,6.6
-Didecyl phthalate,0.046
-Diisodecyl phthalate,9
-Diundecyl phthalate,33
-Ditridecyl phthalate,0.0036
-"Ethanedioic acid, dimethyl ester",6.9
-"Propanedioic acid, dimethyl ester",38
-"Propanedioic acid, diethyl ester",3.9
-"Butanedioic acid, dimethyl ester",30
-Diethyl succinate,4
-Diethyl pimelate,1.5
+butyl glycolyl butyl phthalate,0.47
+diamyl phthalate,11
+butyl benzyl phthalate,100
+dihexyl phthalate,0.38
+butyl 2-ethylhexyl phthalate,2.1
+diphenyl terephthalate,320
+dicyclohexyl phthalate,99
+bis(2-butoxyethyl) phthalate,4.9e+06
+diheptyl phthalate,0.59
+dioctyl phthalate,3.8
+diisooctyl phthalate,0.32
+decyl hexyl phthalate,160
+bis(2-ethylhexyl)-phthalate,37
+bis(2-ethylhexyl) terephthalate,0.99
+dinonyl phthalate,0.11
+diisononyl phthalate,6.6
+didecyl phthalate,0.046
+diisodecyl phthalate,9
+diundecyl phthalate,33
+ditridecyl phthalate,0.0036
+"ethanedioic acid, dimethyl ester",6.9
+"propanedioic acid, dimethyl ester",38
+"propanedioic acid, diethyl ester",3.9
+"butanedioic acid, dimethyl ester",30
+diethyl succinate,4
+diethyl pimelate,1.5
 "1,3-benzenedicarboxylic acid, diethyl",25
 "2,6-naphthalenedicarboxylic acid,dimethyl ester",450
-Di-(2-ethylhexyl)-adipate,23
-"Peroxybenzoic acid, tert-butyl ester",0.047
-"Neodecaneperoxoic acid, 1,1-dimethylethyl ester",0.99
-"Neoheptaneperoxoic acid, 1-methyl-1-phenylethyl ester",0.038
-Hydroxypropyl acrylate,5800
+di-(2-ethylhexyl)-adipate,23
+"peroxybenzoic acid, tert-butyl ester",0.047
+"neodecaneperoxoic acid, 1,1-dimethylethyl ester",0.99
+"neoheptaneperoxoic acid, 1-methyl-1-phenylethyl ester",0.038
+hydroxypropyl acrylate,5800
 2-hydroxyethyl methacrylate,2100
 2-hydroxypropyl acrylate,1600
-Dimethyl fumarate,14
-"Hexanedioic acid, dimethyl ester",10
-Methyl 4-hydroxybenzoate,4500
-Diethyl fumarate,410
-Diethyl adipate,2.7
-Propyl 4-hydroxybenzoate,1500
-Diethylene glycol diacrylate,10000
-Methyl jasmonate,700
-Cinoxate,1900
-Trimethylolpropane triacrylate,16000
-Benzyl cinnamate,30
+dimethyl fumarate,14
+"hexanedioic acid, dimethyl ester",10
+methyl 4-hydroxybenzoate,4500
+diethyl fumarate,410
+diethyl adipate,2.7
+propyl 4-hydroxybenzoate,1500
+diethylene glycol diacrylate,10000
+methyl jasmonate,700
+cinoxate,1900
+trimethylolpropane triacrylate,16000
+benzyl cinnamate,30
 "2,2,4-trimethyl-1,3-pentanediol di-isobutyrate",0.9
-"Nonanedioic acid, dibutyl ester",0.82
-Isopropyl myristate,0.00042
-"Decanedioic acid, dibutyl ester",210
-Diethylene glycol dibenzoate,3.3e+06
+"nonanedioic acid, dibutyl ester",0.82
+isopropyl myristate,0.00042
+"decanedioic acid, dibutyl ester",210
+diethylene glycol dibenzoate,3.3e+06
 "12-hydroxy-9-octadecenoic acid,methyl ester",67
-"Chrysanthemumic acid 2,4-dimethylbenzyl ester",0.13
-Tributyl acetylcitrate,0.26
-"Hexanedioic acid, dioctyl ester",23
-Diisooctyl adipate,0.19
-"Hexanedioic acid, bis[2-(2-butoxyethoxy)ethyl] ester",3.2e+07
+"chrysanthemumic acid 2,4-dimethylbenzyl ester",0.13
+tributyl acetylcitrate,0.26
+"hexanedioic acid, dioctyl ester",23
+diisooctyl adipate,0.19
+"hexanedioic acid, bis[2-(2-butoxyethoxy)ethyl] ester",3.2e+07
 "1,2-benzenedicarboxylic acid, decyl",0.47
-"Phthalic acid, isodecyl octyl ester",0.47
-Diisononyl hexahydrophthalate,0.14
-"Decanedioic acid, bis(2-ethylhexyl) es-ter",0.12
-Glycerol tricaprylate,390
-Tris(2-ethylhexyl) trimellitate,22
-Emamectin benzoate,5800
-Dimethyl ether,0.0017
-Ethyl methyl ether,0.014
-Diethyl ether,0.005
-Diethyl ether-d10,0.013
-Methyl propyl ether,0.0067
-Methyl 2-propyl ether,0.012
-Divinyl ether,0.54
-Methyl butyl ether,0.0044
+"phthalic acid, isodecyl octyl ester",0.47
+diisononyl hexahydrophthalate,0.14
+"decanedioic acid, bis(2-ethylhexyl) es-ter",0.12
+glycerol tricaprylate,390
+tris(2-ethylhexyl) trimellitate,22
+emamectin benzoate,5800
+dimethyl ether,0.0017
+ethyl methyl ether,0.014
+diethyl ether,0.005
+diethyl ether-d10,0.013
+methyl propyl ether,0.0067
+methyl 2-propyl ether,0.012
+divinyl ether,0.54
+methyl butyl ether,0.0044
 2-methoxybutane,0.0062
-Methyl tert-butyl ether,0.017
-Ethyl propyl ether,0.0086
+methyl tert-butyl ether,0.017
+ethyl propyl ether,0.0086
 1-ethoxy-butane,0.0064
-Ethyl tert-butyl ether,0.0063
+ethyl tert-butyl ether,0.0063
 2-methoxy-2-methylbutane,0.86
-Dipropyl ether,0.003
-Diisopropyl ether,0.0039
+dipropyl ether,0.003
+diisopropyl ether,0.0039
 2-ethyl-2-ethoxypropane,0.0024
-Dibutyl ether,0.22
-Diisobutyl ether,0.0037
+dibutyl ether,0.22
+diisobutyl ether,0.0037
 "1,1’-oxybispentane",0.0027
-"1,1’-oxybis(3-methylbutane)c10h22o",0.0066
+"1,1’-oxybis(3-methylbutane)C10H22O",0.0066
 "1,1’-oxybishexane",0.0018
 "1-ethoxy-3,7-dimethyloctane",0.00067
-Methoxycyclohexane,0.031
-Methyl cedryl ether,0.0025
-Dimethoxymethane,0.061
-Trimethoxymethane,0.69
+methoxycyclohexane,0.031
+methyl cedryl ether,0.0025
+dimethoxymethane,0.061
+trimethoxymethane,0.69
 "1,1-diethoxyethane",0.1
 "1,2-diethoxyethane",0.16
 "1,1,1-trimethoxyethane",0.64
@@ -1282,47 +1282,47 @@ Trimethoxymethane,0.69
 "1,2-dibutoxyethane",0.99
 "3,6-dioxa-1-decanol",1400
 "1,1’-[oxybis(2,1-ethanediyloxy)]bisbutane",3.5
-Methoxyethene,0.0015
+methoxyethene,0.0015
 1-(ethenyloxy)butane,0.45
-Vinylisobutyl ether,0.00019
-Methoxybenzene,0.029
-Ethoxybenzene,0.017
+vinylisobutyl ether,0.00019
+methoxybenzene,0.029
+ethoxybenzene,0.017
 2-phenoxyethanol,200
 2-(phenylmethoxy)-ethanol,150
 "1,2,3-trimethoxybenzene",3.6
 1-methoxy-4-(1-propenyl)-benzene,0.099
 2-methoxy-4-(2-propenyl)-phenol,5.1
 "1,2-dimethoxy-4-(2-propenyl)-benzene",1.8
-Diphenyl ether,0.035
+diphenyl ether,0.035
 1-dodecyl-4-phenoxybenzene,0.0034
 "2,2,4-trimethyl-4-(4-(4-(2,4,4-trimethylpentan-2-yl)phenoxy)phenyl)pentane",0.0013
-Di-tert-butyl sec-butylidene diperoxide,0.012
-"Peroxide, 1,1-dimethylethyl 1-methyl-1-phenylethyl",0.014
-"Di-tert-butyl 1,1,4,4-tetramethyltetramethylene diperoxide",0.0039
+di-tert-butyl sec-butylidene diperoxide,0.012
+"peroxide, 1,1-dimethylethyl 1-methyl-1-phenylethyl",0.014
+"di-tert-butyl 1,1,4,4-tetramethyltetramethylene diperoxide",0.0039
 "1,4-bis(1-tert-butylperoxy-1-methyl-ethyl)benzene",0.1
 2-furanmethanol,120
-Tetrahydropyran-2-methanol,90
-Oxirane,0.058
+tetrahydropyran-2-methanol,90
+oxirane,0.058
 "1,2-epoxypropane",0.14
-Phenyloxirane,0.62
-Oxacyclopentadiene,0.0018
-Dibenzofuran,0.047
+phenyloxirane,0.62
+oxacyclopentadiene,0.0018
+dibenzofuran,0.047
 2-furancarboxaldehyde,2.6
-Tetrahydrofuran,0.22
-Tetrahydrofuran-d8,0.23
+tetrahydrofuran,0.22
+tetrahydrofuran-d8,0.23
 2-methyltetrahydrofuran,0.0015
 "2,5-dimethyltetrahydrofuran",0.055
-Tetrahydropyran,0.1
+tetrahydropyran,0.1
 "1,3-dioxolane",0.4
 "1,3-dioxane",2.1
 "1,4-dioxane",2.3
 "1,4-dioxane-d8",2.8
 "4-methyl-1,3-dioxolan-2-one",290
 "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",0.059
-"Dibenzo[b,e][1,4]dioxin",0.09
-Piperonal,18
-Paraldehyde,0.25
-Benzofuran,0.019
+"dibenzo[b,e][1,4]dioxin",0.09
+piperonal,18
+paraldehyde,0.25
+benzofuran,0.019
 "1,5,5,9-tetramethyl-13-oxatricyclo(8.3.0.0(4,9))tridecane",0.2
 "1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran",0.076
 2-(4-methyl-3-cyclohexen-1-yl)-2-propanol,4.4
@@ -1331,226 +1331,226 @@ Benzofuran,0.019
 "1,7,7-trimethyl-bicyclo[2.2.1]heptan-2-one",0.12
 "2,7,7-trimethyl-3-oxatricyclo[4.1.1.0(2,4)]octane",0.23
 5-methyl-2-(1-methylethylidene)-cyclohexanone,0.28
-"Exo-2-[(1,7,7-trimethylbicyclo[2.2.1]hept-2-yl)-oxy]ethanol",1
+"exo-2-[(1,7,7-trimethylbicyclo[2.2.1]hept-2-yl)-oxy]ethanol",1
 "4-(2,6,6-trimethyl-1-cyclohexenyl)-3-buten-2-one",1.2
-Oxoethanoic acid,110
-Hydroxyethanoic acid,280
+oxoethanoic acid,110
+hydroxyethanoic acid,280
 2-hydroxyethanal,410
-Propanonal,320
+propanonal,320
 2-oxopropanoic acid,0.31
 3-oxopropanoic acid,69
 2-hydroxypropanoic acid,120
-Glycidaldehyde,19
-Trimethylene oxide,0.39
+glycidaldehyde,19
+trimethylene oxide,0.39
 "2,3-dihydroxypropanal",2e+08
-Dihydroxyacetone,1.8e+06
+dihydroxyacetone,1.8e+06
 2-methoxyethanol,4.4
 4-oxobutanoic acid,49
 "3-oxapentane-1,5-diol",0.49
-Hydroxybutanedioic acid,2.7e+08
+hydroxybutanedioic acid,2.7e+08
 2-ethoxyethanol,8.9
 2-methoxy-1-propanol,550
 "1,1-dimethoxyethane",0.15
 4-methylene-2-oxetanone,0.016
-2(5h)-furanone,1
+2(5H)-furanone,1
 "2,2’-bioxirane",280
-Butyrolactone,190
-Ethyloxirane,0.055
+butyrolactone,190
+ethyloxirane,0.055
 "2,3-epoxy-6-oxo-heptenal",2500
 3-hydroxy-2-butanone,0.57
 2-(vinyloxy)ethanol,39
 2-methyloxetane,0.12
 5-oxopentanoic acid,39
 2-oxopentanedioic acid,9.9e+06
-Tetrahydro-2-furanmethanol,2400
-Xylose,8200
+tetrahydro-2-furanmethanol,2400
+xylose,8200
 2-(2-methoxyethoxy)ethanol,620000
 "3,6-dioxaoctane-1,8-diol",310000
 2-oxepanone,0.055
-Glycidyl ether,760
+glycidyl ether,760
 4-hydroxy-4-methyl-2-pentanone,2300
 1-propoxy-2-propanol,0.29
 2-(2-ethoxyethoxy)ethanol,450
 "2,5,8-trioxanonane",19
-Oxydipropanol,1800
-P-benzoquinone,0.021
+oxydipropanol,1800
+p-benzoquinone,0.021
 5-hydroxymethylfurfural,18000
-5-hydroxy-2-(hydroxymethyl)-4h-pyran-4-one,41
+5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one,41
 "1-(1,1-dimethylethoxy)-2-propanol",2.1
 2-[2-(2-methoxyethoxy)ethoxy]ethanol,2.8e+08
 2-methylp-benzoquinone,0.52
-Patulin,90000
+patulin,90000
 1-hydroxy-3-methoxybenzene,170
-Mequinol,19
+mequinol,19
 1-hydroxy-2-methoxybenzene,7.7
 "1,4-dimethoxybenzene",0.0028
 4-methyl-2-methoxyphenol,7.7
 "1,3-dimethoxy-2-hydroxybenzene",37
-"Hexahydro-1,3-isobenzofurandione",0.47
+"hexahydro-1,3-isobenzofurandione",0.47
 1-methoxy-4-methylbenzene,0.21
-Dimethoxane,80
-Metaldehyde,0.19
-Diethyl carbitol,90
+dimethoxane,80
+metaldehyde,0.19
+diethyl carbitol,90
 2-[2-(2-ethoxyethoxy)ethoxy]ethanol,2.1e+08
-Tetraethylene glycol,1.8e+13
-Vanillin,4700
-Ethylparaben,2100
-Ethyl vanillin,12000
+tetraethylene glycol,1.8e+13
+vanillin,4700
+ethylparaben,2100
+ethyl vanillin,12000
 1-phenoxypropan-2-ol,340
-Triacetin,820
-Tripropylene glycol,3e+09
-Coumarin,100
+triacetin,820
+tripropylene glycol,3e+09
+coumarin,100
 "5-(1-propenyl)-1,3-benzodioxole",0.27
-Safrole,1.1
+safrole,1.1
 "5-propyl-1,3-benzodioxole",0.82
 2-methoxy-4-(1-propenyl)phenol,2.7
-P-cresyl glycidyl ether,13
+p-cresyl glycidyl ether,13
 4-(4-hydroxyphenyl)-2-butanone,18000
-Guaifenesin,220000
-Levomenthol,0.66
-Diethylene glycol hexyl ether,580
+guaifenesin,220000
+levomenthol,0.66
+diethylene glycol hexyl ether,580
 2-[2-(2-butoxyethoxy)ethoxy]ethanol,1e+08
 "4-methoxy-6-(2-propenyl)-1,3-benzodioxole",18
-Butylparaben,1200
+butylparaben,1200
 2-tert-butyl-4-methoxyphenol,8.4
 3-hydroxy-2-naphthalenecarboxylic,7000
-Arbutin,8.2e+13
-Butopyronoxyl,210
-Diethylene glycol bis(methacrylate)c12h18o5,12000
-Dikegulac,5.2e+10
-Propofol,4.7
-Lactitol,1.2e+16
-Maltitol,2.3e+15
-Naphthalic anhydride,16
-Methoxsalen,250
-Bisphenol f,1.9e+06
-Ibuprofen,0.66
-Benzoyl peroxide,2.8
-Oxybenzone,660
-Resveratrol,7e+10
-Pindone,1.1e+06
+arbutin,8.2e+13
+butopyronoxyl,210
+diethylene glycol bis(methacrylate)C12H18O5,12000
+dikegulac,5.2e+10
+propofol,4.7
+lactitol,1.2e+16
+maltitol,2.3e+15
+naphthalic anhydride,16
+methoxsalen,250
+bisphenol F,1.9e+06
+ibuprofen,0.66
+benzoyl peroxide,2.8
+oxybenzone,660
+resveratrol,7e+10
+pindone,1.1e+06
 "1,1’-[oxybis(methylene)]bisbenzene",120
-"Butanoic acid, 3,3-bis((1,1-dimethylethyl)dioxy)-, ethyl ester",5
+"butanoic acid, 3,3-bis((1,1-dimethylethyl)dioxy)-, ethyl ester",5
 "1-hydroxy-9,10-anthracenedione",1400
-Danthron,180000
-Bisphenol a,250000
-Atractylenolide iii,1000
-Deoxynivalenol,4.9e+08
-Nivalenol,0.14
-Tributyrin,1000
-Diosmetin,3.3e+12
-Shikonin,1.2e+09
+danthron,180000
+bisphenol A,250000
+atractylenolide III,1000
+deoxynivalenol,4.9e+08
+nivalenol,0.14
+tributyrin,1000
+diosmetin,3.3e+12
+shikonin,1.2e+09
 "2,2-bis(4-hydroxyphenyl)butane",820000
-"Ethyl 3,3-bis(tert-amylperoxy)butyrate",2.9
-Aflatoxin b1,7e+07
-Aflatoxin g1,2e+07
-Aflatoxin b2,3.3e+09
-Aflatoxin g2,9e+08
-Bisphenol c,900000
-Fusarenon x,2.1e+11
-Dihydrotanshinone i,76000
-Diethylstilbestrol,170
-Estrone,26000
-Estradiol,270000
-Estriol,7.6e+06
-Nandrolone,3700
-Diofenolan,150
-Dicumarol,7e+07
-Coumatetralyl,1.7e+08
-Warfarin,37000
-Tanshinone ii,2000
-Gibberellic acid,6.2e+09
-Prallethrin,6.2
-Testolactone,160
-Androstenedione,270
-Diacetoxyscirpenol,0.1
-Testosterone,2800
+"ethyl 3,3-bis(tert-amylperoxy)butyrate",2.9
+aflatoxin B1,7e+07
+aflatoxin G1,2e+07
+aflatoxin B2,3.3e+09
+aflatoxin G2,9e+08
+bisphenol C,900000
+fusarenon X,2.1e+11
+dihydrotanshinone I,76000
+diethylstilbestrol,170
+estrone,26000
+estradiol,270000
+estriol,7.6e+06
+nandrolone,3700
+diofenolan,150
+dicumarol,7e+07
+coumatetralyl,1.7e+08
+warfarin,37000
+tanshinone II,2000
+gibberellic acid,6.2e+09
+prallethrin,6.2
+testolactone,160
+androstenedione,270
+diacetoxyscirpenol,0.1
+testosterone,2800
 5α-androst-16-en-4-one,0.034
-Oxandrolone,430
-Piperonyl butoxide,110000
-Methoprene,1.4
-Fluorescein,1.1e+11
-Phenolphthalein,1.1e+10
-Avobenzone,49000
-Ethinyl estradiol,1.2e+06
-Norethynodrel,7600
-Norethindrone,17000
-Methandrostenolone,4500
-Cinerin i,10
+oxandrolone,430
+piperonyl butoxide,110000
+methoprene,1.4
+fluorescein,1.1e+11
+phenolphthalein,1.1e+10
+avobenzone,49000
+ethinyl estradiol,1.2e+06
+norethynodrel,7600
+norethindrone,17000
+methandrostenolone,4500
+cinerin I,10
 17-methyltestosterone,0.21
-Drostanolone,1200
-Curcumin,1.4e+16
-Bisphenol a diglycidyl ether,220000
-Mestranol,2200
-Prednisone,35000
-Norgestrel,13000
-Levonorgestrel,13000
-Pyrethrin i,0.22
-Cinerin ii,11000
-Prednisolone,370
-Dronabinol,41
-Progesterone,150
-Hydrocortisone,170
-Calusterone,1600
-Oxymetholone,6600
-Resmethrin,76
-Pyrethrin ii,450
-Methylprednisolone,270
-Medroxyprogesterone,760
-Dimethirimol,2.3e+10
-Rotenone,8.8e+07
-Phenothrin,1.5
-Spiromesifen,0.018
-Digoxigenin,430000
-Annatto,1.5e+11
-Acequinocyl,10
-Milk thistle extract,0.62
-Simvastatin,35000
-Calcitriol,32
-Paricalcitol,26
-Cholecalciferol,0.043
-Cholesterol,0.058
-Ergosterol,0.062
-Dihydrotachysterol,0.027
-Etoposide,5.8e+24
-Stigmasterol,0.038
-Pseudohypericin,5.5e+23
-Gossypol,4.3e+22
-Maslinic acid,280000
-Difenacoum,7e+06
-Nonoxynol 9,0.18
-Azadirachtin,3.5e+19
-Monensin,4.9e+18
-Gossyplure,0.066
-Capsanthin,340
-Digitoxin,7.6e+19
-Digoxin,2.1e+21
-Pyrethrum,15
-Punicalagin,5.5e+10
-Abamectin,7000
-Notoginsenoside r1,6.6e+25
-Triolein,0.01
-Tristearin,0.007
-Cyanamide,37000
-Methylhydrazine,3.3
-Methanamine,0.35
-Ethanamine,0.35
-"1h-1,2,4-triazole",6.6
-Dicyandiamide,43000
-Ethylenimine,0.82
+drostanolone,1200
+curcumin,1.4e+16
+bisphenol A diglycidyl ether,220000
+mestranol,2200
+prednisone,35000
+norgestrel,13000
+levonorgestrel,13000
+pyrethrin I,0.22
+cinerin II,11000
+prednisolone,370
+dronabinol,41
+progesterone,150
+hydrocortisone,170
+calusterone,1600
+oxymetholone,6600
+resmethrin,76
+pyrethrin II,450
+methylprednisolone,270
+medroxyprogesterone,760
+dimethirimol,2.3e+10
+rotenone,8.8e+07
+phenothrin,1.5
+spiromesifen,0.018
+digoxigenin,430000
+annatto,1.5e+11
+acequinocyl,10
+milk thistle extract,0.62
+simvastatin,35000
+calcitriol,32
+paricalcitol,26
+cholecalciferol,0.043
+cholesterol,0.058
+ergosterol,0.062
+dihydrotachysterol,0.027
+etoposide,5.8e+24
+stigmasterol,0.038
+pseudohypericin,5.5e+23
+gossypol,4.3e+22
+maslinic acid,280000
+difenacoum,7e+06
+nonoxynol 9,0.18
+azadirachtin,3.5e+19
+monensin,4.9e+18
+gossyplure,0.066
+capsanthin,340
+digitoxin,7.6e+19
+digoxin,2.1e+21
+pyrethrum,15
+punicalagin,5.5e+10
+abamectin,7000
+notoginsenoside R1,6.6e+25
+triolein,0.01
+tristearin,0.007
+cyanamide,37000
+methylhydrazine,3.3
+methanamine,0.35
+ethanamine,0.35
+"1H-1,2,4-triazole",6.6
+dicyandiamide,43000
+ethylenimine,0.82
 "1,2-dimethylhydrazine",1.8
 "1,1-dimethylhydrazine",0.76
 1-propanamine,0.5
 2-propanamine,0.22
-Propanedinitrile,780
+propanedinitrile,780
 1-butanamine,0.56
 2-butanamine,0.4
 2-methyl-1-propanamine,0.72
 2-methyl-2-propanamine,0.28
 "1,2-diethylhydrazine",82
-Butanedinitrile,1500
-2-methyl-1h-imidazole,2.2
-4-methyl-1h-imidazole,2.4
+butanedinitrile,1500
+2-methyl-1H-imidazole,2.2
+4-methyl-1H-imidazole,2.4
 1-pentanamine,0.4
 3-methyl-1-butanamine,0.22
 1-hexanamine,0.32
@@ -1560,25 +1560,25 @@ Butanedinitrile,1500
 1-octanamine,0.19
 2-ethyl-1-hexanamine,0.37
 1-tridecanamine,0.09
-Dimethylamine,0.3
-Diethylamine,0.39
-Dipropylamine,0.19
-Dibutylamine,1
-Tetraethylenepentamine,3.3e+14
-Trimethylamine,0.076
-Triethylamine,0.066
-Tributylamine,0.4
-Ethylenediamine,5800
+dimethylamine,0.3
+diethylamine,0.39
+dipropylamine,0.19
+dibutylamine,1
+tetraethylenepentamine,3.3e+14
+trimethylamine,0.076
+triethylamine,0.066
+tributylamine,0.4
+ethylenediamine,5800
 2-propen-1-amine,0.54
-Di-2-propenylamine,0.33
-Hexamethyleneimine,1.6
-Cyclohexanamine,2.4
+di-2-propenylamine,0.33
+hexamethyleneimine,1.6
+cyclohexanamine,2.4
 3-methylcyclohexylamine,1.1
-Hexamethylenetetramine,6200
+hexamethylenetetramine,6200
 1-decanamine,0.15
 1-dodecanamine,0.037
 1-octadecanamine,0.01
-Aminobenzene,5.2
+aminobenzene,5.2
 2-methylbenzenamine,5
 3-methylbenzenamine,5.9
 4-methylbenzenamine,13
@@ -1598,60 +1598,60 @@ Aminobenzene,5.2
 "3-methyl-1,2-benzenediamine",10000
 "4-methyl-1,3-benzenediamine",10000
 "3,5-diaminotoluene",13000
-Phenylhydrazine,340
-Benzeneethanamine,12
+phenylhydrazine,340
+benzeneethanamine,12
 "2,3-dimethylbenzenamine",3.9
 "3,5-dimethylbenzenamine",3.9
-Dimethylaniline,3.9
-Phenelzine,2900
+dimethylaniline,3.9
+phenelzine,2900
 "2,4,6-trimethylbenzenamine",3.7
 2-ethyl-6-methylbenzenamine,3.2
 1-naphthylamine,160
 2-naphthylamine,120
 "1,5-naphthalenediamine",150000
-Phentermine,7
+phentermine,7
 "3,5-diethyltoluene-2,6-diamine",0.62
 "2,4-diethyl-6-methylbenzene-1,3-diamine",6200
-Diphenylamine,3.7
-Benzidine,2.2e+06
+diphenylamine,3.7
+benzidine,2.2e+06
 "1,1-diphenylhydrazine",240
 "1,2-diphenylhydrazine",21
 4-(phenylazo)-benzenamine,110000
-Azobenzene,0.7
+azobenzene,0.7
 2-aminobiphenyl,66
 4-aminobiphenyl,66
 2-fluorenamine,270
 "4,4’-methylenebisbenzenamine",190000
 2-anthracenamine,33
 "3,3’-dimethylbenzidine",160000
-"4,4’-methylene-bis-(n-methylaniline)c15h18n2",34000
+"4,4’-methylene-bis-(N-methylaniline)C15H18N2",34000
 "3,3’,5,5’-tetramethylbenzidine",130000
-Yellow ob,18000
-Auramine,120
-Benzphetamine,23
-"4,4’-methylenebis(n,n-dimethylbenzenamine)",82
-Phencyclidine,1.8
-Amitraz,1
-"P,p’-benzylidenebis(n,n-dimethylaniline)",1000
-Tris(2-ethylhexyl)amine,0.0007
-"4,4’,4”-methylidyne-tris(n,n-dimethylbenzenamine)",64000
-"4,4’,4”-methanetriyltris(n,n-diethylaniline)",90000
-Pyrrolidine,4.2
+yellow OB,18000
+auramine,120
+benzphetamine,23
+"4,4’-methylenebis(N,N-dimethylbenzenamine)",82
+phencyclidine,1.8
+amitraz,1
+"p,p’-benzylidenebis(N,N-dimethylaniline)",1000
+tris(2-ethylhexyl)amine,0.0007
+"4,4’,4”-methylidyne-tris(N,N-dimethylbenzenamine)",64000
+"4,4’,4”-methanetriyltris(N,N-diethylaniline)",90000
+pyrrolidine,4.2
 1-pyrroline,1.6
 3-pyrroline,4.9
-Piperidine,2.8
+piperidine,2.8
 "1,4-diazacyclohexane",100
-Cyromazine,1.7e+08
-1h-benzotriazole,31
-1h-benzimidazole,27
+cyromazine,1.7e+08
+1H-benzotriazole,31
+1H-benzimidazole,27
 2-ethenylpyridine,2.7
 4-ethenylpyridine,3.1
 "1,3,5-tricyclohexylhexahydro-1,3,5-triazine",0.017
 1-piperazineethanamine,0.15
-Pyrrole,0.55
-1-methyl-1h-pyrrole,0.009
-Pyridine,1.1
-Pyridine-d5,4.2
+pyrrole,0.55
+1-methyl-1H-pyrrole,0.009
+pyridine,1.1
+pyridine-d5,4.2
 2-methylpyridine,0.99
 3-methylpyridine,0.42
 4-methylpyridine,1.7
@@ -1670,13 +1670,13 @@ Pyridine-d5,4.2
 "2,4,6-trimethylpyridine",1.1
 "4-(1,1-dimethylethyl)-pyridine",0.39
 "2,6-bis-(1,1-dimethylethyl)-pyridine",0.0008
-1-methyl-1h-imidazole,110
-Amitrole,4.5e+07
+1-methyl-1H-imidazole,110
+amitrole,4.5e+07
 "1,3-diazine",10
 "1,3,5-triazine-2,4,6-triamine",5.5e+08
 3-cyanopyridine,36
 4-cyanopyridine,11
-Indole,19
+indole,19
 2-methylpyrazine,4.5
 2-ethylpyrazine,4
 "2,5-dimethylpyrazine",7.1
@@ -1684,350 +1684,350 @@ Indole,19
 2-isobutylpyrazine,2
 2-(1-methylpropyl)-pyrazine,1.6
 5-ethenyl-2-methylpyridine,2.2
-Nornicotine,7200
+nornicotine,7200
 "2,4-diamino-6-phenyl-1,3,5-triazine",240000
 3-methylindole,4.7
 "2,3-diethyl-5-methylpyrazine",0.81
-Benzo[b]pyridine,5.8
-Benzo[c]pyridine,0.52
-Nicotine,3300
+benzo[b]pyridine,5.8
+benzo[c]pyridine,0.52
+nicotine,3300
 "2,2’-bipyridine",18000
 4-methylquinoline,13
 "3-(phenylazo)-2,6-pyridinediamine",3e+09
-"2-amino-9h-pyrido[2,3-b]indole",2.5e+08
-Carbazole,93
-O-phenanthroline,110000
-Benzyladenine,1.1e+08
-Pyrimethanil,3.9
-Paraquat,2.4e+08
-Acridine,33
-Cyprodinil,120
-Imiquimod,1.2e+07
-Benz[c]acridine,370
+"2-amino-9H-pyrido[2,3-b]indole",2.5e+08
+carbazole,93
+o-phenanthroline,110000
+benzyladenine,1.1e+08
+pyrimethanil,3.9
+paraquat,2.4e+08
+acridine,33
+cyprodinil,120
+imiquimod,1.2e+07
+benz[c]acridine,370
 "6-pentyl-1,2,3,4,7,8,9,10-octahydrophenanthridine",0.45
 2-diphenylmethylpiperidine,66
-"7h-dibenzo[c,g]carbazole",0.4
-"Dibenz[a,j ]acridine",5200
-"Dibenz[a,h]acridine",5200
-Cyano radical,0.00078
-Hydrogen cyanide,0.17
-Ethane nitrile,0.52
-Propane nitrile,0.43
-Butane nitrile,0.27
+"7H-dibenzo[c,g]carbazole",0.4
+"dibenz[a,j ]acridine",5200
+"dibenz[a,h]acridine",5200
+cyano radical,0.00078
+hydrogen cyanide,0.17
+ethane nitrile,0.52
+propane nitrile,0.43
+butane nitrile,0.27
 2-methylpropane nitrile,0.094
-Pentane nitrile,0.14
-Hexanenitrile,0.23
-Heptanenitrile,0.16
-Octanenitrile,0.13
-Nonanenitrile,0.1
-Decanenitrile,0.8
-Undecanenitrile,0.061
-Cyclohexanecarbonitrile,0.73
-Ethanedinitrile,0.0018
-Hexanedinitrile,8200
+pentane nitrile,0.14
+hexanenitrile,0.23
+heptanenitrile,0.16
+octanenitrile,0.13
+nonanenitrile,0.1
+decanenitrile,0.8
+undecanenitrile,0.061
+cyclohexanecarbonitrile,0.73
+ethanedinitrile,0.0018
+hexanedinitrile,8200
 2-propenenitrile,0.12
 2-methyl-2-propene nitrile,0.054
-Benzenenitrile,0.29
+benzenenitrile,0.29
 2-pyridinecarbonitrile,140
 2-methylpentanedinitrile,330
 "3,3’-iminobispropanenitrile",2e+06
 2-methylbenzonitrile,0.76
 3-methylbenzonitrile,0.17
-Benzeneacetonitrile,0.07
-Tetramethylbutanedinitrile,190
+benzeneacetonitrile,0.07
+tetramethylbutanedinitrile,190
 "1,2-benzenedicarbonitrile",20
 "3,7-dimethyl-2,6-octadienenitrile",0.029
-"2,2’-azobis(2-methylbutyronitrile)c10h16n4",45000
-Formamide,7000
-Methyl nitrite,0.15
-Urea,5.7e+06
-Ethanolamine,60000
+"2,2’-azobis(2-methylbutyronitrile)C10H16N4",45000
+formamide,7000
+methyl nitrite,0.15
+urea,5.7e+06
+ethanolamine,60000
 "1,1’-azodiformamide",1.2e+07
-Ethyl nitrite,0.11
-"Carbamic acid, methyl ester",250
-Acetaldoxime,1.7
-Ethanamide,5300
-Methylnitrosourea,190
-Nitrosoazetidine,190
-Methylnitrosoacetamide,0.86
-Ethylnitrosocyanamide,0.26
+ethyl nitrite,0.11
+"carbamic acid, methyl ester",250
+acetaldoxime,1.7
+ethanamide,5300
+methylnitrosourea,190
+nitrosoazetidine,190
+methylnitrosoacetamide,0.86
+ethylnitrosocyanamide,0.26
 2-propenamide,5500
-Methylvinylnitrosamine,2.7
-Urethane,150
+methylvinylnitrosamine,2.7
+urethane,150
 2-methoxyethanamine,25
 2-(methylamino)ethanol,90
 1-amino-2-propanol,42000
-Dinitrosopiperazine,190
+dinitrosopiperazine,190
 2-amino-3(methylamino)propionic acid,2.9e+07
-Diethanolamine,250000
+diethanolamine,250000
 3-methoxy-1-propanamine,48
 2-[(2-aminoethyl)amino]ethanol,9e+07
-Tetramethylammonium hydroxide,2.3e+10
-Acetone cyanohydrin,80
-"Carbamic acid, 1-methylethyl ester",140
-Propylcarbamate,100
+tetramethylammonium hydroxide,2.3e+10
+acetone cyanohydrin,80
+"carbamic acid, 1-methylethyl ester",140
+propylcarbamate,100
 "2-butanone, oxime",8.1
-Nitrosoethylurethane,520
-Methyldiethanolamine,320000
-Methylbutylnitrosamine,1.7
-Methylpentylnitrosamine,2
-Ethylbutylnitrosamine,0.99
-Nitrosohexamethyleneimine,43
+nitrosoethylurethane,520
+methyldiethanolamine,320000
+methylbutylnitrosamine,1.7
+methylpentylnitrosamine,2
+ethylbutylnitrosamine,0.99
+nitrosohexamethyleneimine,43
 "2,6-dimethylnitrosomorpholine",35
 "2,6-dimethyldinitrosopiperazine",190
-Ethyldiethanolamine,90000
-Triethanolamine,1.4e+07
-O-aminophenol,49000
+ethyldiethanolamine,90000
+triethanolamine,1.4e+07
+o-aminophenol,49000
 4-aminophenol,27000
 3-aminophenol,37000
-P-diaminoanisole,250000
+p-diaminoanisole,250000
 "4-methoxy-1,3-benzenediamine",14000
-2-cyano-n-[(ethylamino)carbonyl]-2-(methoxyimino)acetamide,30000
-Isocyanatocyclohexane,0.0058
-Tetryl,3700
-Anthranilic acid,0.26
+2-cyano-N-[(ethylamino)carbonyl]-2-(methoxyimino)acetamide,30000
+isocyanatocyclohexane,0.0058
+tetryl,3700
+anthranilic acid,0.26
 4-aminobenzoic acid,66000
-Salicylamide,34000
-Mesalamine,2e+06
-Anthranilamide,1.3e+07
+salicylamide,34000
+mesalamine,2e+06
+anthranilamide,1.3e+07
 2-methoxy-benzenamine,12
 3-methoxy-benzenamine,90
 4-methoxy-benzenamine,150
 4-(methylamino)phenol,22000
-Defenuron,0.85
-Norepinephrine,3.1e+13
+defenuron,0.85
+norepinephrine,3.1e+13
 4-methoxy-2-methylbenzenamine,82
-P-cresidine,80
-Phthalamide,7e+06
-Acetaminophen,1.5e+07
-Methyl anthranilate,5.2
+p-cresidine,80
+phthalamide,7e+06
+acetaminophen,1.5e+07
+methyl anthranilate,5.2
 4’-aminoacetophenone,2200
-"Methylcarbamic acid, 3-methylphenyl",0.12
-"Phenylcarbamic acid, ethyl ester",340
-Ethyl anthranilate,620
-Benzocaine,620
+"methylcarbamic acid, 3-methylphenyl",0.12
+"phenylcarbamic acid, ethyl ester",340
+ethyl anthranilate,620
+benzocaine,620
 1-(4-aminophenyl)-1-propanone,2100
-Fenuron,870
-Epinephrine,1.4e+13
-Meprobamate,55000
-Propamocarb,1600
-Proximpham,3900
-Dioxacarb,670000
-"Phenol, 3,5-dimethyl-, methylcarba-mate",0.25
-"Phenylcarbamic acid, 1-methylethyl es-ter",55
-Xylylcarb,91
-Phenacetin,47000
-Ephedrine,110000
-M-cumenyl methylcarbamate,160
-Propoxur,2900
-Methocarbamol,1.5e+10
-Aminocarb,1900
-Monodesmethylisoproturon,280000
-Cycluron,820
-Methylneodecanamide,41
+fenuron,870
+epinephrine,1.4e+13
+meprobamate,55000
+propamocarb,1600
+proximpham,3900
+dioxacarb,670000
+"phenol, 3,5-dimethyl-, methylcarba-mate",0.25
+"phenylcarbamic acid, 1-methylethyl es-ter",55
+xylylcarb,91
+phenacetin,47000
+ephedrine,110000
+m-cumenyl methylcarbamate,160
+propoxur,2900
+methocarbamol,1.5e+10
+aminocarb,1900
+monodesmethylisoproturon,280000
+cycluron,820
+methylneodecanamide,41
 4-(phenylazo)phenol,0.15
-Carbaryl,99
+carbaryl,99
 "4,4’-oxybisbenzenamine",660000
-Carbofuran,99
-"Phenol, 3-methyl-5-(1-methylethyl)-,methylcarbamate",110
-Fenobucarb,150
-Diethyltoluamide,470
-Carisoprodol,14000
-Diethylpropion,0.43
-Salbutamol,1.5e+10
-Disperse blue 1,47
+carbofuran,99
+"phenol, 3-methyl-5-(1-methylethyl)-,methylcarbamate",110
+fenobucarb,150
+diethyltoluamide,470
+carisoprodol,14000
+diethylpropion,0.43
+salbutamol,1.5e+10
+disperse blue 1,47
 "3,3’-dimethoxybenzidine",210000
-Aspartame,3.9e+12
-Dinobuton,620
-Butralin,2
-Lauramine oxide,150000
+aspartame,3.9e+12
+dinobuton,620
+butralin,2
+lauramine oxide,150000
 2-aminoanthraquinone,110000
 "1-amino-2-methyl-9,10-anthracenedione",8.2e+06
-Metalaxyl,0.33
-Tebutam,67
-Isopropalin,0.19
-Metoprolol,470000
-Fenam,410000
-Difenoxuron,5.6e+07
-Butacarb,220
-Oseltamivir,3.4e+10
+metalaxyl,0.33
+tebutam,67
+isopropalin,0.19
+metoprolol,470000
+fenam,410000
+difenoxuron,5.6e+07
+butacarb,220
+oseltamivir,3.4e+10
 1-[(2-methoxyphenyl)azo]-2-naphthol,90000
-Furalaxyl,11000
-Fenoxycarb,2.3e+07
-Bifenazate,0.1
-Napropamide,12000
-Padimate o,2.5
-Nadolol,7e+08
+furalaxyl,11000
+fenoxycarb,2.3e+07
+bifenazate,0.1
+napropamide,12000
+padimate O,2.5
+nadolol,7e+08
 "2,6-di-tert-butyl-4-(dimethylaminomethyl)phenol",4800
-Naptalam,2.3e+10
-Citrus red 2,1.9e+07
-Kresoxim-methyl,2700
-Dinocap,2100
-Capsaicin,9.9e+07
-Phenylbutazone,1500
-Phenisopham,13000
-Formoterol,0.11
-Benalaxyl,83
-Tralkoxydim,41000
-Neotame,4300
-Colchicine,5.5e+11
-Tebufenozide,760
-Methoxyfenozide,2.6e+06
-Propoxyphene,4300
-Butroxydim,17000
+naptalam,2.3e+10
+citrus red 2,1.9e+07
+kresoxim-methyl,2700
+dinocap,2100
+capsaicin,9.9e+07
+phenylbutazone,1500
+phenisopham,13000
+formoterol,0.11
+benalaxyl,83
+tralkoxydim,41000
+neotame,4300
+colchicine,5.5e+11
+tebufenozide,760
+methoxyfenozide,2.6e+06
+propoxyphene,4300
+butroxydim,17000
 "2,2-bis[4-(4-aminophenoxy)phenyl]propane",2e+08
 "1,4-bis[(4-methylphenyl)amino]-9,10-anthracenedione",6.6e+10
-Mifepristone,0.2
-"2’-anilino-6’-[ethyl(3-methylbutyl)amino]-3’-methylspiro[isobenzofuran-1(3h),9’-[9h]xanthene]-3-one",0.84
-Glutamic acid,9.9e+10
-Asparagine,9.9e+10
-Serine,3.9e+10
-Glutamine,3.3e+10
-Glycine,1.2e+11
-Arginine,9.9e+14
-Alanine,3.5e+10
-Leucine,200000
-Cyanuric acid,1.1e+09
-Isoxazole,0.24
-Glycidamide,77000
-Cyclonite,0.49
-5-methyl-3-(2h)-isoxazolone,5000
-Allantoin,2.9e+12
+mifepristone,0.2
+"2’-anilino-6’-[ethyl(3-methylbutyl)amino]-3’-methylspiro[isobenzofuran-1(3H),9’-[9H]xanthene]-3-one",0.84
+glutamic acid,9.9e+10
+asparagine,9.9e+10
+serine,3.9e+10
+glutamine,3.3e+10
+glycine,1.2e+11
+arginine,9.9e+14
+alanine,3.5e+10
+leucine,200000
+cyanuric acid,1.1e+09
+isoxazole,0.24
+glycidamide,77000
+cyclonite,0.49
+5-methyl-3-(2H)-isoxazolone,5000
+allantoin,2.9e+12
 2-pyrrolidinone,9300
 4-nitrosomorpholine,390
-Cyclotetramethylenetetranitramine,11000
+cyclotetramethylenetetranitramine,11000
 1-oxa-4-azacyclohexane,8.2
 1-aziridineethanol,13000
 2-ethyl-3-methoxypyrazine,0.67
 2-isobutyl-3-methoxypyrazine,0.17
 1-nitrosopiperidine,11
-Butyl carbamate,110
+butyl carbamate,110
 4-methyl-1-oxa-4-azacyclohexane,0.18
-Allopurinol,4.9e+08
+allopurinol,4.9e+08
 "5,5-dimethyl-2,4-imidazolidinedione",3500
 2-azacycloheptanone,180000
-Glucosamine,1.3e+10
+glucosamine,1.3e+10
 3-formylpyridine,65
 4-formylpyridine,56
-Niacinamide,3.4e+06
-Metronidazole,580000
-Glydant,1.4e+06
+niacinamide,3.4e+06
+metronidazole,580000
+glydant,1.4e+06
 3-quinuclidinol,12000
-Dinotefuran,1.5e+08
-"1,2,3-benzotriazin-4(1h)-one",31000
+dinotefuran,1.5e+08
+"1,2,3-benzotriazin-4(1H)-one",31000
 4-acetylpyridine,160
 3-acetylpyridine,460
-Theophylline,5.5e+08
-Theobromine,620000
+theophylline,5.5e+08
+theobromine,620000
 2-pyridineethanol,66000
-Caffeine,900000
-Acyclovir,3.1e+16
+caffeine,900000
+acyclovir,3.1e+16
 2-methoxy-3-(1-methylethyl)-pyrazine,15
-Simeton,15000
-Phthalimide,990
-Furazolidone,300000
+simeton,15000
+phthalimide,990
+furazolidone,300000
 "1,2,3,6-tetrahydrophthalimide",330
 "9-[(1,3-dihydroxy-2-propoxy)methyl]guanine",6.6e+17
-Atraton,6400
+atraton,6400
 "4-hydroxy-2,2,6,6-tetramethyl-1-piperidinyloxy",3.3e+09
 8-hydroxyquinoline,17
-Carbendazim,470000
-Metamitron,2.2e+06
-Pymetrozin,330000
-3-oxo-n-phenylbutanamide,2.3e+06
+carbendazim,470000
+metamitron,2.2e+06
+pymetrozin,330000
+3-oxo-N-phenylbutanamide,2.3e+06
 "2,3’-didehydro-3’-deoxythymidine",0.43
-Cotinine,3e+06
-4-(n-nitroso-n-methylamino)-1-(3-pyridyl)-1-butanone,1.2e+08
+cotinine,3e+06
+4-(N-nitroso-N-methylamino)-1-(3-pyridyl)-1-butanone,1.2e+08
 9-(4-hydroxy-3-hydroxymethylbut-1-yl)guanine,1e+26
-Anatoxin a,1500
-Dimetilan,240000
-Isolan,4900
-Amicarbazone,1.5e+07
-Prometone,11000
-Secbumeton,2800
-Terbumeton,2100
-Kinetin,0.82
-Carbadox,2.2e+17
-Bendiocarb,250
+anatoxin A,1500
+dimetilan,240000
+isolan,4900
+amicarbazone,1.5e+07
+prometone,11000
+secbumeton,2800
+terbumeton,2100
+kinetin,0.82
+carbadox,2.2e+17
+bendiocarb,250
 "2,3,5-trimethylphenol, methylcarba-mate",45
-Butalbital,1.6e+07
-Dexrazoxane,4.7e+13
-Pentobarbital,1.2e+07
-Pirimor,12000
-Ethirimol,3600
-Fenfuram,25000
-Phenobarbital,5.8e+08
-Triaziquone,1.1e+10
-Triallyl cyanurate,23
-Entecavir,6.2e+15
-Metaxalone,37000
-Phendimetrazine,370
-Hexazinone,99
-Picaridin,330000
-Pyrinuron,5.4e+10
-Melatonin,3.8e+08
-"Dibenz[b,f ]][1,4]oxazepine",0.0024
-Benomyl,520000
-Trimethoprim,4.1e+08
-Famciclovir,1e+08
-Furmecyclox,140
-Oxcarbazepine,1.4e+07
-Phenytoin,970000
-Carbamazepine,0.9
-Propylthiouracil,9000
-Ancymidol,4.7e+06
-Imazethapyr,9.9e+10
-Imazamox,1.1e+13
-Cycloheximide,2.8e+09
-Oxymatrine,9.9e+12
-Mebendazole,1.8e+10
-Fenpyroximate,7.6
-Imazamethabenz-methyl,2.6e+06
-Nifedipine,1.4e+08
-Oxymorphone,2.4e+13
-Desomorphine,2.4e+06
-Cocaine,230000
-Quinophthalone,1.6e+08
-Tetramethrin,5.8
-Isoxaben,7800
-Alfuzosin,1e+14
-Pyriproxyfen,16000
-Papaverine,1.3e+07
-Fenazaquin,99
-Bitertanol,12000
-Bitertanol diastereoisomer a,3.1e+06
-Bitertanol diastereoisomer b,1.5e+06
-Naltrexone,2.3e+13
-Ibogaine,820000
-Fenpropimorph,6.2
-Strychnine,1.6e+08
-Nalmefene,5.5e+10
-Benztropine,4500
-Stanozolol,900
-Azoxystrobin,1.4e+08
-Famoxadone,210
-Tadalafil,2e+12
-Bisacodyl,1.4e+06
-Fentanyl,1.1e+06
+butalbital,1.6e+07
+dexrazoxane,4.7e+13
+pentobarbital,1.2e+07
+pirimor,12000
+ethirimol,3600
+fenfuram,25000
+phenobarbital,5.8e+08
+triaziquone,1.1e+10
+triallyl cyanurate,23
+entecavir,6.2e+15
+metaxalone,37000
+phendimetrazine,370
+hexazinone,99
+picaridin,330000
+pyrinuron,5.4e+10
+melatonin,3.8e+08
+"dibenz[b,f ]][1,4]oxazepine",0.0024
+benomyl,520000
+trimethoprim,4.1e+08
+famciclovir,1e+08
+furmecyclox,140
+oxcarbazepine,1.4e+07
+phenytoin,970000
+carbamazepine,0.9
+propylthiouracil,9000
+ancymidol,4.7e+06
+imazethapyr,9.9e+10
+imazamox,1.1e+13
+cycloheximide,2.8e+09
+oxymatrine,9.9e+12
+mebendazole,1.8e+10
+fenpyroximate,7.6
+imazamethabenz-methyl,2.6e+06
+nifedipine,1.4e+08
+oxymorphone,2.4e+13
+desomorphine,2.4e+06
+cocaine,230000
+quinophthalone,1.6e+08
+tetramethrin,5.8
+isoxaben,7800
+alfuzosin,1e+14
+pyriproxyfen,16000
+papaverine,1.3e+07
+fenazaquin,99
+bitertanol,12000
+bitertanol diastereoisomer a,3.1e+06
+bitertanol diastereoisomer b,1.5e+06
+naltrexone,2.3e+13
+ibogaine,820000
+fenpropimorph,6.2
+strychnine,1.6e+08
+nalmefene,5.5e+10
+benztropine,4500
+stanozolol,900
+azoxystrobin,1.4e+08
+famoxadone,210
+tadalafil,2e+12
+bisacodyl,1.4e+06
+fentanyl,1.1e+06
 4-(triphenylmethyl)morpholine,76000
-Brucine,4.7e+10
-Mycophenolate mofetil,1.8e+09
-Pinoxaden,1.1e+06
-Valsartan,0.32
-Donepezil,8.2e+06
+brucine,4.7e+10
+mycophenolate mofetil,1.8e+09
+pinoxaden,1.1e+06
+valsartan,0.32
+donepezil,8.2e+06
 2-[4-[4-(2-benzoxazolyl)styryl]phenyl]-5-methylbenzoxazole,7.5e+08
-"2-(2h-benzotriazol-2-yl)-4,6-bis(1-methyl-1-phenylethyl)phenol",7.2e+09
-Norbormide,3.7e+17
-Reserpine,1.8e+17
-Telaprevir,1.3e+25
-Lopinavir,2.3e+22
-Atazanavir,2.7e+26
-Tylosin,1.7e+32
-Nystatin,49000
+"2-(2H-benzotriazol-2-yl)-4,6-bis(1-methyl-1-phenylethyl)phenol",7.2e+09
+norbormide,3.7e+17
+reserpine,1.8e+17
+telaprevir,1.3e+25
+lopinavir,2.3e+22
+atazanavir,2.7e+26
+tylosin,1.7e+32
+nystatin,49000
 "1,3,5-tris(3,5-di-tert-butyl-4-hydroxybenzyl)-1,3,5-triazinane-2,4,6-trione",6.1e+20
-Urea nitrate,5.8e+11
-Methyl nitrate,0.02
-Ethyl nitrate,0.016
+urea nitrate,5.8e+11
+methyl nitrate,0.02
+ethyl nitrate,0.016
 1-propyl nitrate,0.011
 2-propyl nitrate,0.0078
 1-butyl nitrate,0.01
@@ -2037,7 +2037,7 @@ Ethyl nitrate,0.016
 2-pentyl nitrate,0.0037
 3-pentyl nitrate,0.0038
 3-methyl-1-butanol nitrate,0.005
-Pentaerythritol tetranitrate,7600
+pentaerythritol tetranitrate,7600
 1-hexyl nitrate,0.0076
 2-nitrooxyethanol,0.39
 1-nitrooxy-2-propanol,66
@@ -2071,45 +2071,45 @@ Pentaerythritol tetranitrate,7600
 "1,8-octanediol dinitrate",0.78
 "1,2-decanediol dinitrate",0.02
 "1,10-decanediol dinitrate",0.43
-Diethylene glycol dinitrate,25
-Peroxyacetyl nitrate,0.029
-Peroxypropionyl nitrate,0.029
-Nitro butaneperoxoate,0.023
-Peroxy-2-propenoyl nitrate,0.017
-Peroxy-isobutyryl nitrate,0.0099
-Isocyanic acid,0.21
-Hydroxyacetonitrile,1.3
+diethylene glycol dinitrate,25
+peroxyacetyl nitrate,0.029
+peroxypropionyl nitrate,0.029
+nitro butaneperoxoate,0.023
+peroxy-2-propenoyl nitrate,0.017
+peroxy-isobutyryl nitrate,0.0099
+isocyanic acid,0.21
+hydroxyacetonitrile,1.3
 2-hydroxypropanenitrile,1
 3-hydroxypropanenitrile,23000
-"Cyanoethanoic acid, ethyl ester",34
+"cyanoethanoic acid, ethyl ester",34
 2-hydroxybenzoic acid nitrile,28
 3-hydroxybenzoic acid nitrile,40000
 4-hydroxybenzoic acid nitrile,14000
 "1,1’,1”-nitrilotris-2-propanol",1e+06
-Cyometrinil,11000
-Fenpropathrin,0.055
-Nitromethane,0.34
-Nitromethane-13c,0.48
-Nitroethane,0.21
+cyometrinil,11000
+fenpropathrin,0.055
+nitromethane,0.34
+nitromethane-13C,0.48
+nitroethane,0.21
 1-nitropropane,0.13
 2-nitropropane,0.083
 1-nitrobutane,0.097
-Tert-butylnitrite,7900
+tert-butylnitrite,7900
 1-nitropentane,0.047
-Tris(hydroxymethyl)ethane trinitrate,2200
+tris(hydroxymethyl)ethane trinitrate,2200
 1-nitrohexane,0.045
-Nitrocyclohexane,0.24
+nitrocyclohexane,0.24
 2-nitroethanol,160
 1-nitro-2-propanol,79
 2-nitro-1-propanol,99
 1-nitro-2-butanol,73
 2-nitro-1-butanol,75
 3-nitro-2-butanol,57
-Nitroguanidine,2.2e+10
-Tetranitromethane,0.41
+nitroguanidine,2.2e+10
+tetranitromethane,0.41
 "2-(hydroxymethyl)-2-nitro-1,3-propanediol",2.1e+06
-Nitrobenzene,0.64
-Nitrobenzene-d5,0.85
+nitrobenzene,0.64
+nitrobenzene-d5,0.85
 2-nitrotoluene,0.79
 3-nitrotoluene,1.1
 4-nitrotoluene,1.8
@@ -2140,7 +2140,7 @@ Nitrobenzene-d5,0.85
 4-hydroxy-3-nitro-benzaldehyde,9.4
 "2,4-dinitrophenol",0.11
 "2,5-dinitrophenol",15
-Picramic acid,1e+06
+picramic acid,1e+06
 4-amino-2-nitrophenol,4.5e+06
 2-amino-5-nitrophenol,1.3e+07
 2-amino-4-nitrophenol,4.5e+06
@@ -2152,7 +2152,7 @@ Picramic acid,1e+06
 "2,4,6-trinitrobenzoic acid",3.8e+08
 5-nitrobenzimidazole,27
 4-nitrobenzoic acid,26000
-Dinitrotoluene,110
+dinitrotoluene,110
 "1-methyl-3,5-dinitrobenzene",110
 1-methoxy-2-nitrobenzene,23
 2-methyl-5-nitrobenzenamine,1200
@@ -2165,21 +2165,21 @@ Dinitrotoluene,110
 1-(1-methylethyl)-4-nitrobenzene,0.24
 "2-(1-methylpropyl)-4,6-dinitrophenol",2.2
 1-nitronaphthalene,5.6
-Dinoterb,0.93
+dinoterb,0.93
 4-(1-methylpropyl)-2-nitrophenol,0.1
-Musk ambrette (artificial)c12h16n2o5,14
-Bis(p-nitrophenyl) ether,5400
-4-nitro-n-phenylbenzenamine,2400
+musk ambrette (artificial)C12H16N2O5,14
+bis(p-nitrophenyl) ether,5400
+4-nitro-N-phenylbenzenamine,2400
 "2-cyclohexyl-4,6-dinitrophenol",180
-Dipicrylamine,4.3e+11
+dipicrylamine,4.3e+11
 "1,2-dihydro-5-nitroacenaphthylene",9
 "4-nitro-1,1’-biphenyl",2.8
-2-nitro-9h-fluorene,34
+2-nitro-9H-fluorene,34
 "5-tert-butyl-4,6-dinitro-1,2,3-trimethylbenzene",34
-Penoxaline,12
+penoxaline,12
 "2,6-dinitro-4-octylphenol",0.16
-Musk ketone,3
-Moskene,48
+musk ketone,3
+moskene,48
 9-ethyl-3-nitrocarbazole,330
 "1-[(2,4-dinitrophenyl)azo]-2-naphthol",1.1e+09
 "3,7-dinitrofluoranthene",49000
@@ -2188,34 +2188,34 @@ Moskene,48
 1-nitropyrene,390
 4-nitropyrene,390
 1-[(4-methyl-2-nitrophenyl)azo]-2-naphthalenol,8.2e+06
-Phenyl 1-hydroxy-4-nitro-2-naphthoate,0.15
+phenyl 1-hydroxy-4-nitro-2-naphthoate,0.15
 6-nitrochrysene,660
 1-nitrobenzo[a]pyrene,3100
 3-nitrobenzo[a]pyrene,3100
 6-nitrobenzo[a]pyrene,3100
-Fluoromethane,0.00061
-Difluoromethane,0.00069
-Trifluoromethane,0.13
-Tetrafluoromethane,2.1e-06
-Fluoroethane,0.00048
+fluoromethane,0.00061
+difluoromethane,0.00069
+trifluoromethane,0.13
+tetrafluoromethane,2.1e-06
+fluoroethane,0.00048
 "1,1-difluoroethane",0.00053
 "1,1,1,2-tetrafluoroethane",0.18
-Pentafluoroethane,3.5e-05
-Hexafluoroethane,6.5e-07
+pentafluoroethane,3.5e-05
+hexafluoroethane,6.5e-07
 1-fluoropropane,0.00057
 2-fluoropropane,0.00025
 "1,1,1,2,2-pentafluoropropane",0.3
 "1,1,1,3,3,3-hexafluoropropane",1.2e-06
 "1,1,1,2,3,3,3-heptafluoropropane",1.4e-05
-Octafluoropropane,0.12
-Octafluorocyclobutane,1.3e-06
-Dodecafluoropentane,6.1e-06
-Fluorocyclohexane,0.0013
+octafluoropropane,0.12
+octafluorocyclobutane,1.3e-06
+dodecafluoropentane,6.1e-06
+fluorocyclohexane,0.0013
 1-fluoroheptane,0.00027
-Hexadecafluoroheptane,1.9e-07
+hexadecafluoroheptane,1.9e-07
 1-fluorooctane,0.00015
-Eicosafluorononane,4.5e-09
-Perfluoroundecane,1.3e-13
+eicosafluorononane,4.5e-09
+perfluoroundecane,1.3e-13
 "1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10-henicosafluorododecane",5.1e-10
 "1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluorotetradecane",0.64
 "1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoroicosane",2.5e-07
@@ -2225,56 +2225,56 @@ Perfluoroundecane,1.3e-13
 "1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-pentacosafluorohexacosane",1.6e-13
 "1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-pentacosafluorooctacosane",8e-14
 "1,1-difluoroethene",2.5e-05
-Tetrafluoroethene,1.6e-05
-Hexafluoropropene,0.29
+tetrafluoroethene,1.6e-05
+hexafluoropropene,0.29
 "1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12-pentacosafluorooctacos-13-ene",8e-11
-Fluorobenzene,0.0016
+fluorobenzene,0.0016
 "1,2-difluorobenzene",0.12
 "1,3-difluorobenzene",0.0013
 "1,4-difluorobenzene",0.0016
 "1,2,3,5-tetrafluorobenzene",0.0005
 "1,2,4,5-tetrafluorobenzene",0.0007
-Pentafluorobenzene,0.00075
-Hexafluorobenzene,0.00055
-Decafluorobiphenyl,0.0067
-Carbonyl fluoride,0.35
-Formyl fluoride,0.03
+pentafluorobenzene,0.00075
+hexafluorobenzene,0.00055
+decafluorobiphenyl,0.0067
+carbonyl fluoride,0.35
+formyl fluoride,0.03
 2-fluoroethanol,1.4
 "2,2,2-trifluoroethanol",0.47
 "1,1,1-trifluoro-2-propanol",0.45
 "2,2,3,3-tetrafluoro-1-propanol",1.4
 "2,2,3,3,3-pentafluoro-1-propanol",0.14
 "1,1,1,3,3,3-hexafluoro-2-propanol",0.24
-Trifluoroacetylfluoride,0.03
+trifluoroacetylfluoride,0.03
 "1,1,1-trifluoro-2-propanone",1.4
-Fluoroethanoic acid,800
-Difluoroethanoic acid,0.3
-Trifluoroethanoic acid,89
-Perfluorohexanoic acid,0.44
-Perfluoroheptanoic acid,0.00057
-Pentadecafluorooctanoic acid,0.049
-Perfluorononanoic acid,0.043
-Perfluorodecanoic acid,0.025
-Perfluoroundecanoic acid,0.013
-Perfluorododecanoic acid,0.64
-Perfluorotetradecanoic acid,0.0016
-"Ethyl 2,2,2-trifluoroethyl ether",0.00072
+fluoroethanoic acid,800
+difluoroethanoic acid,0.3
+trifluoroethanoic acid,89
+perfluorohexanoic acid,0.44
+perfluoroheptanoic acid,0.00057
+pentadecafluorooctanoic acid,0.049
+perfluorononanoic acid,0.043
+perfluorodecanoic acid,0.025
+perfluoroundecanoic acid,0.013
+perfluorododecanoic acid,0.64
+perfluorotetradecanoic acid,0.0016
+"ethyl 2,2,2-trifluoroethyl ether",0.00072
 "2,2,2-trifluoroethyl methanoate",0.0054
 "2,2,2-trifluoroethyl ethanoate",0.0055
-"Trifluoroethanoic acid, methyl ester",0.0011
-"Trifluoroethanoic acid, ethyl ester",0.00089
-Trifluoro(trifluoromethyl)-oxirane,8.8e-06
-Heptafluorobutanoic acid,0.082
+"trifluoroethanoic acid, methyl ester",0.0011
+"trifluoroethanoic acid, ethyl ester",0.00089
+trifluoro(trifluoromethyl)-oxirane,8.8e-06
+heptafluorobutanoic acid,0.082
 "3,3,4,4,4-pentafluorobutan-1-ol",0.051
 "1,1,1,2,2,3,4,5,5,5-decafluoropentane",0.44
 "1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane",9.9e-06
 "1-ethoxy-1,1,2,3,3,3-hexafluoro-2-(trifluoromethyl)propane",7.5e-06
-"1h,1h,2h,2h-perfluorohexan-1-ol",0.0066
+"1H,1H,2H,2H-perfluorohexan-1-ol",0.0066
 "1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane",7.5e-06
-"1h,1h,2h,2h-perfluorooctan-1-ol",0.00017
-"Methyl perfluoro(8-(fluoroformyl)-5-methyl-4,7-dioxanonanoate)",0.058
+"1H,1H,2H,2H-perfluorooctan-1-ol",0.00017
+"methyl perfluoro(8-(fluoroformyl)-5-methyl-4,7-dioxanonanoate)",0.058
 "3,3,4,4,5,5,6,6,6-nonafluorohexyl",3.4e-05
-"1h,1h,2h,2h-perfluorodecan-1-ol",0.0002
+"1H,1H,2H,2H-perfluorodecan-1-ol",0.0002
 "3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl acrylate",1.9e-06
 2-(perfluorohexyl)ethyl methacrylate,1.2e-06
 "1,1,2,2-tetrahydroperfluoro dodecanol",0.00013
@@ -2294,8 +2294,8 @@ Heptafluorobutanoic acid,0.082
 3-fluorophenol,9
 "2,6-difluorophenol",0.7
 "4,4’-(hexafluoroisopropylidene)diphenol",17000
-Perfluorotributylamine,1.8e-10
-Tris(undecafluoropentyl)amine,1.2e-12
+perfluorotributylamine,1.8e-10
+tris(undecafluoropentyl)amine,1.2e-12
 2-fluoroacetamide,440
 5-fluorouracil,58000
 "1-fluoro-2,4-dinitrobenzene",100
@@ -2303,38 +2303,38 @@ Tris(undecafluoropentyl)amine,1.2e-12
 4-nitro-3-(trifluoromethyl)phenol,0.52
 1-nitro-3-(trifluoromethyl)benzene,0.053
 1-isocyanato-3-(trifluoromethyl)-benzene,0.0048
-Flonicamid,2.4e+07
-Trifluridine,1e+11
-Fluometuron,5800
-Dinitramine,7.1
-5-methyl-n-[4-(trifluoromethyl)phenyl]-4-isoxazolecarboxamide,80000
-Fluconazole,9.9e+07
-Ethalfluralin,0.076
-Benfluralin,0.34
-Trifluralin,0.095
-Profluralin,0.034
-Flumequine,3.7e+07
-Flunitrazepam,430000
-Fluazifop-butyl,47
-Flumioxazin,16
-Fluridone,2800
-Cyhalofop-butyl,1000
-Raltegravir,1.1e+17
-Fluacrypyrim,0.3
-Trifloxystrobin,430
-Etoxazole,99
-Droperidol,3.7e+11
-Paliperidone,1.2e+15
-Risperidone,4.5e+10
-Ezetimibe,2.2e+12
-Cerivastatin,1.7e+13
-"Flucythrinate, isomer 1",110
-Chloromethane,0.0013
-Dichloromethane,0.0036
-Dichloromethane-d2,0.0038
-Trichloromethane,0.0025
-Tetrachloromethane,34000
-Chloroethane,0.00083
+flonicamid,2.4e+07
+trifluridine,1e+11
+fluometuron,5800
+dinitramine,7.1
+5-methyl-N-[4-(trifluoromethyl)phenyl]-4-isoxazolecarboxamide,80000
+fluconazole,9.9e+07
+ethalfluralin,0.076
+benfluralin,0.34
+trifluralin,0.095
+profluralin,0.034
+flumequine,3.7e+07
+flunitrazepam,430000
+fluazifop-butyl,47
+flumioxazin,16
+fluridone,2800
+cyhalofop-butyl,1000
+raltegravir,1.1e+17
+fluacrypyrim,0.3
+trifloxystrobin,430
+etoxazole,99
+droperidol,3.7e+11
+paliperidone,1.2e+15
+risperidone,4.5e+10
+ezetimibe,2.2e+12
+cerivastatin,1.7e+13
+"flucythrinate, isomer 1",110
+chloromethane,0.0013
+dichloromethane,0.0036
+dichloromethane-d2,0.0038
+trichloromethane,0.0025
+tetrachloromethane,34000
+chloroethane,0.00083
 "1,1-dichloroethane",0.17
 "1,2-dichloroethane",0.0089
 "1,2-dichloroethane-d4",0.0087
@@ -2343,8 +2343,8 @@ Chloroethane,0.00083
 "1,1,2-trichloroethane-d3",0.013
 "1,1,1,2-tetrachloroethane",0.42
 "1,1,2,2-tetrachloroethane",0.024
-Pentachloroethane,0.45
-Hexachloroethane,0.0025
+pentachloroethane,0.45
+hexachloroethane,0.0025
 1-chloropropane,0.00069
 2-chloropropane,0.00054
 "1,1-dichloropropane",0.0026
@@ -2387,38 +2387,38 @@ Hexachloroethane,0.0025
 1-chlorodecane,0.16
 "1,10-dichlorodecane",0.002
 "1,2,9,10-tetrachlorodecane",0.056
-Pentachlorodecane isomers,0.2
+pentachlorodecane isomers,0.2
 1-chloroundecane,0.00017
 "1,2,10,11-tetrachloroundecane",0.16
-Pentachloroundecane isomers,0.68
+pentachloroundecane isomers,0.68
 1-chlorododecane,0.00023
 "1,12-dichlorododecane",0.0015
 1-chlorotridecane,0.00029
 1-chlorotetradecane,0.00039
-Tetrachlorocyclopentane,0.0064
+tetrachlorocyclopentane,0.0064
 "1,1,2,3,3,4-hexachlorocyclopentane",0.051
 "1,1,2,3,3,4,5-heptachlorocyclopentane",0.15
 "1,2,3,3,4,5-hexachlorocyclopentene",0.014
-Heptachlorocyclopentene,0.039
-Chlorocyclohexane,0.0028
-"4,5,6,7,8,8-hexachloro-3a,4,7,7a-tetrahydro-4,7-methano-1h-indene",0.02
-Mirex,0.12
-Dechlorane plus,1.3
-Chloroethene,0.00038
-Chloroethene-d3,0.00038
+heptachlorocyclopentene,0.039
+chlorocyclohexane,0.0028
+"4,5,6,7,8,8-hexachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",0.02
+mirex,0.12
+dechlorane plus,1.3
+chloroethene,0.00038
+chloroethene-d3,0.00038
 "1,1-dichloroethene",0.37
 "1,2-dichloroethene",0.00037
-Trichloroethene,0.0011
-Tetrachloroethene,0.00062
-Dichloroethyne,0.00049
+trichloroethene,0.0011
+tetrachloroethene,0.00062
+dichloroethyne,0.00049
 1-chloro-1-propene,0.00018
 2-chloro-1-propene,0.00014
 3-chloro-1-propene,0.00091
 "1,1-dichloropropene",0.00061
 "1,2-dichloropropene",0.002
 "1,3-dichloropropene",0.0064
-"Cis-1,3-dichloropropene",0.0042
-"Trans-1,3-dichloropropene",0.56
+"cis-1,3-dichloropropene",0.0042
+"trans-1,3-dichloropropene",0.56
 "2,3-dichloropropene",0.0028
 "1,2,3-trichloro-1-propene",55000
 "1,1,2,3,3,3-hexachloro-1-propene",0.0062
@@ -2428,15 +2428,15 @@ Dichloroethyne,0.00049
 "3,4-dichloro-1-butene",0.0011
 1-chloro-2-methylpropene,0.52
 "2-chloro-1,3-butadiene",0.047
-Hexachlorobutadiene,0.00083
-Hexachlorocyclopentadiene,0.00037
-Chlordane,0.18
-Cis-chlordane,0.17
-Trans-chlordane,0.17
-Cis-nonachlor,1.4
-Trans-nonachlor,0.031
-Chlorobenzene,0.0027
-Chlorobenzene-d5,0.36
+hexachlorobutadiene,0.00083
+hexachlorocyclopentadiene,0.00037
+chlordane,0.18
+cis-chlordane,0.17
+trans-chlordane,0.17
+cis-nonachlor,1.4
+trans-nonachlor,0.031
+chlorobenzene,0.0027
+chlorobenzene-d5,0.36
 "1,2-dichlorobenzene",0.0068
 "1,2-dichlorobenzene-d4",0.0082
 "1,3-dichlorobenzene",0.34
@@ -2449,8 +2449,8 @@ Chlorobenzene-d5,0.36
 "1,2,3,4-tetrachlorobenzene",0.0035
 "1,2,3,5-tetrachlorobenzene",0.0063
 "1,2,4,5-tetrachlorobenzene",0.018
-Pentachlorobenzene,0.014
-Hexachlorobenzene,0.19
+pentachlorobenzene,0.014
+hexachlorobenzene,0.19
 1-chloro-2-methylbenzene,0.0032
 1-chloro-3-methylbenzene,0.00062
 1-chloro-4-methylbenzene,0.0041
@@ -2459,37 +2459,37 @@ Hexachlorobenzene,0.19
 "1-methyl-2,4-dichlorobenzene",0.0027
 "1-methyl-2,4,5-trichlorobenzene",0.66
 "1-methyl-2,3,6-trichlorobenzene",0.0066
-Pentachloromethylbenzene,0.013
+pentachloromethylbenzene,0.013
 1-chloro-2-(chloromethyl)benzene,0.0064
 1-chloro-4-(chloromethyl)benzene,0.029
-Chloro(dichloromethyl)benzene,0.018
+chloro(dichloromethyl)benzene,0.018
 1-chloro-4-(trichloromethyl)benzene,0.051
 1-chloro-3-ethenylbenzene,0.0047
 1-chloro-4-ethenylbenzene,0.0047
 "1,4-dichloro-2,5-dimethylbenzene",0.0027
 "1,4-bis(trichloromethyl)benzene",0.79
 2-chlorostyrene,0.0047
-Octachlorostyrene,0.076
+octachlorostyrene,0.076
 1-chloronaphthalene,0.028
 2-chloronaphthalene,300
 "1,2,3-trichloronaphthalene",0.032
 "1,2,3,4-tetrachloronaphthalene",0.041
 "1,2,3,4,5-pentachloronaphthalene",0.082
 "1,2,3,4,5,6-hexachloronaphthalene",0.11
-Octachloronaphthalene,0.014
-Heptachlor,0.33
+octachloronaphthalene,0.014
+heptachlor,0.33
 "1,3-dichloronaphthalene",0.034
 1-chloro-2-methyl-2-phenylpropane,0.002
-"1,3-dichloro-5-[(2s)-2,4,4,4-tetrachlorobutan-2-yl]benzene",0.084
-"1,2,3,4,5,6,7,8,8-nonachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1h-indene",0.39
+"1,3-dichloro-5-[(2S)-2,4,4,4-tetrachlorobutan-2-yl]benzene",0.084
+"1,2,3,4,5,6,7,8,8-nonachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",0.39
 "1,1-dichloro-2,2-bis-(4-chlorophenyl)-ethane",1.5
-Mitotane,1.2
+mitotane,1.2
 "1,1-dichloro-2,2-bis-(4-chlorophenyl)-ethene",0.24
-"O,p’-dde",0.39
+"o,p’-DDE",0.39
 "1,1,1-trichloro-2-(2-chlorophenyl)-2-(4-chlorophenyl)ethane",2.9
 "1,1,1-trichloro-2,2-bis-(4-chlorophenyl)-ethane",0.91
-Aldrin,0.067
-Isodrin,0.025
+aldrin,0.067
+isodrin,0.025
 "1,1’-(2,2-dichloroethylidene)bis[4-ethylbenzene",0.058
 2-chlorobiphenyl,0.03
 3-chlorobiphenyl,0.032
@@ -2699,52 +2699,52 @@ Isodrin,0.025
 "2,2’,3,3’,4,4’,5,5’,6-nonachlorobiphenyl",0.0021
 "2,2’,3,3’,4,4’,5,6,6’-nonachlorobiphenyl",0.0018
 "2,2’,3,3’,4,5,5’,6,6’-nonachlorobiphenyl",0.003
-Decachlorobiphenyl,0.00067
-Phosgene,0.00059
-Dichloroacetaldehyde,1.2
-Chloroacetyl chloride,0.043
-Chloral hydrate,2400
-Chloroacetaldehyde,0.41
+decachlorobiphenyl,0.00067
+phosgene,0.00059
+dichloroacetaldehyde,1.2
+chloroacetyl chloride,0.043
+chloral hydrate,2400
+chloroacetaldehyde,0.41
 2-chloroethanol,95
 2-chloroethanol-d4,5
 "1,1,1-trichloro-2-propanone",4.5
 "1,1-dichloro-2-propanone",1.6
-"Carbonochloridic acid, 2-chloroethyl",0.009
-"Carbonochloridic acid, ethyl ester",0.0032
+"carbonochloridic acid, 2-chloroethyl",0.009
+"carbonochloridic acid, ethyl ester",0.0032
 2-chloropropanoic acid,38
 "2,3-dichloro-1-propanol",0.33
 "1,3-dichloro-2-propanol",5.8
 "3-chloro-1,2-propanediol",160
 1-chloro-2-propanol,5.8
 2-chloro-1-propanol,5.8
-Trichloroethanal,3400
-Chloro-2-propanone,0.58
-Chloroethanoic acid,1100
-Dichloroethanoic acid,1200
-Trichloroethanoic acid,730
+trichloroethanal,3400
+chloro-2-propanone,0.58
+chloroethanoic acid,1100
+dichloroethanoic acid,1200
+trichloroethanoic acid,730
 "2,2-dichloro-propanoic acid",3.5e+08
-Trichloroacetylchloride,0.2
-Hexachloroacetone,100
-Methyl chloroethanoate,0.041
-Ethyl chloroethanoate,0.12
-Chloroacetic acid anhydride,2.2
-"Carbonochloridic acid, 1-methylethyl",0.0024
-Chlorobutanol,4.5
-3-chloro-4-(dichloromethyl)-2-(5h)-furanone,1.5
-3-chloro-4-(dichloromethyl)-5-hydroxy-2-(5h)-furanone,39000
+trichloroacetylchloride,0.2
+hexachloroacetone,100
+methyl chloroethanoate,0.041
+ethyl chloroethanoate,0.12
+chloroacetic acid anhydride,2.2
+"carbonochloridic acid, 1-methylethyl",0.0024
+chlorobutanol,4.5
+3-chloro-4-(dichloromethyl)-2-(5H)-furanone,1.5
+3-chloro-4-(dichloromethyl)-5-hydroxy-2-(5H)-furanone,39000
 "1,2,4-trichloro-2-methyl-3-pentanone",1.9
-Bis(2-chloroisopropyl) ether,0.3
-"Butyl 2,2,3,4,4-pentachloro-3-butenoate",0.39
+bis(2-chloroisopropyl) ether,0.3
+"butyl 2,2,3,4,4-pentachloro-3-butenoate",0.39
 "3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carbonyl",0.016
 "3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic",19
-"Hexanoic acid, 3,3-dimethyl-4,6,6,6-tetrachloro, methyl ester",0.67
-"Methyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",0.061
-Oxychlordane,0.06
-Kepone,180
-Bis-(2-chloroethoxy)-methane,2.5
-Bis-(chloromethyl) ether,0.048
+"hexanoic acid, 3,3-dimethyl-4,6,6,6-tetrachloro, methyl ester",0.67
+"methyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",0.061
+oxychlordane,0.06
+kepone,180
+bis-(2-chloroethoxy)-methane,2.5
+bis-(chloromethyl) ether,0.048
 "1,5-dichloro-3-oxapentane",0.34
-Bis-(2-chloroisopropyl) ether,0.42
+bis-(2-chloroisopropyl) ether,0.42
 "1,2-bis(2-chloroethoxy)ethane",13
 2-hydroxychlorobenzene,1.5
 3-hydroxychlorobenzene,34
@@ -2764,7 +2764,7 @@ Bis-(2-chloroisopropyl) ether,0.42
 "2,3,4,5-tetrachlorophenol",7.2
 "2,3,4,6-tetrachlorophenol",7.6
 "2,3,5,6-tetrachlorophenol",4.3
-Hydroxypentachlorobenzene,410
+hydroxypentachlorobenzene,410
 "3,4,5-trichloro-1,2-benzenediol",240
 "4,5-dichloro-1,2-benzenediol",1300
 "3,4,5,6-tetrachloro-1,2-benzenediol",29
@@ -2790,7 +2790,7 @@ Hydroxypentachlorobenzene,410
 "1,2,3,4-tetrachloro-5-methoxybenzene",0.0065
 "1,2,3,5-tetrachloro-4-methoxybenzene",0.0031
 "1,2,4,5-tetrachloro-3-methoxybenzene",0.32
-Pentachloromethoxybenzene,0.0021
+pentachloromethoxybenzene,0.0021
 "4,5-dichloro-2-methoxyphenol",5.2
 "4,5,6-trichloro-2-methoxyphenol",7.4
 "2,3,4,5-tetrachloro-6-methoxyphenol",6.2
@@ -2804,64 +2804,64 @@ Pentachloromethoxybenzene,0.0021
 5-chloro-2-methoxybenzoic acid,2100
 2-chloroacetophenone,2.8
 "2,2,2’,4’,5’-pentachloroacetophenone",20
-Tetrachloroterephthaloyl chloride,10
-Chloroxylenol,19
+tetrachloroterephthaloyl chloride,10
+chloroxylenol,19
 "4,5,6,7-tetrachloro-1,3-isobenzofurandione",5.2
 "3,4,5-trichloro-2,6-dimethoxyphenol",45
 "4,5,6,7-tetrachlorophthalide",18
-Dicamba,23000
+dicamba,23000
 "2,4,5-trichlorophenoxyethanoic acid",170
 "1,4-dichloro-2,5-dimethoxybenzene",0.099
 "2,3,6-trichlorophenylacetic acid",0.83
 4-methoxy-benzoyl chloride,1.3
-Isobenzan,170
+isobenzan,170
 "2-chloro-4-hydroxy-3,5-dimethoxybenzaldehyde",91
 "2,6-dichloro-4-hydroxy-3,5-dimethoxybenzaldehyde",270
-"Methyl 2,4-dichlorophenoxyethanoate",1.8
+"methyl 2,4-dichlorophenoxyethanoate",1.8
 "2-(2,4,5-trichlorophenoxy)propanoic",39000
-Tridiphane,0.19
-Plifenat,11000
-"Ethyl 2,4-dichlorophenoxyethanoate",1.2
-Dacthal,4.4
+tridiphane,0.19
+plifenat,11000
+"ethyl 2,4-dichlorophenoxyethanoate",1.2
+dacthal,4.4
 "4-(2,4-dichlorophenoxy)-butanoic acid",4300
-Dichlone,9700
+dichlone,9700
 4-(4-chloro-2-methylphenoxy)butanoic,3100
-Triclosan,470
-Monobutyl tetrachlorophthalate,20000
-Sucralose,2.5e+13
+triclosan,470
+monobutyl tetrachlorophthalate,20000
+sucralose,2.5e+13
 "1,2,3,4,6-pentachlorodibenzo-p-dioxin",4.5
-Endrin aldehyde,2.3
-Clorophene,3700
+endrin aldehyde,2.3
+clorophene,3700
 "1-(4-chlorophenyl)-4,4-dimethyl-3-pentanone",1.1
-Hexachlorophene,0.18
+hexachlorophene,0.18
 "2,4’-dichlorobenzophenone",9.2
 "1-(4-chlorophenyl)-4,4-dimethylpent-1-en-3-one",4.8
-Dichlorophen,8.2e+06
+dichlorophen,8.2e+06
 "2-chloro-9,10-anthracenedione",4200
-Dicofol,41
-"Bis(2,4-dichlorobenzoyl)peroxide",9.2
-Dipropyl tetrachlorophthalate,47
+dicofol,41
+"bis(2,4-dichlorobenzoyl)peroxide",9.2
+dipropyl tetrachlorophthalate,47
 2-(4-chlorobenzoyl)benzoic acid,340000
 "1-chloro-9,10-anthracenedione",4200
 "4,4’-(1-methylethylidene)bis(2,6-dichlorophenol)",3.5e+06
-Methoxychlor,49
-Diclofop-methyl,5
-Chlorobenzilate,140
-Chloropropylate,1200
+methoxychlor,49
+diclofop-methyl,5
+chlorobenzilate,140
+chloropropylate,1200
 "1-(2-(2-chloroethoxy)ethoxy)-4-(1,1,3,3-tetramethylbutyl)benzene",0.53
-Fenofibrate,2200
-Spirodiclofen,170
-Permethrin,4.1
-Chlormadinone acetate,18000
+fenofibrate,2200
+spirodiclofen,170
+permethrin,4.1
+chlormadinone acetate,18000
 "3,4,5,6-tetrachlorophthalic acid bis(2-ethylhexyl) ester",2.8
-Endosulfan alcohol,7700
-Chlorendic anhydride,110
+endosulfan alcohol,7700
+chlorendic anhydride,110
 "1,4,5,6,7,7-hexachloro-bicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid",3.3e+08
-Heptachlorepoxide,0.48
-Dieldrin,1
-Endrin,1.6
+heptachlorepoxide,0.48
+dieldrin,1
+endrin,1.6
 "1,4,5,6,7,7-hexachlorobicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid, dibutyl",580
-Di-2-ethylhexyl chlorendate,60
+di-2-ethylhexyl chlorendate,60
 2-chlorodiphenyl ether,0.031
 3-chlorodiphenyl ether,0.12
 4-chlorodiphenyl ether,0.11
@@ -2971,7 +2971,7 @@ Di-2-ethylhexyl chlorendate,60
 "2,2’,3,3’,4,5,5’,6’-octachlorodiphenyl",0.0026
 "2,2’,3,4,4’,5,5’,6-octachlorodiphenyl",0.0023
 "2,2’,3,3’,4,4’,5,5’,6-nonachlorodiphenyl ether",0.00051
-Decachlorodiphenyl ether,7.1e-05
+decachlorodiphenyl ether,7.1e-05
 1-chlorodibenzofuran,0.083
 2-chlorodibenzofuran,0.11
 3-chlorodibenzofuran,0.13
@@ -3181,17 +3181,17 @@ Decachlorodiphenyl ether,7.1e-05
 "2,3,4,6,7,8-hexachlorodibenzo[b,e][1,4]dioxin",2.4
 "1,2,3,4,6,7,8-heptachlorodibenzo[b,e][1,4]dioxin",7.5
 "1,2,3,4,6,7,9-heptachlorodibenzo[b,e][1,4]dioxin",3.4
-"Octachlorodibenzo[b,e][1,4]dioxin",1.5
-Cyanogen chloride,0.012
-Chloroacetonitrile,0.91
-Dichloroacetonitrile,2.6
-Trichloroacetonitrile,7.6
-Tetramethylammonium chloride,2.3e+06
-Metformin hydrochloride,1.3e+10
-Tris(2-chloroethyl)amine,0.53
-Bis(2-chloroethyl)ethylamine,0.029
-Cetrimonium chloride,34000
-Dimethyldioctadecylammonium chlo-ride,150
+"octachlorodibenzo[b,e][1,4]dioxin",1.5
+cyanogen chloride,0.012
+chloroacetonitrile,0.91
+dichloroacetonitrile,2.6
+trichloroacetonitrile,7.6
+tetramethylammonium chloride,2.3e+06
+metformin hydrochloride,1.3e+10
+tris(2-chloroethyl)amine,0.53
+bis(2-chloroethyl)ethylamine,0.029
+cetrimonium chloride,34000
+dimethyldioctadecylammonium chlo-ride,150
 1-amino-2-chlorobenzene,1.8
 1-amino-3-chlorobenzene,9.8
 1-amino-4-chlorobenzene,3.2
@@ -3211,26 +3211,26 @@ Dimethyldioctadecylammonium chlo-ride,150
 5-chloro-2-methylbenzenamine,6.3
 "2,4,5,6-tetrachloro-1,3-dicyanobenzene",0.5
 2-chlorobenzalmalononitrile,990
-Benzyltrimethylammonium chloride,2.9e+08
-Chlordimeform,29
+benzyltrimethylammonium chloride,2.9e+08
+chlordimeform,29
 "4,4’-dichloroazobenzene",1.2
-"Bis(3,4-dichlorophenyl)diazene",2.2
+"bis(3,4-dichlorophenyl)diazene",2.2
 2-(p-chlorophenyl)-3-methylbutyronitrile,2.3
 "3,3’-dichloro-(1,1’-biphenyl)-4,4’-diamine",200
 "4,4’-methylenebis(2-chlorobenzenamine)",900000
-"Aniline, 4,4’-(imidocarbonyl)bis-(n,n-dimethyl)-, hydrochloride",0.35
-Amitriptyline hydrochloride,140
-Chlorhexidine,9e+24
-Malachite green,5.2e+08
-Tetradecylbenzyldimethyl ammonium,760000
-Stearyldimethylbenzylammonium chlo-ride,230000
+"aniline, 4,4’-(imidocarbonyl)bis-(N,N-dimethyl)-, hydrochloride",0.35
+amitriptyline hydrochloride,140
+chlorhexidine,9e+24
+malachite green,5.2e+08
+tetradecylbenzyldimethyl ammonium,760000
+stearyldimethylbenzylammonium chlo-ride,230000
 "2,4,6-trichloro-1,3,5-triazine",20
 2-chloropyridine,0.74
 3-chloropyridine,0.35
 "2,3,4,6-tetrachloropyridine",0.0012
 "2,3,5,6-tetrachloropyridine",0.12
-Pentachloropyridine,0.0016
-Desethylatrazine,6600
+pentachloropyridine,0.0016
+desethylatrazine,6600
 2-chloro-6-(trichloromethyl)-pyridine,0.62
 "2,3,4,5-tetrachloro-6-methylpyridine",0.067
 2-chloro-5-(trichloromethyl)pyridine,0.62
@@ -3240,34 +3240,34 @@ Desethylatrazine,6600
 "2,3,4,5-tetrachloro-6-(trichloromethyl)pyridine",1.5
 "3,4,5,6-tetrachloropyridine-2-carbonitrile",7.5
 "4-amino-3,5,6-trichloropyridine-2-carbonitrile",16000
-Crimidine,260
-Simazine,10000
-Desethylterbuthylazine,2200
-Atrazine,1900
-Clonidine,660000
-Cyprazine,3800
-Propazine,2100
-Terbuthylazine,430
-Cyanazine,3.3e+06
-Anilazine,35000
+crimidine,260
+simazine,10000
+desethylterbuthylazine,2200
+atrazine,1900
+clonidine,660000
+cyprazine,3800
+propazine,2100
+terbuthylazine,430
+cyanazine,3.3e+06
+anilazine,35000
 "4,7-dichloroquinoline",26
-Acetamiprid,140
-Pyrimethamine,91000
-Penconazole,1200
-Myclobutanil,2300
+acetamiprid,140
+pyrimethamine,91000
+penconazole,1200
+myclobutanil,2300
 "2-chloro-4,6-bis(2,4-dimethylphenyl)-1,3,5-triazine",0.12
-Trichloronitromethane,0.0047
-Phosgene oxime,18
+trichloronitromethane,0.0047
+phosgene oxime,18
 "1,1-dichloro-1-nitroethane",0.0077
 2-chloroacetamide,2500
-Symclosene,160000
+symclosene,160000
 "1,3-dichloro-5,5-dimethylhydantoin",9.9
-Carmustine,210000
-"2-chloro-n,n-di-2-propenylacetamide",92
-"2,2-dichloro-n,n-di-2-propenylacetamide",31
-Lomustine,55000
-Semustine,39000
-Dimethazone,0.24
+carmustine,210000
+"2-chloro-N,N-di-2-propenylacetamide",92
+"2,2-dichloro-N,N-di-2-propenylacetamide",31
+lomustine,55000
+semustine,39000
+dimethazone,0.24
 2-chloronitrobenzene,1.1
 3-chloronitrobenzene,0.73
 4-chloronitrobenzene,2
@@ -3276,7 +3276,7 @@ Dimethazone,0.24
 "2,3-dichloronitrobenzene",0.82
 "2,4-dichloronitrobenzene",0.31
 "3,5-dichloronitrobenzene",0.84
-Pentachloronitrobenzene,2.7
+pentachloronitrobenzene,2.7
 4-chloro-2-nitrophenol,0.78
 2-chloro-4-nitrobenzenamine,1000
 2-chloro-5-nitrobenzenamine,1800
@@ -3289,7 +3289,7 @@ Pentachloronitrobenzene,2.7
 "1,2,4,5-tetrachloronitrobenzene",0.43
 4-chloro-2-nitrobenzenamine,82
 4-chloro-3-nitrobenzenamine,1800
-Botran,120
+botran,120
 "3,5-dichlorophenyl isocyanate",0.077
 4-chloro-3-nitrobenzoic acid,31000
 1-chloro-4-isocyanatobenzene,0.57
@@ -3300,129 +3300,129 @@ Botran,120
 "3-amino-2,5-dichlorobenzoic acid",3.6
 "2,3,5,6-tetrachloro-4-nitroanisole",0.52
 "2,6-dichlorobenzamide",8200
-Swep,820
-Methyl 5-chloro-2-nitrobenzoate,97
+swep,820
+methyl 5-chloro-2-nitrobenzoate,97
 "4-chloro-2,5-dimethoxynitrobenzene",0.18
-Chloraniformethan,2.3e+10
-Monuron,17000
-Monolinuron,210
-Diuron,20000
-Propanil,5800
-Methazole,43
-Chlortoluron,70000
-Metoxuron,690
-Chlorpropham,23
-Pyrazon,0.3
-"2,4-d dimethylamine",7e+10
+chloraniformethan,2.3e+10
+monuron,17000
+monolinuron,210
+diuron,20000
+propanil,5800
+methazole,43
+chlortoluron,70000
+metoxuron,690
+chlorpropham,23
+pyrazon,0.3
+"2,4-D dimethylamine",7e+10
 "3’,4’-dichlorocyclopropanecarboxanilide",3800
-Chlorbufam,1100
-Zarilamid,150000
-Chloramphenicol,4.3e+12
-Cloethocarb,500000
-Formetanate hydrochloride,4.3e+13
-Cyclanilide,14000
-Propachlor,27
-Barban,820
-Propyzamide,5.2
+chlorbufam,1100
+zarilamid,150000
+chloramphenicol,4.3e+12
+cloethocarb,500000
+formetanate hydrochloride,4.3e+13
+cyclanilide,14000
+propachlor,27
+barban,820
+propyzamide,5.2
 "2,4,6-trichlorophenyl 4-nitrophenyl",8.1
-Nitrofen,3.3
-Buturon,13000
-Triclocarban,220000
-"3,5-dichloro-n-(3,4-dichlorophenyl)-2-hydroxybenzamide",210000
-Procymidone,0.85
-Melphalan,2.3e+07
-Niclosamide,15000
-Zoxamide,4900
-Fenhexamid,200000
-Chlorambucil,37000
-2-chloro-n-(ethoxymethyl)-n-(2-ethyl-6-methylphenyl)acetamide,0.37
-Alachlor,670
-Bifenox,3.7
-Metolachlor,750
-Clonitralid,26000
-Chloroxuron,24000
-Pigment red 4,0.11
-Darendoside b,2.7e+07
-Butenachlor,100
-Butachlor,160
-Pretilachlor,4500
-Halofenozide,270000
-Ochratoxin c,7.6e+08
-Mandipropamid,11000
-Fenvalerate,290
-Esfenvalerate,24
-Picloram,0.3
-Aminopyralid,5.8e+06
+nitrofen,3.3
+buturon,13000
+triclocarban,220000
+"3,5-dichloro-N-(3,4-dichlorophenyl)-2-hydroxybenzamide",210000
+procymidone,0.85
+melphalan,2.3e+07
+niclosamide,15000
+zoxamide,4900
+fenhexamid,200000
+chlorambucil,37000
+2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,0.37
+alachlor,670
+bifenox,3.7
+metolachlor,750
+clonitralid,26000
+chloroxuron,24000
+pigment red 4,0.11
+darendoside b,2.7e+07
+butenachlor,100
+butachlor,160
+pretilachlor,4500
+halofenozide,270000
+ochratoxin C,7.6e+08
+mandipropamid,11000
+fenvalerate,290
+esfenvalerate,24
+picloram,0.3
+aminopyralid,5.8e+06
 "3,4,5,6-tetrachloropyridine-2-carboxylic acid",3700
-Clopidol,9900
-Uracil mustard,2.5e+07
-Imidacloprid,4.9e+09
-"Ethyl [(3,5,6-trichloro-2-pyridinyl)oxy]acetate",4.5
-Terbacil,0.52
-Triforine,2600
-Anagrelide,3.7e+07
-Fenpiclonil,1900
-Fenchlorazole-ethyl,2700
-Vinclozoline,580
-Forchlorfenuron,3.5e+06
-Myclozolin,370
-Clofencet,1.9e+08
-Chlozolinate,440
-Monalide,400
-Etaconazole,7900
-Triadimenol,7.6e+06
-Triadimefon,120000
-Imazalil,0.38
-Propiconazole,11000
-Clonazepam,1.4e+07
-Oxazepam,18000
-Oxadiazon,140
-Cyproconazole,14000
-Diclobutrazol,8000
-Diazepam,2700
-Bendamustine,2.5e+07
-Piperalin,430
-Tebuconazole,70000
-Fenarimol,1400
-Triticonazole,66000
-Boscalid,19000
-Tebufenpyrad,0.82
+clopidol,9900
+uracil mustard,2.5e+07
+imidacloprid,4.9e+09
+"ethyl [(3,5,6-trichloro-2-pyridinyl)oxy]acetate",4.5
+terbacil,0.52
+triforine,2600
+anagrelide,3.7e+07
+fenpiclonil,1900
+fenchlorazole-ethyl,2700
+vinclozoline,580
+forchlorfenuron,3.5e+06
+myclozolin,370
+clofencet,1.9e+08
+chlozolinate,440
+monalide,400
+etaconazole,7900
+triadimenol,7.6e+06
+triadimefon,120000
+imazalil,0.38
+propiconazole,11000
+clonazepam,1.4e+07
+oxazepam,18000
+oxadiazon,140
+cyproconazole,14000
+diclobutrazol,8000
+diazepam,2700
+bendamustine,2.5e+07
+piperalin,430
+tebuconazole,70000
+fenarimol,1400
+triticonazole,66000
+boscalid,19000
+tebufenpyrad,0.82
 "8,9,10,11-tetrachloro-12-phthaloperinone",480000
-Pigment red 254,3.4e+09
-Quizalofop ethyl,900
-Pyraclostrobine,190000
-Ponsol red violet 2rnx,2.4e+10
-Dimethomorph,9.9e+09
-Aripiprazole,9.9e+11
-Ag-g-86814,1.8e+14
+pigment red 254,3.4e+09
+quizalofop ethyl,900
+pyraclostrobine,190000
+ponsol red violet 2rnx,2.4e+10
+dimethomorph,9.9e+09
+aripiprazole,9.9e+11
+ag-g-86814,1.8e+14
 "8,18-dichloro-5,15-diethyl-5,15-dihydrodiindolo(3,2-b:3’,2’-m)triphenodioxazine",8e+06
-Fluoroethene,8.2e-05
+fluoroethene,8.2e-05
 "1,2-difluoroethane",0.25
-Trifluoroethene,2.3e-05
+trifluoroethene,2.3e-05
 "3,3,3-trifluoropropene",1.3e-05
 "1,1,3,3,3-pentafluoro-2-(trifluoromethyl)-1-propene",2.9e-07
-Decafluorobutane,1.5e-08
-Tetradecafluorohexane,5.4e-10
+decafluorobutane,1.5e-08
+tetradecafluorohexane,5.4e-10
 "1,1,1,3,3,3-hexafluoro-2-propanone",0.0032
-Desflurane,0.00014
-Sevoflurane,5.2e-05
-Metofluthrin,1
-Fluoxymesterone,16000
-Dexamethasone,140
-Flocoumafen,1.4e+07
-Chlorofluoromethane,0.15
-Chlorodifluoromethane,0.00034
-Dichlorofluoromethane,0.00091
-Chlorotrifluoromethane,9.9e-06
-Dichlorodifluoromethane,3e-05
-Trichlorofluoromethane,0.00011
+desflurane,0.00014
+sevoflurane,5.2e-05
+metofluthrin,1
+fluoxymesterone,16000
+dexamethasone,140
+flocoumafen,1.4e+07
+chlorofluoromethane,0.15
+chlorodifluoromethane,0.00034
+dichlorofluoromethane,0.00091
+chlorotrifluoromethane,9.9e-06
+dichlorodifluoromethane,3e-05
+trichlorofluoromethane,0.00011
 "1,1,1,2-tetrachlorodifluoroethane",6.2e-05
 "1,1,2,2-tetrachlorodifluoroethane",9e-05
 "1,1,1-trichloro-2,2,2-trifluoroethane",3.7e-05
 "1,1,2-trichloro-1,2,2-trifluoroethane",0.0002
 "1,1-dichlorotetrafluoroethane",8.2e-06
 "1,2-dichlorotetrafluoroethane",9e-06
-Chloropentafluoroethane,3.4e+06
+chloropentafluoroethane,3.4e+06
 "1,1,2,2-tetrachloro-1-fluoroethane",0.0033
 "1,1-dichloro-1,2,2-trifluoroethane",0.0001
 "1,2-dichloro-1,1,2-trifluoroethane",0.0001
@@ -3434,69 +3434,69 @@ Chloropentafluoroethane,3.4e+06
 "1,1-dichloro-1-fluoroethane",0.00029
 "1-chloro-1,1-difluoroethane",0.00015
 "2-chloro-1,1-difluoroethene",0.00017
-Chlorotrifluoroethene,3.2e-05
+chlorotrifluoroethene,3.2e-05
 "3,3-dichloro-1,1,1,2,2-pentafluoropropane",0.98
 "1,3-dichloro-1,1,2,2,3-pentafluoro-propane",0.00011
 1-chloro-3-(trifluoromethyl)benzene,0.00029
 1-chloro-4-(trifluoromethyl)benzene,0.00028
 3-chloro-4-fluorobenzotrifluoride,0.00024
 "3,4-dichlorobenzotrifluoride",0.00038
-Chlorodifluoroethanoic acid,250
-Carbonic chloride fluoride,0.099
-Trifluoroacetylchloride,0.02
+chlorodifluoroethanoic acid,250
+carbonic chloride fluoride,0.099
+trifluoroacetylchloride,0.02
 "2,2-dichloro-1,1-difluoro-1-methoxyethane",0.29
 "1-chloro-2,2,2-trifluoroethyl difluo-romethyl ether",0.00024
 "2-chloro-1,1,2-trifluoroethyl difluo-romethyl ether",0.0003
 3-[2-chloro-4-(trifluoromethyl)phenoxy]benzoic,640
 3-(2-chloro-4-(trifluoromethyl)phenoxy)phenyl,1.1
-Tefluthrin,0.0062
-Clobetasol,62000
+tefluthrin,0.0062
+clobetasol,62000
 4-fluoroaniline,1.6
-Cinacalcet,45
-Hydramethylnon,4.5
+cinacalcet,45
+hydramethylnon,4.5
 "3,5-dichloro-2,4,6-trifluoropyridine",1.6
-Chlorodifluoronitrooxymethane,0.029
+chlorodifluoronitrooxymethane,0.029
 1-chloro-2-nitro-4-(trifluoromethyl)-benzene,0.072
 "2-chloro-1,3-dinitro-5-(trifluoromethyl)-benzene",18
-Fluroxypyr,570000
-Norflurazon,29000
-Fluchloralin,0.66
-Fluazinam,0.39
+fluroxypyr,570000
+norflurazon,29000
+fluchloralin,0.66
+fluazinam,0.39
 5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitrophenol,9.9
-Tetraconazole,2300
-Fluopicolide,9000
-Difluron,2100
-Efavirenz,1400
-Quinoxyfen,1000
+tetraconazole,2300
+fluopicolide,9000
+difluron,2100
+efavirenz,1400
+quinoxyfen,1000
 5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitrophenyl acetate,270
-Oxyfluorfen,12
-Pyraflufen-ethyl,12000
-Carfentrazone ethyl,3300
-Triflumizole,2.5e+07
-"3-(2,4-dichlorophenyl)-6-fluoro-2-(1h-1,2,4-triazol-1-yl)-quinazolin-4(3h)-one",0.56
-Hexaflumuron,0.99
-Nuarimol,1.5e+07
-Clodinafop-propargyl,3500
-Flamprop-methyl,2200
-Pyridalyl,4.9e+06
-Lactofen,23
-Chlorfluazuron,3.9e+08
-Fluazuron,2.3e+10
-Flufenoxuron,3.8e+06
-Fluoxastrobin,9e+06
-Haloperidol,4.3e+08
-Indoxacarb,15000
-Cyfluthrin,0.34
-Metamifop,16
-Cyhalothrin,0.7
-Bifenthrin,9.9
-Flucycloxuron,38
-Fluvalinate,660
-Bromomethane,0.0017
-Dibromomethane,0.31
-Tribromomethane,0.017
-Tetrabromomethane,0.02
-Bromoethane,0.0013
+oxyfluorfen,12
+pyraflufen-ethyl,12000
+carfentrazone ethyl,3300
+triflumizole,2.5e+07
+"3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)-quinazolin-4(3H)-one",0.56
+hexaflumuron,0.99
+nuarimol,1.5e+07
+clodinafop-propargyl,3500
+flamprop-methyl,2200
+pyridalyl,4.9e+06
+lactofen,23
+chlorfluazuron,3.9e+08
+fluazuron,2.3e+10
+flufenoxuron,3.8e+06
+fluoxastrobin,9e+06
+haloperidol,4.3e+08
+indoxacarb,15000
+cyfluthrin,0.34
+metamifop,16
+cyhalothrin,0.7
+bifenthrin,9.9
+flucycloxuron,38
+fluvalinate,660
+bromomethane,0.0017
+dibromomethane,0.31
+tribromomethane,0.017
+tetrabromomethane,0.02
+bromoethane,0.0013
 "1,1-dibromoethane",0.0076
 "1,2-dibromoethane",0.017
 "1,2-dibromoethane-d4",0.16
@@ -3515,34 +3515,34 @@ Bromoethane,0.0013
 1-bromo-2-methylbutane,0.00088
 1-bromohexane,0.0003
 1-bromo-3-methylpentane,0.00058
-Bromocyclohexane,0.7
+bromocyclohexane,0.7
 1-bromoheptane,0.00023
 1-bromooctane,0.00024
 "1,8-dibromooctane",0.014
 "1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane",170
 1-bromononane,0.00079
-Hexabromocyclododecane,0.21
-Vinyl bromide,0.0007
+hexabromocyclododecane,0.21
+vinyl bromide,0.0007
 "1,2-dibromoethene",0.012
 3-bromo-1-propene,0.0009
 3-bromo-1-propyne,0.88
 1-bromocyclohexene,0.002
 1-bromo-4-methylcyclohexene,0.0014
-Bromobenzene,0.005
-Bromobenzene-d5,0.0065
+bromobenzene,0.005
+bromobenzene-d5,0.0065
 "1,2-dibromobenzene",0.0095
 "1,3-dibromobenzene",0.005
 "1,4-dibromobenzene",0.94
 "1,2,4-tribromobenzene",0.031
 "1,3,5-tribromobenzene",0.029
 "1,2,4,5-tetrabromobenzene",0.0027
-Hexabromobenzene,0.093
-P-bromobenzyl bromide,0.036
+hexabromobenzene,0.093
+p-bromobenzyl bromide,0.036
 1-bromo-2-methylbenzene,0.0041
 1-bromo-3-methylbenzene,0.15
 1-bromo-4-methylbenzene,0.0034
 "3,5-dibromotoluene",0.017
-Pentabromotoluene,0.4
+pentabromotoluene,0.4
 1-bromo-2-ethylbenzene,0.003
 1-bromo-4-ethylbenzene,0.0031
 1-(bromomethyl)-2-methylbenzene,0.013
@@ -3552,32 +3552,32 @@ Pentabromotoluene,0.4
 "2,3,4,5,6-pentabromoethylbenzene",0.12
 1-bromo-2-(2-propyl)-benzene,0.0017
 1-bromonaphthalene,0.082
-Decabromobiphenyl,230
+decabromobiphenyl,230
 "4-bromo-1,1’-biphenyl",0.06
-Octabromobiphenyl,4100
-Hexabromobiphenyl,2.3
+octabromobiphenyl,4100
+hexabromobiphenyl,2.3
 "2,2’,4,4’,5,5’-hexabromo-1,1’-biphenyl",2.3
 "1,2-bis(pentabromophenyl) ethane",150
 "1,3,6,8-tetrabromopyrene",47
 6-bromobenzo[a]pyrene,120
-Bromomethanol,0.2
-Dibromomethanol,170
-Tribromomethanol,1500
-Formyl bromide,0.73
-Carbonyl bromide,0.21
-Bromomethyl peroxide,25
-Dibromomethyl peroxide,220
-Tribromomethyl peroxide,1900
-Bromoethanoic acid,1500
-Dibromoethanoic acid,2300
-Tribromoethanoic acid,3000
+bromomethanol,0.2
+dibromomethanol,170
+tribromomethanol,1500
+formyl bromide,0.73
+carbonyl bromide,0.21
+bromomethyl peroxide,25
+dibromomethyl peroxide,220
+tribromomethyl peroxide,1900
+bromoethanoic acid,1500
+dibromoethanoic acid,2300
+tribromoethanoic acid,3000
 "2,3-dibromopropyl alcohol",160
-Bromoacetone,1.7
+bromoacetone,1.7
 "2,3-dibromobutane-1,4-diol",0.32
-"Bromoacetic acid, ethyl ester",0.37
-Brometone,1000
+"bromoacetic acid, ethyl ester",0.37
+brometone,1000
 "2,2-bis(bromomethyl)-1,3-propanediol",2400
-Trisbromoneopentyl alcohol,770
+trisbromoneopentyl alcohol,770
 2-bromophenol,45
 3-bromophenol,45
 4-bromophenol,67
@@ -3585,7 +3585,7 @@ Trisbromoneopentyl alcohol,770
 "2,6-dibromophenol",110
 "2,4,6-tribromophenol",210
 "2,3,4,6-tetrabromophenol",700
-Pentabromophenol,0.18
+pentabromophenol,0.18
 1-bromo-2-methoxybenzene,0.029
 1-bromo-3-methoxybenzene,0.0072
 1-bromo-4-methoxybenzene,0.011
@@ -3593,36 +3593,36 @@ Pentabromophenol,0.18
 "1,3-dibromo-2-methoxybenzene",0.037
 "1,3,4-tribromo-2-methoxybenzene",0.0052
 "1,3,5-tribromo-2-methoxybenzene",0.019
-Pentabromomethoxybenzene,1
+pentabromomethoxybenzene,1
 "1,3,5-tribromo-2-methoxy-4-methylbenzene",0.44
 "4,5,6,7-tetrabromo-1,3-isobenzofurandione",0.61
-"Allyl 2,4,6-tribromophenyl ether",0.38
+"allyl 2,4,6-tribromophenyl ether",0.38
 "2,4-dibromo-6-methylphenyl glycidyl",82
 "2-(2,4,6-tribromophenoxy)ethyl acry-late",290
 "1,2,3’,4,4’,5’-hexabromodiphenyl ether",21
-Heptabromodiphenyl oxide,52
+heptabromodiphenyl oxide,52
 "2,2’,3,4,4’,5,5’,6-octabromodiphenyl",37
-Nonabromodiphenyl ether,330
+nonabromodiphenyl ether,330
 "1,2,3-tribromo-4-(3-bromophenoxy)benzene",1.2
-"4,4’-methylenebis(2,6-dibromophenol)c13h8br4o2",0.75
+"4,4’-methylenebis(2,6-dibromophenol)C13H8Br4O2",0.75
 "1,1’-[1,2-ethanediylbis(oxy)]bis",53000
 "4,4’-dibromobenzil",8000
 "1,2-bis(2,4,6-tribromophenoxy)ethane",18
 "2-ethylhexyl-2,3,4,5-tetrabromobenzoate",1.6
-Tribromobisphenol a,110
+tribromobisphenol A,110
 "4,4’-(1-methylethylidene)bis(2,6-dibromophenol)",240
 "4-[2-[2,6-bis(bromanyl)-4-oxidanyl-phenyl]propan-2-yl]-3,5-bis(bromanyl)phenol",4.2e+07
 2-(2-hydroxyethoxy)ethyl,0.36
-Bromopropylate,21
+bromopropylate,21
 "1,2,4,5-tetrabromo-3,6-bis(pentabromophenoxy)benzene",1.5e+06
 "2,2-bis(3,5-dibromo-4-(2-hydroxyethoxy)phenyl)propane",5.6e+07
-Solvent red 43,4.4e+12
+solvent red 43,4.4e+12
 "2,2-bis[4-(2,3-dibromopropoxy)-3,5-dibromophenyl]-propane",240000
 "2,2-bis(4-allyloxy-3,5-dibromophenyl)propane",77
-"Tetrabromophenolphthalein, ethyl ester",1e+11
-"Bis(2-ethylhexyl)-3,4,5,6-tetrabromophthalate",400
-Bromadiolone,1.1e+06
-Brodifacoum,460
+"tetrabromophenolphthalein, ethyl ester",1e+11
+"bis(2-ethylhexyl)-3,4,5,6-tetrabromophthalate",400
+bromadiolone,1.1e+06
+brodifacoum,460
 4-bromodiphenyl ether,0.05
 "4,4’-dibromodiphenyl ether",0.083
 "2,4,4’-tribromodiphenyl ether",0.11
@@ -3637,43 +3637,43 @@ Brodifacoum,460
 "2,2’,4,4’,5,6’-hexabromodiphenyl ether",7.3
 "2,2’,3,4,4’,5’,6-heptabromodiphenyl",0.14
 "2,2’,3,3’,4,4’,5,5’,6,6’-decabromodiphenyl ether",18
-Dibromoacetonitrile,24
-Bromoacetonitrile,2.8
+dibromoacetonitrile,24
+bromoacetonitrile,2.8
 "1,2-dibromo-2,4-dicyanobutane",1200
 4-bromobenzenamine,11
 "2,4,6-tribromobenzenamine",82
 "1,1’-ethylene 2,2’-dipyridylium dibro-mide",7e+07
-Tralomethrin,25000
-Bromomethyl peroxynitrate,0.35
-Dibromomethyl peroxynitrate,3
-Tribromomethyl peroxynitrate,4
+tralomethrin,25000
+bromomethyl peroxynitrate,0.35
+dibromomethyl peroxynitrate,3
+tribromomethyl peroxynitrate,4
 "2,2-dibromo-2-cyanoacetamide",520
-Bronopol,760000
+bronopol,760000
 "2,6-dibromo-4-nitroaniline",8200
 "2-bromo-4,6-dinitroaniline",39000
 3-bromonitrobenzene,5.4
 "3,5-dibromo-4-hydroxy-benzonitrile",740
 "2,6-dibromo-3-methyl-4-nitroanisole",45
-Bromacil,76000
-Bromuron,20000
-"Tris(2,3-dibromopropyl)isocyanurate",0.82
-Bromofenoxim,130000
-Tribromsalan,970000
+bromacil,76000
+bromuron,20000
+"tris(2,3-dibromopropyl)isocyanurate",0.82
+bromofenoxim,130000
+tribromsalan,970000
 "1-amino-2,4-dibromo-9,10-anthracenedione",5.5e+07
 "2,6-dibromo-4-cyanophenyl octanoate",0.31
-Deltamethrin,2
-"2,2’-(methylenedi-4,1-phenylene)bis(4,5,6,7-tetrabromo-1h-isoindole-1,3(2h)-dione",5.3e+14
-Bromotrifluoromethane,2e-05
-Dibromodifluoromethane,0.00033
+deltamethrin,2
+"2,2’-(methylenedi-4,1-phenylene)bis(4,5,6,7-tetrabromo-1H-isoindole-1,3(2H)-dione",5.3e+14
+bromotrifluoromethane,2e-05
+dibromodifluoromethane,0.00033
 "1-bromo-1,2,2,2-tetrafluoroethane",0.00012
 "1,2-dibromotetrafluoroethane",2.7e-07
 4-bromofluorobenzene,0.0053
-Bromopentafluorobenzene,0.0021
-Bromethalin,2500
-Bromochloromethane,0.0066
-Bromodichloromethane,0.004
-Bromotrichloromethane,0.027
-Dibromochloromethane,0.0086
+bromopentafluorobenzene,0.0021
+bromethalin,2500
+bromochloromethane,0.0066
+bromodichloromethane,0.004
+bromotrichloromethane,0.027
+dibromochloromethane,0.0086
 1-chloro-2-bromoethane,0.011
 "1,2-dibromo-1,1-dichloroethane",0.062
 1-bromo-3-chloropropane,0.39
@@ -3710,22 +3710,22 @@ Dibromochloromethane,0.0086
 "2,6-dibromo-3,4,5-trichloro-1-methoxybenzene",0.0086
 "2,4,6-tribromo-3-chloro-1-methoxybenzene",0.0091
 "2’,4’,5’,7’-tetrabromo-3,4,5,6-tetrachlorofluorescein",1.5e+13
-Bromochloroacetonitrile,8.2
+bromochloroacetonitrile,8.2
 "1-bromo-3-chloro-5,5-dimethylhydantoin",12
 3-(4-bromo-3-chlorophenyl)-1-methoxy-1-methylurea,0.22
-Halacrinate,240
-Bromuconazole,120000
-"5,7-dibromo-2-(5-bromo-7-chloro-1,3-dihydro-3-oxo-2h-indol-2-ylidene)-1,2-dihydro-3h-indol-3-one",4.2e+09
-Chlorantraniliprole,7e+15
-Tribromofluoromethane,0.0015
-Bromochlorodifluoromethane,0.0001
+halacrinate,240
+bromuconazole,120000
+"5,7-dibromo-2-(5-bromo-7-chloro-1,3-dihydro-3-oxo-2H-indol-2-ylidene)-1,2-dihydro-3H-indol-3-one",4.2e+09
+chlorantraniliprole,7e+15
+tribromofluoromethane,0.0015
+bromochlorodifluoromethane,0.0001
 "1-bromo-1-chloro-2,2,2-trifluoroethane",0.00056
-Chlorfenapyr,1700
-Fluazolate,0.13
-Iodomethane,0.002
-Diiodomethane,0.023
-Triiodomethane,0.0062
-Iodoethane,0.15
+chlorfenapyr,1700
+fluazolate,0.13
+iodomethane,0.002
+diiodomethane,0.023
+triiodomethane,0.0062
+iodoethane,0.15
 1-iodopropane,0.0011
 2-iodopropane,0.00085
 1-iodobutane,0.00054
@@ -3733,31 +3733,31 @@ Iodoethane,0.15
 1-iodopentane,0.00099
 1-iodohexane,0.82
 1-iodoheptane,0.00026
-Iodocyclohexane,0.0039
+iodocyclohexane,0.0039
 3-iodo-1-propene,0.0038
 1-iodocyclohexene,0.0041
-Iodobenzene,0.0077
-Iodoacetic acid,240
+iodobenzene,0.0077
+iodoacetic acid,240
 2-iodophenol,14
 3-iodophenol,70
 4-iodophenol,46
-Erythrosine,3.9e+13
+erythrosine,3.9e+13
 "4-hydroxy-3,5-diiodo-benzonitrile",130
 3-iodo-2-propynyl butylcarbamate,82
-Diatrizoic acid,3.5e+12
-Iothalamic acid,4.4e+12
-Benodanil,620000
-Iopamidol,9e+19
-Ioxaglic acid,2.7e+35
+diatrizoic acid,3.5e+12
+iothalamic acid,4.4e+12
+benodanil,620000
+iopamidol,9e+19
+ioxaglic acid,2.7e+35
 "1,1,1,2,2,3,3-heptafluoro-5-iodopentane",4.6e-06
 5-diethylamiloride,8.8e-07
 "1,1,1,2,2,3,3,4,4,5,5,6,6-tridecafluoro-8-iodooctane",3.2e-08
 "1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-10-iododecane",1.2e-09
-Chloroiodomethane,0.0088
-Methanethiol,0.0038
-Ethanethiol,0.0028
+chloroiodomethane,0.0088
+methanethiol,0.0038
+ethanethiol,0.0028
 "1,2-ethanedithiol",0.082
-Thiirane,0.028
+thiirane,0.028
 1-propanethiol,0.0017
 2-propanethiol,0.21
 1-butanethiol,0.0015
@@ -3769,622 +3769,622 @@ Thiirane,0.028
 1-hexanethiol,0.0019
 1-heptanethiol,0.0027
 1-octanethiol,0.00043
-Tert-octanethiol,0.00052
+tert-octanethiol,0.00052
 1-nonanethiol,0.12
 1-decanethiol,0.00099
 1-dodecanethiol,0.00017
-Dicyclohexyldisulfide,0.0025
-Dimethyl sulfide,0.0056
-Ethyl methyl sulfide,0.0042
-Diethyl sulfide,0.0035
-Dipropyl sulfide,0.0033
-Di-(2-propyl)-sulfide,0.003
-Allyl methyl sulfide,0.0042
-Dimethyl disulfide,0.0058
-Diethyl disulfide,0.37
-Dipropyl disulfide,0.0024
-Carbon disulfide,0.00061
+dicyclohexyldisulfide,0.0025
+dimethyl sulfide,0.0056
+ethyl methyl sulfide,0.0042
+diethyl sulfide,0.0035
+dipropyl sulfide,0.0033
+di-(2-propyl)-sulfide,0.003
+allyl methyl sulfide,0.0042
+dimethyl disulfide,0.0058
+diethyl disulfide,0.37
+dipropyl disulfide,0.0024
+carbon disulfide,0.00061
 "2,3,4-trithiapentane",0.021
 5-propyl-5-nonanethiol,0.00017
-Allyl mercaptan,0.012
+allyl mercaptan,0.012
 "3,3’-thiobis-1-propene",0.0041
-Thiophene,0.44
+thiophene,0.44
 2-methylthiophene,0.0041
 3-methylthiophene,0.0017
-Propyl allyl disulfide,0.0035
-Benzenethiol,0.029
-Methyl phenyl sulfide,0.04
+propyl allyl disulfide,0.0035
+benzenethiol,0.029
+methyl phenyl sulfide,0.04
 2-methylbenzenethiol,0.027
 3-methylbenzenethiol,0.027
 4-methylbenzenethiol,0.027
-Benzenemethanethiol,0.047
-Dibenzothiophene,0.29
-Benzyl sulfide,1.9
-Carbon oxide sulfide,0.00021
-"Sulfuric acid, dimethyl ester",6.9
-Dimethylsulfoxide,980
-Dimethylsulfone,0.5
-Mercaptoacetic acid,520
+benzenemethanethiol,0.047
+dibenzothiophene,0.29
+benzyl sulfide,1.9
+carbon oxide sulfide,0.00021
+"sulfuric acid, dimethyl ester",6.9
+dimethylsulfoxide,980
+dimethylsulfone,0.5
+mercaptoacetic acid,520
 2-mercaptoethanol,55
-"Methanesulfonic acid, methyl ester",2.5
-"Mercaptoacetic acid, methyl ester",1.6
-"Methanesulfonic acid, ethyl ester",1.8
-Divinyl sulfoxide,25
-Divinyl sulfone,0.2
+"methanesulfonic acid, methyl ester",2.5
+"mercaptoacetic acid, methyl ester",1.6
+"methanesulfonic acid, ethyl ester",1.8
+divinyl sulfoxide,25
+divinyl sulfone,0.2
 "2,5-dihydrothiophene sulfone",2.3
-Thiodiacetic acid,2.2e+08
-"Thiophene, tetrahydro-, 1,1-dioxide",2.1
+thiodiacetic acid,2.2e+08
+"thiophene, tetrahydro-, 1,1-dioxide",2.1
 2-(ethylthio)ethanol,190
-Thiodiglycol,5200
-"Methanesulfonic acid, 1-methylethyl",1.4
+thiodiglycol,5200
+"methanesulfonic acid, 1-methylethyl",1.4
 4-hydroxybenzenesulfonic acid,3.8e+07
-Benzenesulfonic acid,3900
-Dimethipin,430000
+benzenesulfonic acid,3900
+dimethipin,430000
 4-methylbenzenesulfonic acid,3600
-Phenylmethanesulfonic acid,9900
+phenylmethanesulfonic acid,9900
 "4,4’-sulfonyldiphenol",3.7e+09
-Lauryl sulfate,55
-Ethofumesate,270
+lauryl sulfate,55
+ethofumesate,270
 "1,1’-sulfonylbis(4-(1-methylethyl)-benzene",10
-Propargite,15
-Kadethrin,12000
-Spironolactone,0.9
+propargite,15
+kadethrin,12000
+spironolactone,0.9
 "2,2’-thiobis(4-(1,1,3,3-tetramethylbutyl)phenol)",450000
-"Propanoic acid, 3,3’-thiobis-, didodecyl",2.5
-"Dioctadecyl 3,3’-thiodipropionate",0.082
-Methyl isothiocyanate,0.17
-Thiourea,4900
-Hydrazinecarbothioamide,15000
-"Thiocyanic acid, methyl ester",0.22
-Ethanethioamide,1.5
-Mercaptamine,27
-"Thiocyanic acid, ethyl ester",0.17
+"propanoic acid, 3,3’-thiobis-, didodecyl",2.5
+"dioctadecyl 3,3’-thiodipropionate",0.082
+methyl isothiocyanate,0.17
+thiourea,4900
+hydrazinecarbothioamide,15000
+"thiocyanic acid, methyl ester",0.22
+ethanethioamide,1.5
+mercaptamine,27
+"thiocyanic acid, ethyl ester",0.17
 2-imidazolidinethione,29
-Ethylthiourea,0.42
-Allyl isothiocyanate,0.041
-Dazomet,46000
-Tetramethylthiourea,850
-Thiram,93
-Bis(dimethylthiocarbamyl) sulfide,0.58
-Benzothiazole,27
+ethylthiourea,0.42
+allyl isothiocyanate,0.041
+dazomet,46000
+tetramethylthiourea,850
+thiram,93
+bis(dimethylthiocarbamyl) sulfide,0.58
+benzothiazole,27
 2-mercaptobenzothiazole,270
 2-benzothiazolamine,76000
-Phenylthiourea,99000
-Aziprotryn,400
-Simetryn,0.22
-Desmetryn,21000
-Thioquinox,130
-"Thiocyanic acid, (2-benzothiazolylthio)methyl ester",1.5e+06
-Ametryn,4100
-Cimetidine,1e+10
-Prometryn,820
-Terbutryn,470
-Disulfiram,0.12
+phenylthiourea,99000
+aziprotryn,400
+simetryn,0.22
+desmetryn,21000
+thioquinox,130
+"thiocyanic acid, (2-benzothiazolylthio)methyl ester",1.5e+06
+ametryn,4100
+cimetidine,1e+10
+prometryn,820
+terbutryn,470
+disulfiram,0.12
 1-naphthalenylthiourea,1200
 "4,4’-thiobisbenzenamine",2.5e+06
-Dipropetryn,600
-Dimethametryn,8200
-Phenothiazine,350
+dipropetryn,600
+dimethametryn,8200
+phenothiazine,350
 "2,2’-dithiobisbenzothiazole",4.2e+07
-Methapyrilene,36
-Olanzapine,1.3e+09
-Taurine,5.8e+06
+methapyrilene,36
+olanzapine,1.3e+09
+taurine,5.8e+06
 2-amino-5-nitrothiazole,1.9e+06
-Acesulfame,1000
-Methomyl,520000
+acesulfame,1000
+methomyl,520000
 4-aminobenzenesulfonic acid,1.1e+07
-Sulfanilamide,66000
-Nithiazide,6.2e+09
+sulfanilamide,66000
+nithiazide,6.2e+09
 2-methylbenzenesulfonamide,21
 4-methylbenzenesulfonamide,21
-Ethidimuron,1.4e+08
-Oxamyl,42000
-Aldicarb,6600
-Aldicarb sulfone,3700
-Butocarboxim,17000
-Butoxycarboxim,0.35
-Saccharin,8200
-Acibenzolar-s-methyl,82
-Quinomethionate,160
-Nifurthiazole,1.3e+12
+ethidimuron,1.4e+08
+oxamyl,42000
+aldicarb,6600
+aldicarb sulfone,3700
+butocarboxim,17000
+butoxycarboxim,0.35
+saccharin,8200
+acibenzolar-S-methyl,82
+quinomethionate,160
+nifurthiazole,1.3e+12
 4-methylbenzenesulfonyl isocyanate,0.17
-Tinidazole,190000
-Metribuzin,82000
-Tricyclazole,320000
-Thidiazuron,3e+07
-Sulfathiazole,1.7e+08
-Sulfamethizole,3.8e+08
-Ethiozin,200
-Molinate,7.7
-Thiabendazole,470000
-"Benzo[b]thiophene-4-ol, methylcarba-mate",5800
-Sulfamethoxazole,1.5e+07
-Bentazone,4500
-Buthidazole,4.8e+06
-Thiodicarb,11
-Pebulate,0.041
-Vernolate,0.32
-Sulfisoxazole,6.2e+06
-Ethiofencarb,8200
-Methiocarb,8.3
-Cycloate,1.9
-Methoprotryn,31000
-Butylate,0.12
-Carboxin,31000
-Oxycarboxin,900000
-Thifensulfuron-methyl,3.4e+08
-Sulfamethazine,3.2e+07
-Thiophanate-methyl,8200
-"4,4’-oxydi(benzenesulfonohydrazide)c12h14n4o5s2",7.8e+11
-Albendazole,0.13
-Oryzalin,5200
-Isomethiozin,790
-Isobornyl thiocyanoacetate,38
-Nitralin,1400
-Bupirimate,100
-Timolol,2.3e+11
-Dithianone,170000
-Metsulfuron-methyl,7.5e+10
-Rimsulfuron,15000
-Thiophanate,1.9e+07
-Sumatriptan,0.22
-Sulfometuron methyl,8.2e+12
-Tribenuron-methyl,9.7e+07
-Propoxycarbazone,7e+11
-Valdecoxib,450000
-Topramezone,1e+12
-Sulfosulfuron,430000
-Orthosulfamuron,13000
-Buprofezin,2.3
-Bensulfuron methyl,7e+10
-Esomeprazole,3.3e+13
-Foramsulfuron,1.7e+11
-Sethoxydim,450000
-Mesosulfuron-methyl,9e+10
-Rosiglitazone,0.58
-Rabeprazole,8.2e+11
-Furathiocarb,7600
-Lincomycin,3.3e+17
-Pioglitazone,5.8e+06
-Tamsulosin,2e+09
-Sufentanil,2.4e+09
-Sildenafil,1.4e+15
-Tirofiban,1.3e+09
-Vardenafil,5.2e+15
-Taurocholic acid,1.9e+15
-Dalfopristin,2.2e+24
-Tinopal,1.2e+38
-Quinupristin,0.49
+tinidazole,190000
+metribuzin,82000
+tricyclazole,320000
+thidiazuron,3e+07
+sulfathiazole,1.7e+08
+sulfamethizole,3.8e+08
+ethiozin,200
+molinate,7.7
+thiabendazole,470000
+"benzo[b]thiophene-4-ol, methylcarba-mate",5800
+sulfamethoxazole,1.5e+07
+bentazone,4500
+buthidazole,4.8e+06
+thiodicarb,11
+pebulate,0.041
+vernolate,0.32
+sulfisoxazole,6.2e+06
+ethiofencarb,8200
+methiocarb,8.3
+cycloate,1.9
+methoprotryn,31000
+butylate,0.12
+carboxin,31000
+oxycarboxin,900000
+thifensulfuron-methyl,3.4e+08
+sulfamethazine,3.2e+07
+thiophanate-methyl,8200
+"4,4’-oxydi(benzenesulfonohydrazide)C12H14N4O5S2",7.8e+11
+albendazole,0.13
+oryzalin,5200
+isomethiozin,790
+isobornyl thiocyanoacetate,38
+nitralin,1400
+bupirimate,100
+timolol,2.3e+11
+dithianone,170000
+metsulfuron-methyl,7.5e+10
+rimsulfuron,15000
+thiophanate,1.9e+07
+sumatriptan,0.22
+sulfometuron methyl,8.2e+12
+tribenuron-methyl,9.7e+07
+propoxycarbazone,7e+11
+valdecoxib,450000
+topramezone,1e+12
+sulfosulfuron,430000
+orthosulfamuron,13000
+buprofezin,2.3
+bensulfuron methyl,7e+10
+esomeprazole,3.3e+13
+foramsulfuron,1.7e+11
+sethoxydim,450000
+mesosulfuron-methyl,9e+10
+rosiglitazone,0.58
+rabeprazole,8.2e+11
+furathiocarb,7600
+lincomycin,3.3e+17
+pioglitazone,5.8e+06
+tamsulosin,2e+09
+sufentanil,2.4e+09
+sildenafil,1.4e+15
+tirofiban,1.3e+09
+vardenafil,5.2e+15
+taurocholic acid,1.9e+15
+dalfopristin,2.2e+24
+tinopal,1.2e+38
+quinupristin,0.49
 "3,3,4,4,4-pentafluorobutane-1-thiol",5.2e-05
 "3,3,4,4,5,5,6,6,6-nonafluoro-1-hexanethiol",1.9e-06
 "3,3,4,4,5,5,7,7,8,8,9,9,10,10,10-pentadecafluoro-1-decanethiol",9.7e-09
 "3,3,4,4,5,5-hexafluoro-1-(3,3,4,4,5,5-hexafluorohexyldisulfanyl)hexane",1.2e-07
-Perfluorobutane sulfonic acid,2
-Perfluorohexane sulfonic acid,0.51
-Perfluorooctane sulfonic acid,0.0009
-Heptadecafluorooctanesulfonyl fluoride,1.5e-07
-Fluticasone,4300
-Flubenzimine,0.23
-Thiazafluron,32000
-Undecafluoro-n-methyl-1-pentanesulfonamide,0.00035
-"1,1,2,2,3,3,4,4,4-nonafluoro-n-(2-hydroxyethyl)-n-methylbutane-1-sulfonamide",18
-Tridecafluoro-n-methyl-1-hexanesulfonamide,6.7e-05
-Perfluorooctane sulfonamide,5.5e-06
-Emtricitabine,9e+11
-"1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-n-methylheptane-1-sulfonamide",1.3e-05
-"1,1,2,2,3,3,4,4,5,5,5-undecafluoro-n-(2-hydroxyethyl)-n-methylpentane-1-sulfonamide",3.4
-Heptadecafluoro-n-methyloctanesulfonamide,2.4e-06
-"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluoro-n-(2-hydroxyethyl)-n-methyl-1-hexanesulfonamide",0.64
-"1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-n-(2-hydroxyethyl)-n-methylheptane-1-sulfonamide",0.12
-Mefluidide,760000
+perfluorobutane sulfonic acid,2
+perfluorohexane sulfonic acid,0.51
+perfluorooctane sulfonic acid,0.0009
+heptadecafluorooctanesulfonyl fluoride,1.5e-07
+fluticasone,4300
+flubenzimine,0.23
+thiazafluron,32000
+undecafluoro-N-methyl-1-pentanesulfonamide,0.00035
+"1,1,2,2,3,3,4,4,4-nonafluoro-N-(2-hydroxyethyl)-N-methylbutane-1-sulfonamide",18
+tridecafluoro-N-methyl-1-hexanesulfonamide,6.7e-05
+perfluorooctane sulfonamide,5.5e-06
+emtricitabine,9e+11
+"1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-N-methylheptane-1-sulfonamide",1.3e-05
+"1,1,2,2,3,3,4,4,5,5,5-undecafluoro-N-(2-hydroxyethyl)-N-methylpentane-1-sulfonamide",3.4
+heptadecafluoro-N-methyloctanesulfonamide,2.4e-06
+"1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluoro-N-(2-hydroxyethyl)-N-methyl-1-hexanesulfonamide",0.64
+"1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-N-(2-hydroxyethyl)-N-methylheptane-1-sulfonamide",0.12
+mefluidide,760000
 "2-(methyl-(1,1,2,2,3,3,4,4,5,5,5-undecafluoropentylsulfonyl)amino)ethyl",0.097
 2-(methyl((nonafluorobutyl)sulfonyl)amino)ethyl methacrylate,0.33
-Florasulam,1.7e+06
+florasulam,1.7e+06
 2-(methyl((pentadecafluoroheptyl)sulfonyl)amino)ethyl acrylate,0.0035
-Flazasulfuron,1.6e+06
-Pyrasulfotole,7e+08
-Flufenacet,1700
-Ethyl n-ethyl-n-[(heptadecafluorooctyl),0.13
+flazasulfuron,1.6e+06
+pyrasulfotole,7e+08
+flufenacet,1700
+ethyl N-ethyl-N-[(heptadecafluorooctyl),0.13
 2-(((heptadecafluorooctyl)sulfonyl)methylamino)ethyl methacrylate,0.00042
-Isoxaflutole,53000
-Primisulfuron-methyl,7e+06
-Penoxsulam,9e+12
-Pantoprazole,1.7e+14
-2-(n-ethylperfluorooctanesulfamido)ethyl,0.00032
-Thiazopyr,21
-Celecoxib,1.3e+07
-Thidiazimin,3.5e+08
-Benthiavalicarb isopropyl,0.11
-Rosuvastatin,2.9e+14
-Trichloromethanesulfenyl chloride,0.041
+isoxaflutole,53000
+primisulfuron-methyl,7e+06
+penoxsulam,9e+12
+pantoprazole,1.7e+14
+2-(N-ethylperfluorooctanesulfamido)ethyl,0.00032
+thiazopyr,21
+celecoxib,1.3e+07
+thidiazimin,3.5e+08
+benthiavalicarb isopropyl,0.11
+rosuvastatin,2.9e+14
+trichloromethanesulfenyl chloride,0.041
 "1,1,2,2-tetrachloroethanesulfenyl chlo-ride",0.088
 2-chloroethyl ethyl sulfide,0.02
 "2,2’-dichlorodiethylsulfide",0.3
-Pentachlorobenzenethiol,0.066
-Tetrasul,0.93
-Methanesulfonyl chloride,0.22
-Bis(trichloromethyl)sulfone,820
-Benzenesulfonyl chloride,1.1
+pentachlorobenzenethiol,0.066
+tetrasul,0.93
+methanesulfonyl chloride,0.22
+bis(trichloromethyl)sulfone,820
+benzenesulfonyl chloride,1.1
 4-methylbenzenesulfonyl chloride,1
-Endosulfan,0.94
-Endosulfan sulfate,820000
-Mcpa-thioethyl,0.45
-"1,1’-sulfonylbis(4-chlorobenzene)c12h8cl2o2s",70
+endosulfan,0.94
+endosulfan sulfate,820000
+mcpa-thioethyl,0.45
+"1,1’-sulfonylbis(4-chlorobenzene)C12H8Cl2O2S",70
 "1,2,4-trichloro-5-[(4-chlorophenyl)sulfonyl]benzene",6900
-Ovex,0.62
-Sulfenone,52
-Aramite,52
-6-chloro-2-(6-chloro-4-methyl-3-oxobenzo[b]thien-2(3h)-ylidene)-4-methylbenzo[b]thiophene-3(2h)-one,3.2e+07
+ovex,0.62
+sulfenone,52
+aramite,52
+6-chloro-2-(6-chloro-4-methyl-3-oxobenzo[b]thien-2(3H)-ylidene)-4-methylbenzo[b]thiophene-3(2H)-one,3.2e+07
 "5-chloro-3-(trichloromethyl)-1,2,4-thiadiazole",16
 "2,4-dichloro-6-(methylthio)-1,3,5-triazine",13
-Chlorthiamid,35000
-"2-chloroallyl-n,n-diethyldithiocarbamate",1.5
-Thiacloprid,9e+08
-Chloromethiuron,200000
-Etridiazole,0.33
+chlorthiamid,35000
+"2-chloroallyl-N,N-diethyldithiocarbamate",1.5
+thiacloprid,9e+08
+chloromethiuron,200000
+etridiazole,0.33
 4-chloro-3-nitrobenzenesulfonamide,8200
-Clothianidin,3.4e+10
-Chlobenthiazone,1.3
-Prothiocarb hydrochloride,2.5e+09
-Thicyofen,2.3e+10
-Thiamethoxam,2.1e+09
-"4-amino-3,5-dichloro-n-ethyl-2-methylbenzenesulfonamide",38000
-Dichlofluanid,190
-Captan,1400
-Folpet,130
-Captafol,3700
-Diallate,2.6
-Triallate,0.82
-Tolylfluanid,13
-Furosemide,2.5e+10
-Chlorsulfuron,32000
-Phosalone,25
-Dimethenamid,450
-Dimethenamid-p,2100
-Cyazofamid,25
-Prothioconazole,22000
-Chlorimuron-ethyl,5.5e+09
-Clopidogrel,4500
-Hexythiazox,420
-Clethodim,0.82
-Clindamycin,3.4e+16
-Vismodegib,6.2e+11
-Pyridaben,0.21
-Tembotrione,5.8e+09
-Fluothiuron,2.3e+10
-Sulfentrazone,1.5e+07
-Flurazole,40
-Fipronil,12000
-Fluthiacet-methyl,4700
-Vemurafenib,8.2e+11
-Tetrabromobisphenol s,1.5e+11
+clothianidin,3.4e+10
+chlobenthiazone,1.3
+prothiocarb hydrochloride,2.5e+09
+thicyofen,2.3e+10
+thiamethoxam,2.1e+09
+"4-amino-3,5-dichloro-N-ethyl-2-methylbenzenesulfonamide",38000
+dichlofluanid,190
+captan,1400
+folpet,130
+captafol,3700
+diallate,2.6
+triallate,0.82
+tolylfluanid,13
+furosemide,2.5e+10
+chlorsulfuron,32000
+phosalone,25
+dimethenamid,450
+dimethenamid-p,2100
+cyazofamid,25
+prothioconazole,22000
+chlorimuron-ethyl,5.5e+09
+clopidogrel,4500
+hexythiazox,420
+clethodim,0.82
+clindamycin,3.4e+16
+vismodegib,6.2e+11
+pyridaben,0.21
+tembotrione,5.8e+09
+fluothiuron,2.3e+10
+sulfentrazone,1.5e+07
+flurazole,40
+fipronil,12000
+fluthiacet-methyl,4700
+vemurafenib,8.2e+11
+tetrabromobisphenol S,1.5e+11
 "1,3-dibromo-5-[3,5-dibromo-4-(2,3-dibromopropoxy)benzenesulfonyl]-2-(2,3-dibromopropoxy)benzene",8.2e+08
-Bromphenol blue,0.19
-Bromcresol green,1.5e+13
-Bromocresol purple,9.9e+12
-Difethialone,9.9
-Amisulbrom,47
-Amical 48,1300
-Flubendiamide,0.045
+bromphenol blue,0.19
+bromcresol green,1.5e+13
+bromocresol purple,9.9e+12
+difethialone,9.9
+amisulbrom,47
+amical 48,1300
+flubendiamide,0.045
 9-icosyl-9-phosphabicyclo[4.2.1]nonane,3.1e-05
-Triphenylphosphine,430
-"Phosphoric acid, trimethyl ester",1400
-Trimethyl phosphite,0.9
-Dimethyl methylphosphonate,7.6
-Diethyl hydrogen phosphite,1.7
-Triethylphosphate,270
-Diisopropyl methanephosphonate,0.22
-Dibutyl hydrogen phosphite,0.55
-Dibutyl phosphate,2300
-Tetraethyl pyrophosphate,45000
-Tripropyl phosphate,15
-Triallyl phosphate,18
-Tributylphosphate,7
-Hexaethyl tetraphosphate,3e+11
-Crotoxyphos,1700
-"Phosphoric acid, dibutyl phenyl ester",20
-Bis(2-ethylhexyl) hydrogen phosphite,0.58
-Bis(2-ethylhexyl)hydrogen phosphate,240
-Triphenyl phosphate,3
-Tris(2-butoxyethyl) phosphate,820000
-P-cresyl diphenyl phosphate,99
-Triphenylphosphine oxide,19000
-"Phosphorous acid, triphenyl ester",18
-Trihexylphosphine oxide,0.0045
-"Phosphoric acid, octyl diphenyl ester",39
-Octyldihexylphosphine oxide,0.0025
-Tris(methylphenyl) phosphate,12
-"Phosphoric acid, (1-methylethyl)phenyl",130
-"Phosphoric acid, tris(2-methylphenyl)ester",5.2
-"Phosphoric acid, tris(3-methylphenyl)ester",9.9
-"Phosphoric acid, tris(4-methylphenyl)ester",180
-Isodecyl diphenyl phosphate,23
-Dioctylhexylphosphine oxide,0.0014
-"Tris(2,4-dimethylphenyl)phosphate",140
-"Tris(2,5-dimethylphenyl)phosphate",140
-"Tris(2,6-dimethylphenyl)phosphate",140
-"Tris(3,4-dimethylphenyl)phosphate",140
-"Tris(3,5-dimethylphenyl)phosphate",140
-Tris(4-isopropylphenyl) phosphate,34
-Trioctylphosphine oxide,0.82
-Bis(2-ethylhexyl)-2-ethylhexyl phos-phonate,0.021
-Didodecyl hydrogen phosphate,25
-"Phosphoric acid, tris(2-ethylhexyl) ester",120
-Diisodecylphenyl phosphite,1.9
-Fyrolflex rdp,3.4e+07
-Tris(4-tert-butylphenyl) phosphate,14
-"Tris-(2,4-di-tert-butylphenyl) phosphite",0.061
-Glyphosate,1.8e+06
-Krenite,2e+07
-Tabun,66
-Glufosinate-ammonium,0.22
-Monocrotophos,1.5e+07
-Dicrotophos,200000
-Octamethyldiphosphoramide,1.6e+11
-Fyrol 6,62
-Diethyl 4-nitrophenyl phosphate,1600
-Dimethyl 4-nitrophenyl phosphate,11000
-Buminafos,5
-Methylphosphonyldifluoride,0.45
-Sarin,17
-Dimefox,450
-Isoflurophate,3.1
-Cyclohexyl methylphosphonofluoridate,3.5
-Soman,2.1
-Mipafox,3300
-Phenylphosphonous dichloride,0.65
-Chlorphonium chloride,2.8e+07
-Triclofos,7e+07
+triphenylphosphine,430
+"phosphoric acid, trimethyl ester",1400
+trimethyl phosphite,0.9
+dimethyl methylphosphonate,7.6
+diethyl hydrogen phosphite,1.7
+triethylphosphate,270
+diisopropyl methanephosphonate,0.22
+dibutyl hydrogen phosphite,0.55
+dibutyl phosphate,2300
+tetraethyl pyrophosphate,45000
+tripropyl phosphate,15
+triallyl phosphate,18
+tributylphosphate,7
+hexaethyl tetraphosphate,3e+11
+crotoxyphos,1700
+"phosphoric acid, dibutyl phenyl ester",20
+bis(2-ethylhexyl) hydrogen phosphite,0.58
+bis(2-ethylhexyl)hydrogen phosphate,240
+triphenyl phosphate,3
+tris(2-butoxyethyl) phosphate,820000
+p-cresyl diphenyl phosphate,99
+triphenylphosphine oxide,19000
+"phosphorous acid, triphenyl ester",18
+trihexylphosphine oxide,0.0045
+"phosphoric acid, octyl diphenyl ester",39
+octyldihexylphosphine oxide,0.0025
+tris(methylphenyl) phosphate,12
+"phosphoric acid, (1-methylethyl)phenyl",130
+"phosphoric acid, tris(2-methylphenyl)ester",5.2
+"phosphoric acid, tris(3-methylphenyl)ester",9.9
+"phosphoric acid, tris(4-methylphenyl)ester",180
+isodecyl diphenyl phosphate,23
+dioctylhexylphosphine oxide,0.0014
+"tris(2,4-dimethylphenyl)phosphate",140
+"tris(2,5-dimethylphenyl)phosphate",140
+"tris(2,6-dimethylphenyl)phosphate",140
+"tris(3,4-dimethylphenyl)phosphate",140
+"tris(3,5-dimethylphenyl)phosphate",140
+tris(4-isopropylphenyl) phosphate,34
+trioctylphosphine oxide,0.82
+bis(2-ethylhexyl)-2-ethylhexyl phos-phonate,0.021
+didodecyl hydrogen phosphate,25
+"phosphoric acid, tris(2-ethylhexyl) ester",120
+diisodecylphenyl phosphite,1.9
+fyrolflex RDP,3.4e+07
+tris(4-tert-butylphenyl) phosphate,14
+"tris-(2,4-di-tert-butylphenyl) phosphite",0.061
+glyphosate,1.8e+06
+krenite,2e+07
+tabun,66
+glufosinate-ammonium,0.22
+monocrotophos,1.5e+07
+dicrotophos,200000
+octamethyldiphosphoramide,1.6e+11
+fyrol 6,62
+diethyl 4-nitrophenyl phosphate,1600
+dimethyl 4-nitrophenyl phosphate,11000
+buminafos,5
+methylphosphonyldifluoride,0.45
+sarin,17
+dimefox,450
+isoflurophate,3.1
+cyclohexyl methylphosphonofluoridate,3.5
+soman,2.1
+mipafox,3300
+phenylphosphonous dichloride,0.65
+chlorphonium chloride,2.8e+07
+triclofos,7e+07
 "1-hydroxy-2,2,2-trichloroethylphosphonic acid,dimethyl ester",810
-"Dimethyl-2,2-dichlorovinyl phosphate",39
-Tris(2-chloroethyl) phosphate,3
-Cyclophosphamide,700000
-Ifosfamide,700000
-Butonate,0.33
-"Phosphoric acid, 7-chlorobicyclo[3.2.0]hepta-2,6-dien-6-yl dimethyl ester",58
-"Tris(2,3-dichloropropyl) phosphate",3800
-"Tris(1,3-dichloroisopropyl)phosphate",3800
-Tris(2-chloropropyl) phosphate,160
-Tri-(2-chloroisopropyl)phosphate,160
-Bis(2-chloropropyl) 2-chloro-1-methylethyl phosphate,160
-Tetrachlorvinphos,5500
-Chlorfenvinphos,340
-Crufomate,3900
-Phosdiphen,0.26
-Phosphamidon,2.8
-"Tris(2,3-dibromo-1-propyl) phosphate",0.38
-Naled,0.15
+"dimethyl-2,2-dichlorovinyl phosphate",39
+tris(2-chloroethyl) phosphate,3
+cyclophosphamide,700000
+ifosfamide,700000
+butonate,0.33
+"phosphoric acid, 7-chlorobicyclo[3.2.0]hepta-2,6-dien-6-yl dimethyl ester",58
+"tris(2,3-dichloropropyl) phosphate",3800
+"tris(1,3-dichloroisopropyl)phosphate",3800
+tris(2-chloropropyl) phosphate,160
+tri-(2-chloroisopropyl)phosphate,160
+bis(2-chloropropyl) 2-chloro-1-methylethyl phosphate,160
+tetrachlorvinphos,5500
+chlorfenvinphos,340
+crufomate,3900
+phosdiphen,0.26
+phosphamidon,2.8
+"tris(2,3-dibromo-1-propyl) phosphate",0.38
+naled,0.15
 "2-bromo-1,1-dimethylethyl 2-bromoethyl 2-chloroethyl phosphate",1500
-Leptophos,3.7
-Tributyl phosphorotrithioite,0.43
-"Bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl) bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl)thiodiphosphonate",8.2e-05
-Thiometon,0.35
-Oxydemeton-methyl,6.2e+07
-Demeton-s-methyl,0.37
-Methacrifos,10
-Phorate,2.1
-Salithion,0.47
-Acetoxon,13000
-Demeton-o,6.1
-Demeton-s,200
-Sulfotep,2.2
-Tetrakis(hydroxymethyl) phosphonium,5.8e+17
-Ethoprophos,61
-Disulfoton,11
-Endothion,1.5e+06
-Terbufos,0.41
-Ethion,0.26
-Fonofos,1.4
-Fenthion,6.8
-Malathion,670
-Malaoxon,5.5e+06
-Cadusafos,7.6
-Fensulfothion,70000
-Phenthoate,1800
-Sulprofos,11
-Iprobenphos,260
-Propaphos,3400
-Edifenphos,0.5
-Systox,55
-Temefos,4900
-Methamidophos,11000
-Acephate,2e+07
-Dimethoate,41000
-Omethoate,2.1e+08
-Methidathion,1400
-Fosthietan,240000
-Formothion,90000
-Menazon,6600
-Ethoate-methyl,350000
-Glyphosate-trimesium,2.3e+10
-Methylparathion,0.5
-Zinophos,10
-Vamidothion,1.1e+10
-Cyanophos,1.8
-Fenitrothion,83
-Fosthiazate-1,75
-Prothoate,150000
-Azinphos-methyl,3400
-Parathion,120
-Etrimfos,16
-Propetamphos,210
-Mecarbam,11000
-Phosmet,1200
-Pirimiphos methyl,16
-Triazophos,320
-Azinphos-ethyl,100
-Diazinon,46
-Isoxathion,160
-Fenamiphos,0.11
-Tebupirimfos,3.5
-Pirimiphos ethyl,0.18
-Bensulide,1100
-Ethyl p-nitrophenyl benzenethiophos-phonate,22
-Isofenphos,120
-Chlormephos,340
-Chlorethoxyfos,2.3
-Ronnel,0.48
-Tolclofos-methyl,0.017
-Methyl trithion,99
-Trichloronate,0.9
-Dichlofenthion,0.01
-Chlorthiophos,8.2
-Carbophenothion,49
-Coumaphos,90
-Methylchlorpyrifos,4.1
-Dicapthon,100
-Chlorthion,250
-Isazophos,19
-Chlorpyrifos,1.8
-Chlorphoxim,2.3e+10
-Phosazetim,2100
-Dialifor,0.55
-Bromophos,0.1
-Bromophos-ethyl,0.62
-Profenofos,450
-Iodofenphos,2.2
-Sesone,380000
-Dioctyl sulfosuccinatesodium salt,2e+06
-Dodecylbenzenesulfonic acid sodium,160
-Fosetyl-aluminum,3.1e+09
-Tetramethylsilane,2.3e-06
-Tetraethylsilane,3.8e-06
-Trimethylsilanol,0.07
-Silicic acid,2.3e+10
-Dimethylsilanediol,2800
-Tetramethyl silicate,1.5
-Pentamethyldisiloxanol,0.00073
-Tetraethyl silicate,0.49
-Trimethoxysilylpropyl methacrylate,33
-Hexamethyldisiloxane,0.13
-Octamethyltrisiloxane,3.4e-07
-Decamethyltetrasiloxane,1.4e-07
-Dodecamethylpentasiloxane,8.7e-08
-Tetradecamethylhexasiloxane,2.7e-08
-Hexadecamethylheptasiloxane,7.6e-09
-Octadecamethyloctasiloxane,3.3e-09
-Hexamethylcyclotrisiloxane,5.6e-06
-Octamethylcyclotetrasiloxane,7.3e-07
-Decamethylcyclopentasiloxane,2.8e-07
-Dodecamethylcyclohexasiloxane,4e-07
-"Tetramethyldisiloxane-1,3-diol",0.18
-"Hexamethyltrisiloxane-1,5-diol",0.0034
-"Octamethyltetrasiloxane-1,7-diol",0.0027
-Pentamethylcyclotrisiloxanol,0.0011
-Heptamethylcyclotetrasiloxanol,0.00023
-Nonamethylcyclopentasiloxanol,7e-05
-Hexamethyldisilazane,0.11
-Dichloromethylsilane,0.00076
-Etacelasil,2900
-Zineb,2700
-Ziram,16000
-Diethyl arsine,2.2e-05
-Lewisite,0.031
-Phenyldichloroarsine,0.33
-Adamsite,300
+leptophos,3.7
+tributyl phosphorotrithioite,0.43
+"bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl) bis(2,6,6-trimethylbicyclo[3.1.1]hept-2-enyl)thiodiphosphonate",8.2e-05
+thiometon,0.35
+oxydemeton-methyl,6.2e+07
+demeton-S-methyl,0.37
+methacrifos,10
+phorate,2.1
+salithion,0.47
+acetoxon,13000
+demeton-O,6.1
+demeton-S,200
+sulfotep,2.2
+tetrakis(hydroxymethyl) phosphonium,5.8e+17
+ethoprophos,61
+disulfoton,11
+endothion,1.5e+06
+terbufos,0.41
+ethion,0.26
+fonofos,1.4
+fenthion,6.8
+malathion,670
+malaoxon,5.5e+06
+cadusafos,7.6
+fensulfothion,70000
+phenthoate,1800
+sulprofos,11
+iprobenphos,260
+propaphos,3400
+edifenphos,0.5
+systox,55
+temefos,4900
+methamidophos,11000
+acephate,2e+07
+dimethoate,41000
+omethoate,2.1e+08
+methidathion,1400
+fosthietan,240000
+formothion,90000
+menazon,6600
+ethoate-methyl,350000
+glyphosate-trimesium,2.3e+10
+methylparathion,0.5
+zinophos,10
+vamidothion,1.1e+10
+cyanophos,1.8
+fenitrothion,83
+fosthiazate-1,75
+prothoate,150000
+azinphos-methyl,3400
+parathion,120
+etrimfos,16
+propetamphos,210
+mecarbam,11000
+phosmet,1200
+pirimiphos methyl,16
+triazophos,320
+azinphos-ethyl,100
+diazinon,46
+isoxathion,160
+fenamiphos,0.11
+tebupirimfos,3.5
+pirimiphos ethyl,0.18
+bensulide,1100
+ethyl p-nitrophenyl benzenethiophos-phonate,22
+isofenphos,120
+chlormephos,340
+chlorethoxyfos,2.3
+ronnel,0.48
+tolclofos-methyl,0.017
+methyl trithion,99
+trichloronate,0.9
+dichlofenthion,0.01
+chlorthiophos,8.2
+carbophenothion,49
+coumaphos,90
+methylchlorpyrifos,4.1
+dicapthon,100
+chlorthion,250
+isazophos,19
+chlorpyrifos,1.8
+chlorphoxim,2.3e+10
+phosazetim,2100
+dialifor,0.55
+bromophos,0.1
+bromophos-ethyl,0.62
+profenofos,450
+iodofenphos,2.2
+sesone,380000
+dioctyl sulfosuccinatesodium salt,2e+06
+dodecylbenzenesulfonic acid sodium,160
+fosetyl-aluminum,3.1e+09
+tetramethylsilane,2.3e-06
+tetraethylsilane,3.8e-06
+trimethylsilanol,0.07
+silicic acid,2.3e+10
+dimethylsilanediol,2800
+tetramethyl silicate,1.5
+pentamethyldisiloxanol,0.00073
+tetraethyl silicate,0.49
+trimethoxysilylpropyl methacrylate,33
+hexamethyldisiloxane,0.13
+octamethyltrisiloxane,3.4e-07
+decamethyltetrasiloxane,1.4e-07
+dodecamethylpentasiloxane,8.7e-08
+tetradecamethylhexasiloxane,2.7e-08
+hexadecamethylheptasiloxane,7.6e-09
+octadecamethyloctasiloxane,3.3e-09
+hexamethylcyclotrisiloxane,5.6e-06
+octamethylcyclotetrasiloxane,7.3e-07
+decamethylcyclopentasiloxane,2.8e-07
+dodecamethylcyclohexasiloxane,4e-07
+"tetramethyldisiloxane-1,3-diol",0.18
+"hexamethyltrisiloxane-1,5-diol",0.0034
+"octamethyltetrasiloxane-1,7-diol",0.0027
+pentamethylcyclotrisiloxanol,0.0011
+heptamethylcyclotetrasiloxanol,0.00023
+nonamethylcyclopentasiloxanol,7e-05
+hexamethyldisilazane,0.11
+dichloromethylsilane,0.00076
+etacelasil,2900
+zineb,2700
+ziram,16000
+diethyl arsine,2.2e-05
+lewisite,0.031
+phenyldichloroarsine,0.33
+adamsite,300
 2-amino-4-(methylselenyl)butyric acid,290000
-Tetramethylstannane,9.4e-06
-Tetraethylstannane,1.6e-05
-Tetrabutylstannane,1.6e-06
-Hexabutyldistannoxane,76
-Hexakis(2-methyl-2-phenylpropyl)distannoxane,0.49
-"1-(tricyclohexylstannyl)1h-1,2,4-triazole",4.6e+06
-Dimethylmercury,0.0013
-Diethylmercury,0.001
-Dipropylmercury,0.00056
-Diisopropylmercury,0.00039
-Dibutylmercury,0.00029
-Diphenylmercury,280
-Hydroxymethylmercury,980
-Phenyl mercuric ethanoate,15000
-Chloromethylmercury,0.22
-Chloroethylmercury,15
-Chloropropylmercury,12
-Chloroisopropylmercury,9.9
-Chlorobutylmercury,8.8
-Chloropentylmercury,7
-Chlorophenylmercury,380
+tetramethylstannane,9.4e-06
+tetraethylstannane,1.6e-05
+tetrabutylstannane,1.6e-06
+hexabutyldistannoxane,76
+hexakis(2-methyl-2-phenylpropyl)distannoxane,0.49
+"1-(tricyclohexylstannyl)1H-1,2,4-triazole",4.6e+06
+dimethylmercury,0.0013
+diethylmercury,0.001
+dipropylmercury,0.00056
+diisopropylmercury,0.00039
+dibutylmercury,0.00029
+diphenylmercury,280
+hydroxymethylmercury,980
+phenyl mercuric ethanoate,15000
+chloromethylmercury,0.22
+chloroethylmercury,15
+chloropropylmercury,12
+chloroisopropylmercury,9.9
+chlorobutylmercury,8.8
+chloropentylmercury,7
+chlorophenylmercury,380
 2-methoxyethylmercury chloride,3900
-Bromoethylmercury,3
-Bromophenylmercury,180
-Iodomethylmercury,2
-Iodoethylmercury,2.5
-Iodophenylmercury,0.9
-Tetramethyl lead,1.6e-05
-Ethyltrimethylplumbane,2.8e-05
-Diethyldimethylplumbane,2.1e-05
-Triethylmethylplumbane,1.6e-05
-Tetraethyllead,1.3e-05
-(z)-bicyclo[4.4.0]decane,0.00043
-(e)-bicyclo[4.4.0]decane,0.00027
-"(e)-1,3-pentadiene",8.2e-05
-(e)-1-propenylbenzene,0.0029
-(r)-1-methyl-4-(1-methylethenyl)-cyclohexene,0.00026
-(s)-1-methyl-4-(1-methylethenyl)-cyclohexene,0.00035
-"(z)-3,7-dimethyl-1,3,6-octatriene",0.0004
-"(e)-3,7-dimethyl-1,3,6-octatriene",0.0003
-(c6h5)2,0.034
-(e)-stilbene,0.014
-(s)-2-methyl-1-butanol,0.39
-"(e)-3,7-dimethyl-2,6-octadien-1-ol",0.17
-(z)-9-octadecen-1-ol,0.021
-"(2r,3r,4s)-pentane-1,2,3,4,5-pentol",3.9e+11
-"(2r,3s,4s)-pentane-1,2,3,4,5-pentol",4.6e+11
-"(2r,4r)-pentane-1,2,3,4,5-pentol",6.7e+11
-"(2s,3r,4r,5r)-hexane-1,2,3,4,5,6-hexol",6.6e+14
-"(2r,3r,4r,5r)-hexane-1,2,3,4,5,6-hexol",1.8e+15
-"(2r,3s,4r,5s)-hexane-1,2,3,4,5,6-hexol",9e+14
-(e)-2-butenal,0.5
-(e)-2-hexenal,0.14
-"(e,e)-2,4-hexadienal",1
-(z)-4-heptenal,0.088
-(e)-2-octenal,0.13
-(e)-2-nonenal,0.058
-(ch3)2chch2coch3,0.1
-(ch3)2chcooh,11
-(ch3)2chch2cooh,12
-(ch3)3ccooh,3.5
-(e)-2-butenoic acid,41
-(z)-2-butenoic acid,23
-"(z,z)-9,12-octadecadienoic acid",49
-"(z,z,z)-9,12,15-octadecatrienoic acid,methyl ester",0.28
-"(z,z)-9,12-octadecadienoic acid,methyl ester",0.062
-"(z)-9-octadecenoic acid, methyl ester",0.013
-"(z)-13-docosenoic acid, methyl ester",0.0053
-(e)-3-hexenyl ethanoate,0.033
-(z)-3-hexenyl ethanoate,0.031
-(z)-2-butenedioic acid dimethyl ester,23
-(c2h5o)2chch3,0.1
-(ch3)2c4h6o,0.031
-"(1r)-1,3,3-trimethylbicyclo[2.2.1]heptan-2-ol",0.36
-(ch 3 ) 2nh,0.56
-(c2h5)2nh,0.41
-(c3h7)2nh,0.11
-(c 4 h 9 ) 2nh,0.11
-(ch 3 ) 3n,0.095
-(c2h 5 ) 3n,0.071
-(ch2)6nh,6.4
-(rs)-α-2-naphthoxypropionanilide,160000
-(z)-13-docosenamide,3.5
-"(2r,4s)-2,4-pentanediol dinitrate",0.22
-"(2r,4r)-2,4-pentanediol dinitrate",0.14
-"(1r,2s)-1,2-cyclohexanediol dinitrate",1.3
-"(1r,2r)-1,2-cyclohexanediol dinitrate",0.52
-"(1r,3s)-1,3-cyclohexanediol dinitrate",3.4
-"(1r,3r)-1,3-cyclohexanediol dinitrate",0.68
-"(1r,2r)-1,2-cycloheptanediol dinitrate",0.88
-"(z)-1,2-dichloroethene",0.0026
-"(e)-1,2-dichloroethene",0.001
-(z)-1-chloro-2-butene,0.0012
-(e)-1-chloro-2-butene,0.0031
-"(z)-1,4-dichloro-2-butene",0.03
-"(e)-1,4-dichloro-2-butene",0.035
-"(r)-2-(2,4-dichlorophenoxy)propanoic",40000
-(r)-2-(4-chloro-2-methylphenoxy)propanoic acid,10000
-"(2e)-n,n’-bis(2,4,6-tribromophenyl)-2-butenediamide",9e+09
-(c3h7)2s,0.0016
-(c3h5)2s,0.0076
-(ch3)3sioh,0.22
+bromoethylmercury,3
+bromophenylmercury,180
+iodomethylmercury,2
+iodoethylmercury,2.5
+iodophenylmercury,0.9
+tetramethyl lead,1.6e-05
+ethyltrimethylplumbane,2.8e-05
+diethyldimethylplumbane,2.1e-05
+triethylmethylplumbane,1.6e-05
+tetraethyllead,1.3e-05
+(Z)-bicyclo[4.4.0]decane,0.00043
+(E)-bicyclo[4.4.0]decane,0.00027
+"(E)-1,3-pentadiene",8.2e-05
+(E)-1-propenylbenzene,0.0029
+(R)-1-methyl-4-(1-methylethenyl)-cyclohexene,0.00026
+(S)-1-methyl-4-(1-methylethenyl)-cyclohexene,0.00035
+"(Z)-3,7-dimethyl-1,3,6-octatriene",0.0004
+"(E)-3,7-dimethyl-1,3,6-octatriene",0.0003
+(C6H5)2,0.034
+(E)-stilbene,0.014
+(S)-2-methyl-1-butanol,0.39
+"(E)-3,7-dimethyl-2,6-octadien-1-ol",0.17
+(Z)-9-octadecen-1-ol,0.021
+"(2R,3R,4S)-pentane-1,2,3,4,5-pentol",3.9e+11
+"(2R,3S,4S)-pentane-1,2,3,4,5-pentol",4.6e+11
+"(2R,4R)-pentane-1,2,3,4,5-pentol",6.7e+11
+"(2S,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",6.6e+14
+"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",1.8e+15
+"(2R,3S,4R,5S)-hexane-1,2,3,4,5,6-hexol",9e+14
+(E)-2-butenal,0.5
+(E)-2-hexenal,0.14
+"(E,E)-2,4-hexadienal",1
+(Z)-4-heptenal,0.088
+(E)-2-octenal,0.13
+(E)-2-nonenal,0.058
+(CH3)2CHCH2COCH3,0.1
+(CH3)2CHCOOH,11
+(CH3)2CHCH2COOH,12
+(CH3)3CCOOH,3.5
+(E)-2-butenoic acid,41
+(Z)-2-butenoic acid,23
+"(Z,Z)-9,12-octadecadienoic acid",49
+"(Z,Z,Z)-9,12,15-octadecatrienoic acid,methyl ester",0.28
+"(Z,Z)-9,12-octadecadienoic acid,methyl ester",0.062
+"(Z)-9-octadecenoic acid, methyl ester",0.013
+"(Z)-13-docosenoic acid, methyl ester",0.0053
+(E)-3-hexenyl ethanoate,0.033
+(Z)-3-hexenyl ethanoate,0.031
+(Z)-2-butenedioic acid dimethyl ester,23
+(C2H5O)2CHCH3,0.1
+(CH3)2C4H6O,0.031
+"(1R)-1,3,3-trimethylbicyclo[2.2.1]heptan-2-ol",0.36
+(CH 3 ) 2NH,0.56
+(C2H5)2NH,0.41
+(C3H7)2NH,0.11
+(C 4 H 9 ) 2NH,0.11
+(CH 3 ) 3N,0.095
+(C2H 5 ) 3N,0.071
+(CH2)6NH,6.4
+(RS)-α-2-naphthoxypropionanilide,160000
+(Z)-13-docosenamide,3.5
+"(2R,4S)-2,4-pentanediol dinitrate",0.22
+"(2R,4R)-2,4-pentanediol dinitrate",0.14
+"(1R,2S)-1,2-cyclohexanediol dinitrate",1.3
+"(1R,2R)-1,2-cyclohexanediol dinitrate",0.52
+"(1R,3S)-1,3-cyclohexanediol dinitrate",3.4
+"(1R,3R)-1,3-cyclohexanediol dinitrate",0.68
+"(1R,2R)-1,2-cycloheptanediol dinitrate",0.88
+"(Z)-1,2-dichloroethene",0.0026
+"(E)-1,2-dichloroethene",0.001
+(Z)-1-chloro-2-butene,0.0012
+(E)-1-chloro-2-butene,0.0031
+"(Z)-1,4-dichloro-2-butene",0.03
+"(E)-1,4-dichloro-2-butene",0.035
+"(R)-2-(2,4-dichlorophenoxy)propanoic",40000
+(R)-2-(4-chloro-2-methylphenoxy)propanoic acid,10000
+"(2E)-N,N’-bis(2,4,6-tribromophenyl)-2-butenediamide",9e+09
+(C3H7)2S,0.0016
+(C3H5)2S,0.0076
+(CH3)3SiOH,0.22
 (2-propyl)-benzene,0.0012
 (1-methylpropyl)-benzene,0.71
 (2-methylpropyl)-benzene,0.0003
@@ -4399,7 +4399,7 @@ Tetraethyllead,1.3e-05
 (2-methylpropyl)-propanoate,0.018
 (2-methylpropyl)-2-methylpropanoate,0.01
 (phenoxymethyl)-oxirane,12
-"(1s-endo)-1,7,7-trimethyl-bicyclo[2.2.1]heptan-2-ol",0.45
+"(1S-endo)-1,7,7-trimethyl-bicyclo[2.2.1]heptan-2-ol",0.45
 (methylamino)-benzene,0.87
 (ethylamino)-benzene,1
 (dimethylamino)-benzene,0.17
